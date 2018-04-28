@@ -6,7 +6,7 @@
 #include <iostream>
 #include <QtCore>
 #include <QThread>
-
+#include <vector>
 
 #include "positions_and_dice.h"
 
@@ -36,6 +36,10 @@ private:
             QThread::msleep(msecs);
         }
     }
+    /*
+     * My private variables
+     * */
+    std::vector<int> winners = {0,0,0,0};
 public:
     int color;
     std::vector<int> player_positions;
@@ -47,6 +51,12 @@ public:
     game();
     void setGameDelay(unsigned int mili_seconds){ game_delay = mili_seconds; }
     void reset();
+    /*
+     * My public functions
+     * */
+    void winStat(int color); // - collect winners to vector
+    void printWinStat();                // - Print winner vector
+
 signals:
     void player1_start(positions_and_dice);
     void player2_start(positions_and_dice);

@@ -57,5 +57,6 @@ int main(int argc, char *argv[]){
         a.exec();
         g.reset();
     }
+    g.printWinStat();
     return 0;
 }

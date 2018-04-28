@@ -244,6 +244,7 @@ void game::turnComplete(bool win){
     turn_complete = true;
     if(game_complete){
         std::cout << "player: " << color << " won" << std::endl;
+        winStat(color); // Added 28/4 - collecting the winners in a vector
         emit declare_winner(color);
     }
 }
@@ -259,4 +260,25 @@ void game::run() {
     }
     emit close();
     QThread::exit();
+}
+void game::winStat(int color){ //added 28/4 - collect winners
+    if(color == 0){
+        winners[0]+=1;
+    }
+    if(color == 1){
+        winners[1]+=1;
+    }
+    if(color == 2){
+        winners[2]+=1;
+    }
+    if(color ==3){
+        winners[3]+=1;
+    }
+
+}
+void game::printWinStat(){
+    std::cout<<"Player 0 won: "<<winners[0]<<" times."<<std::endl;
+    std::cout<<"Player 1 won: "<<winners[1]<<" times."<<std::endl;
+    std::cout<<"Player 2 won: "<<winners[2]<<" times."<<std::endl;
+    std::cout<<"Player 3 won: "<<winners[3]<<" times."<<std::endl;
 }

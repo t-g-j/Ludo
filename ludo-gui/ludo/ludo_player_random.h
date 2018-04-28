@@ -3,7 +3,7 @@
 #include <QObject>
 #include <iostream>
 #include "positions_and_dice.h"
-
+#include "random"
 class ludo_player_random : public QObject {
     Q_OBJECT
 private:
