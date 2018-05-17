@@ -7,6 +7,7 @@
 
 
 using namespace std;
+
 class ludo_player_ga : public QObject {
     Q_OBJECT
 private:
@@ -38,7 +39,8 @@ struct Genome{
         float move2Globe = 0.1;
 
         // Container for my chromosomes
-        vector<float> Chromosomes {enterBoard,moveHome,sendEnemyHome,block,moveNormal,move2Star,move2Globe};
+        vector<float> Chromosomes {enterBoard,moveHome,sendEnemyHome,block,
+                    moveNormal,move2Star,move2Globe};
 };
 
 #endif // LUDO_PLAYER_GA_H

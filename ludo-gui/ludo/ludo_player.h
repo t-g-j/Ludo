@@ -1,5 +1,6 @@
 #ifndef LUDO_PLAYER_H
 #define LUDO_PLAYER_H
+
 #include <QObject>
 #include <iostream>
 #include "positions_and_dice.h"

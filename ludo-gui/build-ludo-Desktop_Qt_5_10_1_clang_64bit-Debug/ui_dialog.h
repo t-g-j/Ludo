@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'dialog.ui'
 **
-** Created by: Qt User Interface Compiler version 4.8.7
+** Created by: Qt User Interface Compiler version 5.10.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
@@ -11,7 +11,6 @@
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QAction>
-#include <QAction>
 #include <QtWidgets/QApplication>
 #include <QtWidgets/QButtonGroup>
 #include <QtWidgets/QDialog>
@@ -30,14 +29,14 @@ public:
     void setupUi(QDialog *Dialog)
     {
         if (Dialog->objectName().isEmpty())
-            Dialog->setObjectName(QString::fromUtf8("Dialog"));
+            Dialog->setObjectName(QStringLiteral("Dialog"));
         Dialog->resize(400, 300);
         horizontalLayout = new QHBoxLayout(Dialog);
         horizontalLayout->setSpacing(6);
         horizontalLayout->setContentsMargins(11, 11, 11, 11);
-        horizontalLayout->setObjectName(QString::fromUtf8("horizontalLayout"));
+        horizontalLayout->setObjectName(QStringLiteral("horizontalLayout"));
         graphicsView = new QGraphicsView(Dialog);
-        graphicsView->setObjectName(QString::fromUtf8("graphicsView"));
+        graphicsView->setObjectName(QStringLiteral("graphicsView"));
 
         horizontalLayout->addWidget(graphicsView);
 
@@ -49,7 +48,7 @@ public:
 
     void retranslateUi(QDialog *Dialog)
     {
-        Dialog->setWindowTitle(QApplication::translate("Dialog", "Dialog", 0));
+        Dialog->setWindowTitle(QApplication::translate("Dialog", "Dialog", nullptr));
     } // retranslateUi
 
 };
