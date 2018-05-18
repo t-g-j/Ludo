@@ -18,25 +18,87 @@ vector<bool> ludo_player_ga::exploreBoard(){
     roundNr++;
     cout<<"Round "<<roundNr<<endl;          // Debug purposes
 
-    vector<int> myPieces;                   //container for my pieces
-    vector<bool>moves;                      //Container for possible moves
+    vector<int> MyPiecesPos;                   //container for my pieces
+    vector<bool>moves{false,false,false,false,false,false,false,false};                      //Container for possible moves
 
     positions_and_dice relative;
     pos_start_of_turn = relative.pos;       //Getting all the positions of players
-
-
-    for(int pieces = 0; pieces < 4 ; pieces++){//Looking through each players possible moves
-        myPieces.push_back(pos_start_of_turn[pieces]);
-        cout<<"piece "<<pieces<<" pos: "<<myPieces[pieces]<<endl;
+    /**
+       Looking through each players piece position
+    **/
+    for(int pieces = 0; pieces < 4 ; pieces++){
+        MyPiecesPos.push_back(pos_start_of_turn[pieces]);
+        cout<<"piece "<<pieces<<" pos: "<<MyPiecesPos[pieces]<<endl;
     }
+
+    /**
+      looking at board
+      **/
+
+    Genome myPlayer; // not used right now
+    //cout<<myPlayer.Chromosomes.size()<<endl; // not used right now
+
+    for(int pieces = 0; pieces <4 ; pieces++){  // Lookign through each players possible moves
+/*
+        if(MyPiecesPos[pieces] == -1 ){              // EnterBoard
+            moves[0]= true;
+        }
+        if(MyPiecesPos[pieces] == -1 ){              // Move Home
+            moves[1]= true;
+        }
+        if(MyPiecesPos[pieces] == -1 ){              // SendEnemyHome
+            moves[2]= true;
+        }
+        if(MyPiecesPos[pieces] == -1 ){              // Block with friend
+            moves[3]= true;
+        }
+        if(MyPiecesPos[pieces] == -1 ){              // moveNormal forward
+            moves[4]= true;
+        }
+        if(MyPiecesPos[pieces] == -1 ){              // Move to next star
+            moves[5]= true;
+        }
+        if(MyPiecesPos[pieces] == -1 ){              // Move to next globe
+            moves[6]= true;
+        }
+        if(MyPiecesPos[pieces] == -1 ){              // Move in Safe zone
+            moves[7]= true;
+        }*/
+    }
+
+
+
+    // Goal = 99
+    // Home = -1
+    // First in goal strech = 51
+
+    // 57 is offboard
+
+
     //cout<<"******** "<<dice_roll<<" *******"<<endl;
     if(dice_roll == 6){
         cout<<"******** dice = 6 *******"<<endl;
-        moves.push_back(true);
+        moves[0]=true;
     }
+    /*
+    for(int i = 0; i<moves.size();i++){
+        cout<<moves[i];
+    }
+    cout<<endl;
+    */
+    int move_counter = 0;
+
+    for(int i = 0; i<myPlayer.Chromosomes.size(); i++){
+        //cout<<moves[i]<<endl;
+        if(moves[i]== true){
 
 
-   cout<<"Moves Possible: "<<moves.size()<<endl;
+            move_counter++;
+        }
+
+    }
+   cout<<"Moves Possible: "<<move_counter<<endl;
+   move_counter = 0;
 
     return moves;
 }
