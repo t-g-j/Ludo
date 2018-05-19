@@ -12,23 +12,39 @@ ludo_player_ga::ludo_player_ga():
 {
 }
 
-vector<bool> ludo_player_ga::exploreBoard(){
-    //cout<<"explored board"<<endl;
+vector<vector<bool>>  ludo_player_ga::exploreBoard(){
+   // cout<<"explored board"<<endl;
+
     static int roundNr;                     // Counter to debug how the dices are moved around.
     roundNr++;
     cout<<"Round "<<roundNr<<endl;          // Debug purposes
-
     vector<int> MyPiecesPos;                   //container for my pieces
-    vector<bool>moves{false,false,false,false,false,false,false,false};                      //Container for possible moves
+    vector<int> EnemyPiecesPos;                   //container for enemy pieces
+    /**
+       Initialize move matrix for each piece
+    **/
+    vector<vector<bool> >moves;
+    vector<bool> tmp{false,false,false,false,false,false,false,false,false};      //Container for possible moves
+    //vector<int> test{0,0,0,0,0,0,0,0};
+    for( int pieces = 0;pieces < 4; pieces++){
+        moves.push_back(tmp);
+    }
+
 
     positions_and_dice relative;
     pos_start_of_turn = relative.pos;       //Getting all the positions of players
     /**
        Looking through each players piece position
     **/
-    for(int pieces = 0; pieces < 4 ; pieces++){
+    for(int pieces = 0; pieces < 16; pieces++){
+        if(pieces < 4 ){
         MyPiecesPos.push_back(pos_start_of_turn[pieces]);
         cout<<"piece "<<pieces<<" pos: "<<MyPiecesPos[pieces]<<endl;
+        }
+
+        else{
+            EnemyPiecesPos.push_back(pos_start_of_turn[pieces]);
+        }
     }
 
     /**
@@ -39,31 +55,51 @@ vector<bool> ludo_player_ga::exploreBoard(){
     //cout<<myPlayer.Chromosomes.size()<<endl; // not used right now
 
     for(int pieces = 0; pieces <4 ; pieces++){  // Lookign through each players possible moves
-/*
-        if(MyPiecesPos[pieces] == -1 ){              // EnterBoard
-            moves[0]= true;
+
+        if(MyPiecesPos[pieces] == home && dice_roll == 6){        // EnterBoard
+            moves[pieces][0]= true;
+            cout<<"piece "<<pieces<<" enters board"<<endl;
+
         }
-        if(MyPiecesPos[pieces] == -1 ){              // Move Home
-            moves[1]= true;
+
+        if(MyPiecesPos[pieces]+dice_roll == goalStretch ){      // Move to safe zone/ goal stretch
+            moves[pieces][1]= true;
         }
+        /*
         if(MyPiecesPos[pieces] == -1 ){              // SendEnemyHome
-            moves[2]= true;
+            moves[pieces][2]= true;
         }
-        if(MyPiecesPos[pieces] == -1 ){              // Block with friend
-            moves[3]= true;
+        */
+        if(MyPiecesPos[pieces] +dice_roll == (MyPiecesPos[pieces+1] || MyPiecesPos[pieces-1] )  ){// Block with friend
+            moves[pieces][3]= true;
         }
-        if(MyPiecesPos[pieces] == -1 ){              // moveNormal forward
-            moves[4]= true;
+        /*
+        if(MyPiecesPos[pieces] == -1 ){              // moveNormal forward, Tjek der ikke står 2 brikker
+            moves[pieces][4]= true;
         }
         if(MyPiecesPos[pieces] == -1 ){              // Move to next star
-            moves[5]= true;
+            moves[pieces][5]= true;
         }
-        if(MyPiecesPos[pieces] == -1 ){              // Move to next globe
-            moves[6]= true;
+        */
+        if( dice_roll==6 ){              // Move to next globe
+            int index = MyPiecesPos[pieces];
+            if(index < 52){     //check only the indexes on the board, not in the home streatch
+                if(index % 13 == 0 || (index - 8) % 13 == 0){  //doesn't check for more people at same spot
+                    moves[pieces][6]= true;
+                }
+            }
+            //return false.
         }
-        if(MyPiecesPos[pieces] == -1 ){              // Move in Safe zone
-            moves[7]= true;
-        }*/
+
+        if(MyPiecesPos[pieces] > 51  ){              // Move in Safe zone
+            moves[pieces][7]= true;
+        }
+
+        if(MyPiecesPos[pieces] > 51 && MyPiecesPos[pieces]+dice_roll ==56 ){              // Finish piece
+            moves[pieces][8]= true;
+        }
+
+    //cout<<"exit for loop"<<endl;
     }
 
 
@@ -77,8 +113,22 @@ vector<bool> ludo_player_ga::exploreBoard(){
 
     //cout<<"******** "<<dice_roll<<" *******"<<endl;
     if(dice_roll == 6){
+        //cout<<"enter dice roll"<<endl;
+        moves[0][0]=true;
         cout<<"******** dice = 6 *******"<<endl;
-        moves[0]=true;
+    }
+
+    /**
+      Print move matrix
+      **/
+
+    for( int pieces = 0;pieces < 4; pieces++){
+
+        for(int aMove = 0; aMove<9; aMove ++){
+
+            cout<<moves[pieces][aMove]<<" ";
+        }
+        cout<<endl;
     }
     /*
     for(int i = 0; i<moves.size();i++){
@@ -87,30 +137,29 @@ vector<bool> ludo_player_ga::exploreBoard(){
     cout<<endl;
     */
     int move_counter = 0;
-
-    for(int i = 0; i<myPlayer.Chromosomes.size(); i++){
+    for(int i = 0; i<4; i++){
+       // cout<<"enter move counter"<<endl;
         //cout<<moves[i]<<endl;
-        if(moves[i]== true){
-
-
-            move_counter++;
+        if(moves[i][0]== true){
+         //   move_counter++;
         }
-
+    //cout<<"exit move counter"<<endl;
     }
-   cout<<"Moves Possible: "<<move_counter<<endl;
+   //cout<<"Moves Possible: "<<move_counter<<endl;
    move_counter = 0;
-
+    //cout<<"returning"<<endl;
     return moves;
+   //return tmp;
 }
 
 int ludo_player_ga::make_decision(){
-    vector<bool>myMoves;
+    vector<vector<bool>>myMoves;
     positions_and_dice piece;
     //piecePos = piece.pos;
     //cout<<"piece 1 " <<endl;
 
     myMoves = exploreBoard();
-    //cout<<"made decesion"<<endl;
+   // cout<<"made decesion"<<endl;
 
 
 
