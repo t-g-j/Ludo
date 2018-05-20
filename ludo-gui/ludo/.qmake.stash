@@ -40,3 +40,6 @@ QMAKE_CXX.COMPILER_MACROS = \
     QMAKE_GCC_PATCH_VERSION
 QMAKE_XCODE_DEVELOPER_PATH = /Applications/Xcode.app/Contents/Developer
 QMAKE_XCODE_VERSION = 9.3.1
+QMAKE_MAC_SDK.macosx.--show-sdk-path = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk
+QMAKE_MAC_SDK.macosx.--show-sdk-platform-path = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform
+QMAKE_MAC_SDK.macosx.--show-sdk-version = 10.13

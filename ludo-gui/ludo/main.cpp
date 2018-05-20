@@ -19,7 +19,7 @@ int main(int argc, char *argv[]){
     ludo_player_random p3, p4;
 
     game g;
-    g.setGameDelay(500); //if you want to see the game, set a delay
+    g.setGameDelay(200); //if you want to see the game, set a delay
 
     /* Add a GUI <-- remove the '/' to uncomment block */
     Dialog w;

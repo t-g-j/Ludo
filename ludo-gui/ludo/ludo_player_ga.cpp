@@ -8,10 +8,25 @@
 ludo_player_ga::ludo_player_ga():
     pos_start_of_turn(16),
     pos_end_of_turn(16),
-    dice_roll(0)
+    dice_roll(0),
+    rd(),   // Delete me
+    gen(rd()) // Delete me
 {
+ //   cout<<"init"<<endl;
+    //Genome->myChromosomes;
+    //initialize_random_genes(myChromosomes.Chromosomes);
 }
+vector<float> ludo_player_ga::initialize_random_genes(vector<float> SomeGenesToRandomize){
+    float tmp;
+    for(int i = 0; i < SomeGenesToRandomize.size(); i++){
+        tmp = rand() % 10 + 1;
+        SomeGenesToRandomize[i] = tmp/100;
 
+        cout<<"Chromosome "<<i<<" has weight of "<< SomeGenesToRandomize[i]<<endl;
+    }
+    SomeGenesToRandomize[0] +=0.9;
+    return SomeGenesToRandomize;
+}
 vector<vector<bool>>  ludo_player_ga::exploreBoard(){
    // cout<<"explored board"<<endl;
 
@@ -55,77 +70,67 @@ vector<vector<bool>>  ludo_player_ga::exploreBoard(){
     //cout<<myPlayer.Chromosomes.size()<<endl; // not used right now
 
     for(int pieces = 0; pieces <4 ; pieces++){  // Lookign through each players possible moves
-
-        int index = MyPiecesPos[pieces] + dice_roll; // easy reference for each piece
-
-        if(MyPiecesPos[pieces] == home && dice_roll == 6){        // EnterBoard
-            moves[pieces][0]= true;
-            cout<<"piece "<<pieces<<" enters board"<<endl;
-
-        }
-
-        if(MyPiecesPos[pieces]+dice_roll == goalStretch ){      // Move to safe zone/ goal stretch
-            moves[pieces][1]= true;
-        }
-
-        if(MyPiecesPos[pieces] + dice_roll == 5 ){              // SendEnemyHome
-            moves[pieces][2]= true;
-        }
-
-        if(MyPiecesPos[pieces] +dice_roll == (MyPiecesPos[pieces+1]
-                                              || MyPiecesPos[pieces-1] )  ){// Block with friend
-            moves[pieces][3]= true;
-        }
-
-        if(MyPiecesPos[pieces]+dice_roll< 52 &&
-                MyPiecesPos[pieces]+dice_roll !=-1  ){              // moveNormal forward, Tjek der ikke står 2 brikker
-            moves[pieces][4]= true;
-        }
-
-        if( index == 5  ||
-            index == 18 ||
-            index == 31 ||
-            index == 44 ||
-            index == 11 ||
-            index == 24 ||
-            index == 37 ||
-                index == 50 ){
-             moves[pieces][5]= true;
-        }
-
-        // Move onto globe - using index instead of Piece vector container
-        if(index < 52){     //check only the indexes on the board, not in the home streatch
-            if(index % 13 == 0 || (index - 8) % 13 == 0){  //doesn't check for more people at same spot
-                moves[pieces][6]= true;
+        if(MyPiecesPos[pieces] != 99){
+            //cout<<"loop pieces"<<endl;
+            int index = MyPiecesPos[pieces] + dice_roll; // easy reference for each piece
+            // EnterBoard
+            if(MyPiecesPos[pieces] == home && dice_roll == 6 && MyPiecesPos[pieces]!=goal){
+                moves[pieces][0]= true;
+                //cout<<"piece "<<pieces<<" enters board"<<endl;
+            }
+            // Move to safe zone/ goal stretch
+            if(MyPiecesPos[pieces]+dice_roll == goalStretch ){
+                moves[pieces][1]= true;
+            }
+            // SendEnemyHome
+            for( int enemyPiece = 0; enemyPiece < EnemyPiecesPos.size(); enemyPiece++)
+                if(MyPiecesPos[pieces] + dice_roll == EnemyPiecesPos[enemyPiece] ){
+                    moves[pieces][2]= true;
+                }
+            // Block with friend
+            if( ( MyPiecesPos[pieces] +dice_roll == (MyPiecesPos[pieces+1]
+                                                  || MyPiecesPos[pieces-1] )  )
+                    && MyPiecesPos[pieces] !=-1){
+                moves[pieces][3]= true;
+            }
+            // moveNormal forward, !! Tjek der ikke står 2 brikker !!
+            if(MyPiecesPos[pieces]+dice_roll< 52 &&
+                    MyPiecesPos[pieces] !=-1  ){
+                moves[pieces][4]= true;
+            }
+            // Move onto a star if possible
+            if( (index == 5  ||
+                index == 18 ||
+                index == 31 ||
+                index == 44 ||
+                index == 11 ||
+                index == 24 ||
+                index == 37 ||
+                    index == 50 ) && MyPiecesPos[pieces] !=-1){
+                 moves[pieces][5]= true;
+            }
+            // Move onto globe - using index instead of Piece vector container
+            if(index < 52 && MyPiecesPos[pieces] !=-1){     //check only the indexes on the board, not in the home streatch
+                if(index % 13 == 0 || (index - 8) % 13 == 0){  //doesn't check for more people at same spot
+                    moves[pieces][6]= true;
+                }
+            }
+            // Move in Safe zone
+            if(MyPiecesPos[pieces] > 51  ){
+                moves[pieces][7]= true;
+            }
+            // Finish piece
+            if(MyPiecesPos[pieces] > 51 && MyPiecesPos[pieces]+dice_roll ==56 ){
+                moves[pieces][8]= true;
             }
         }
-
-
-
-        if(MyPiecesPos[pieces] > 51  ){              // Move in Safe zone
-            moves[pieces][7]= true;
-        }
-
-        if(MyPiecesPos[pieces] > 51 && MyPiecesPos[pieces]+dice_roll ==56 ){              // Finish piece
-            moves[pieces][8]= true;
-        }
-
-    //cout<<"exit for loop"<<endl;
     }
-
-
-
-    // Goal = 99
-    // Home = -1
-    // First in goal strech = 51
-
-    // 57 is offboard
 
 
     //cout<<"******** "<<dice_roll<<" *******"<<endl;
     if(dice_roll == 6){
         //cout<<"enter dice roll"<<endl;
-        moves[0][0]=true;
+        //moves[0][0]=true;
         cout<<"******** dice = 6 *******"<<endl;
     }
 
@@ -162,42 +167,110 @@ vector<vector<bool>>  ludo_player_ga::exploreBoard(){
     return moves;
    //return tmp;
 }
+int ludo_player_ga::calculateScores(vector<vector<bool> > availibleMoves, vector<float> Chromosome){
+    double piece1Fitness = 0;
+    double piece2Fitness = 0;
+    double piece3Fitness = 0;
+    double piece4Fitness = 0;
+    vector<float> container;
+    int current = 0;
+    int prev = 0;
+    int choosenPiece = 0;
+    //for(int pieces = 0; pieces < 4; pieces++){ // Loop through pieces
+        // Det her virker ikke som det skal. jeg skal kigge på brikken lidt bedre.
+        for(int move = 0; move < Chromosome.size() ; move ++){ // Loop through availeble moves
+            // Multiply by 1 so weights can be changed appropiately i Chromosones
+            if(availibleMoves[0][move] == true){
+                piece1Fitness+=1* Chromosome[move];
+            }
+            if(availibleMoves[1][move] == true){
+                piece2Fitness+=1* Chromosome[move];
+            }
+            if(availibleMoves[2][move] == true){
+                piece3Fitness+=1* Chromosome[move];
+            }
+            if(availibleMoves[3][move] == true){
+                piece4Fitness+=1* Chromosome[move];
+            }
+        }
+    //}
+    container.push_back(piece1Fitness);
+    container.push_back(piece2Fitness);
+    container.push_back(piece3Fitness);
+    container.push_back(piece4Fitness);
+    /* Going thorugh the different fitness scores to see which is the biggest and then choose that one */
+    for(int i = 0; i<container.size();i++){
+        cout<<"Piece "<<i<<" scores "<<container[i]<<endl;
+        /*
+        current = container[i];
+        choosenPiece = i;
+        if(i >= 1){
+            prev = container[i-1];
+            if(current > prev){
+                choosenPiece = i;
+            }
+        }*/
+    }
+    auto biggest = std::max_element(std::begin(container), std::end(container));
+        //std::cout << "Max element is " << *biggest;
+
+    choosenPiece = std::distance(std::begin(container), biggest) ;
+    cout<<"chose "<<choosenPiece<<endl;
+    return choosenPiece;
+
+
+
+
+}
 
 int ludo_player_ga::make_decision(){
     vector<vector<bool>>myMoves;
-    positions_and_dice piece;
+    //Genome myPlayer;
+    static vector<float> Chromosomes;
+    int choice;
+    // DEBUGGING STUFF
+    //positions_and_dice piece;
     //piecePos = piece.pos;
     //cout<<"piece 1 " <<endl;
+    if(init_flag == true){
+        Chromosomes = initialize_random_genes(myChromosomes.Chromosomes);
+        init_flag = false;
+        }
 
     myMoves = exploreBoard();
+
+    //cout<<Chromosomes[8]<<endl;
+
+    choice = calculateScores(myMoves,Chromosomes);
    // cout<<"made decesion"<<endl;
 
 
-
+    /*
+    std::vector<int> valid_moves;
     if(dice_roll == 6){
         for(int i = 0; i < 4; ++i){
             if(pos_start_of_turn[i]<0){
-                return i;
-            }
-        }
-        for(int i = 0; i < 4; ++i){
-            if(pos_start_of_turn[i]>=0 && pos_start_of_turn[i] != 99){
-                return i;
-            }
-        }
-    } else {
-        for(int i = 0; i < 4; ++i){
-            if(pos_start_of_turn[i]>=0 && pos_start_of_turn[i] != 99){
-                return i;
-            }
-        }
-        for(int i = 0; i < 4; ++i){ //maybe they are all locked in
-            if(pos_start_of_turn[i]<0){
-                return i;
+                valid_moves.push_back(i);
             }
         }
     }
-    return -1;
+    for(int i = 0; i < 4; ++i){
+        if(pos_start_of_turn[i]>=0 && pos_start_of_turn[i] != 99){
+            valid_moves.push_back(i);
+        }
+    }
+    if(valid_moves.size()==0){
+        for(int i = 0; i < 4; ++i){
+            if(pos_start_of_turn[i] != 99){
+                valid_moves.push_back(i);
+            }
+        }
+    }
+    std::uniform_int_distribution<> piece(0, valid_moves.size()-1);
+    int select = piece(gen);
+    return valid_moves[select];
+    */
+    return choice;
 
 }
 
