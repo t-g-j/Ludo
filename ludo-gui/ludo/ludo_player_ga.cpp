@@ -56,6 +56,8 @@ vector<vector<bool>>  ludo_player_ga::exploreBoard(){
 
     for(int pieces = 0; pieces <4 ; pieces++){  // Lookign through each players possible moves
 
+        int index = MyPiecesPos[pieces] + dice_roll; // easy reference for each piece
+
         if(MyPiecesPos[pieces] == home && dice_roll == 6){        // EnterBoard
             moves[pieces][0]= true;
             cout<<"piece "<<pieces<<" enters board"<<endl;
@@ -65,31 +67,40 @@ vector<vector<bool>>  ludo_player_ga::exploreBoard(){
         if(MyPiecesPos[pieces]+dice_roll == goalStretch ){      // Move to safe zone/ goal stretch
             moves[pieces][1]= true;
         }
-        /*
-        if(MyPiecesPos[pieces] == -1 ){              // SendEnemyHome
+
+        if(MyPiecesPos[pieces] + dice_roll == 5 ){              // SendEnemyHome
             moves[pieces][2]= true;
         }
-        */
-        if(MyPiecesPos[pieces] +dice_roll == (MyPiecesPos[pieces+1] || MyPiecesPos[pieces-1] )  ){// Block with friend
+
+        if(MyPiecesPos[pieces] +dice_roll == (MyPiecesPos[pieces+1]
+                                              || MyPiecesPos[pieces-1] )  ){// Block with friend
             moves[pieces][3]= true;
         }
-        /*
-        if(MyPiecesPos[pieces] == -1 ){              // moveNormal forward, Tjek der ikke står 2 brikker
+
+        if(MyPiecesPos[pieces]+dice_roll< 52 &&
+                MyPiecesPos[pieces]+dice_roll !=-1  ){              // moveNormal forward, Tjek der ikke står 2 brikker
             moves[pieces][4]= true;
         }
-        if(MyPiecesPos[pieces] == -1 ){              // Move to next star
-            moves[pieces][5]= true;
+
+        if( index == 5  ||
+            index == 18 ||
+            index == 31 ||
+            index == 44 ||
+            index == 11 ||
+            index == 24 ||
+            index == 37 ||
+                index == 50 ){
+             moves[pieces][5]= true;
         }
-        */
-        if( dice_roll==6 ){              // Move to next globe
-            int index = MyPiecesPos[pieces];
-            if(index < 52){     //check only the indexes on the board, not in the home streatch
-                if(index % 13 == 0 || (index - 8) % 13 == 0){  //doesn't check for more people at same spot
-                    moves[pieces][6]= true;
-                }
+
+        // Move onto globe - using index instead of Piece vector container
+        if(index < 52){     //check only the indexes on the board, not in the home streatch
+            if(index % 13 == 0 || (index - 8) % 13 == 0){  //doesn't check for more people at same spot
+                moves[pieces][6]= true;
             }
-            //return false.
         }
+
+
 
         if(MyPiecesPos[pieces] > 51  ){              // Move in Safe zone
             moves[pieces][7]= true;
