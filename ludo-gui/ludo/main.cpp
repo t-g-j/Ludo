@@ -15,13 +15,14 @@ int main(int argc, char *argv[]){
 
     //instanciate the players here
     ludo_player_ga p1;
-    ludo_player p2;
-    ludo_player_random p3, p4;
+    //ludo_player p2;
+    ludo_player_random p2, p3, p4;
 
     game g;
-    g.setGameDelay(200); //if you want to see the game, set a delay
+    g.setGameDelay(0); //if you want to see the game, set a delay
 
     /* Add a GUI <-- remove the '/' to uncomment block */
+    /*
     Dialog w;
     QObject::connect(&g,SIGNAL(update_graphics(std::vector<int>)),&w,SLOT(update_graphics(std::vector<int>)));
     QObject::connect(&g,SIGNAL(set_color(int)),                   &w,SLOT(get_color(int)));
@@ -38,6 +39,9 @@ int main(int argc, char *argv[]){
     QObject::connect(&p1,SIGNAL(select_piece(int)),                &g, SLOT(movePiece(int)));
     QObject::connect(&g, SIGNAL(player1_end(std::vector<int>)),    &p1,SLOT(post_game_analysis(std::vector<int>)));
     QObject::connect(&p1,SIGNAL(turn_complete(bool)),              &g, SLOT(turnComplete(bool)));
+//insert in order to end game
+    QObject::connect(&g,SIGNAL(declare_winner(int)),                &p1,SLOT(updateFitnessScore(int) ) );
+
 
     QObject::connect(&g, SIGNAL(player2_start(positions_and_dice)),&p2,SLOT(start_turn(positions_and_dice)));
     QObject::connect(&p2,SIGNAL(select_piece(int)),                &g, SLOT(movePiece(int)));
@@ -54,11 +58,12 @@ int main(int argc, char *argv[]){
     QObject::connect(&g, SIGNAL(player4_end(std::vector<int>)),    &p4,SLOT(post_game_analysis(std::vector<int>)));
     QObject::connect(&p4,SIGNAL(turn_complete(bool)),              &g, SLOT(turnComplete(bool)));
 
-    for(int i = 0; i < 10; ++i){ //test 10 games
+    for(int i = 0; i < 5000; ++i){
         g.start();
         a.exec();
         g.reset();
     }
     g.printWinStat();
+   // g.finishedTraining(1);
     return 0;
 }

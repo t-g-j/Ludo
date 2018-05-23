@@ -7,6 +7,7 @@
 #include <QtCore>
 #include <QThread>
 #include <vector>
+#include <fstream>
 
 #include "positions_and_dice.h"
 
@@ -39,9 +40,10 @@ private:
     /*
      * My private variables
      * */
-    std::vector<int> winners = {0,0,0,0};
+
 public:
     int color;
+    std::vector<int> winners = {0,0,0,0};
     std::vector<int> player_positions;
     void rollDice(){
         std::uniform_int_distribution<> dis(1, 6);
@@ -54,6 +56,7 @@ public:
     /*
      * My public functions
      * */
+
     void winStat(int color); // - collect winners to vector
     void printWinStat();                // - Print winner vector
 
@@ -72,11 +75,17 @@ signals:
     void set_color(int);
     void set_dice_result(int);
     void declare_winner(int);
+    //void finishedTraining(int useless);
     void close();
+
+
 
 public slots:
     void turnComplete(bool win);
     void movePiece(int relative_piece); //check game rules
+    /* my add-ons*/
+
+
 protected:
     void run();
 };

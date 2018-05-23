@@ -63,10 +63,6 @@ private:
     std::vector<int> pos_end_of_turn;
 
 
-    std::random_device rd; // Delete me
-    std::mt19937 gen;   // Delete me
-
-
 
     int dice_roll;
     /*** GA functions **/
