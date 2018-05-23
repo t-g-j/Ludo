@@ -15,6 +15,7 @@
 #define ChromosomePool 50
 #define chromosimeLifeTime 20
 #define Training true
+#define TOTALGAMES 5000
 
 using namespace std;
 
@@ -63,10 +64,6 @@ private:
     std::vector<int> pos_end_of_turn;
 
 
-    std::random_device rd; // Delete me
-    std::mt19937 gen;   // Delete me
-
-
 
     int dice_roll;
     /*** GA functions **/
@@ -79,6 +76,8 @@ private:
     void printGeneration();
     void test();
     void printMoves();
+    void statistics();
+
 
 
     void sortFitness();
@@ -91,6 +90,16 @@ private:
 
     long long int roundNr;
     int chromosomeCounterGlobal = 0;
+
+    /* Statistic variables */
+    int totalGenWins;
+    int generationCounter;
+    vector<float>biggest_win;
+    vector<int> GenerationWins;
+    vector<vector<float> > biggest_win_Weights;
+
+
+    int myTotalGames;
 
     /* constants */
     const int goalStretch = 51;

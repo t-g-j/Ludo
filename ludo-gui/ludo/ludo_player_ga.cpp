@@ -294,8 +294,6 @@ void ludo_player_ga::printGeneration(){
 
 void ludo_player_ga::mutateGenes(double influenceFactor){
     int mutatees = ChromosomePool * 0.7;
-    double randNumber;
-    double giveOrTake;
     unsigned seed = std::chrono::system_clock::now().time_since_epoch().count(); // Get a "random" seed
 
     shuffle (generation.begin(), generation.end(), std::default_random_engine(seed)); // Shuffle chromosomes
@@ -352,6 +350,7 @@ void ludo_player_ga::updateFitnessScore(int winner){
     static long long int totalGames = 0;
     static int gene= 0;
     int tmp = winner;
+    int tmpWinnerContainer = 0;
     //cout<<" chromosomeCounter\t"<<chromosomeCounter<<endl;
     //cout<<" chromosomeCounteGlobal\t"<<chromosomeCounterGlobal<<endl;
     /* Winner statistics*/
@@ -372,10 +371,15 @@ void ludo_player_ga::updateFitnessScore(int winner){
 
     roundNr = 0;
 
-    if(gameChromoCounter == chromosimeLifeTime-1){
-        //cout<<"HERE again"<<endl;
+    if(gameChromoCounter == chromosimeLifeTime-1){          // End of That genotypes lifeTime
+
         generation[chromosomeCounter].fitnessScore= myWinners[0] / (chromosimeLifeTime);
         cout<<"i've won "<<myWinners[0]<<" out of total "<<gameChromoCounter<<endl<<endl;
+
+        totalGenWins+=myWinners[0];                     //saving all the times i won
+
+
+
 
         //cout<<"delete me"<<myWinners[0]; //(gameCounter+1)<<endl;
         //cout<<"PLAYED 10 GAMES"<<endl;
@@ -388,54 +392,59 @@ void ludo_player_ga::updateFitnessScore(int winner){
         }
         cout<<endl<<"Game nr: "<<totalGames<<endl;
         cout<<"TRYING Chromosome NR. "<<chromosomeCounter<<endl;
-        if(chromosomeCounter == ChromosomePool-1){
+
+        if(chromosomeCounter == ChromosomePool-1){              // Changing generation
+            GenerationWins.push_back(totalGenWins);             // Saving this generations wins
+            totalGenWins = 0;                                   // resetting total wins for next generation
+
             generation[chromosomeCounter].fitnessScore= myWinners[0] / (chromosimeLifeTime);
             myWinners[0] = 0;
 
 
 
-            //cout<<endl<<"fitness score in IF "<<generation[chromosomeCounter].fitnessScore;
-            //cout<<"counter"<<chromosomeCounter<<endl;
-
             cout<<"Generation: "<<gene<<endl;
+            generationCounter = gene;
 
             sortFitness();
-            cout<<""<<endl;
+            biggest_win.push_back(generation[ChromosomePool-1].fitnessScore);
+            biggest_win_Weights.push_back(generation[ChromosomePool-1].Weights);
 
+            cout<<""<<endl;         
             for(int chromo = 0; chromo < ChromosomePool ;chromo++){
                 cout<<"fitness after sort "<<generation[chromo].fitnessScore<<endl;
             }
-
-            /*
-            cout<<"after sort min "<<generation[0].fitnessScore<<endl;
-            cout<<"after sort max "<<generation[ChromosomePool-1].fitnessScore<<endl;
-            */
             cout<<""<<endl;
 
             vector<float>parent1 = generation[ChromosomePool-1].Weights;
             vector<float>parent2 = generation[ChromosomePool-2].Weights;
             makeChildren(parent1,parent2);
             mutateGenes(0.2);
-            //printGeneration();
+
             chromosomeCounter = 0;
-            //printMoves();
+
+
             gene+=1;
 
+
         }
-        //cout<<"a game has ended \t"<<gameCounter+1<<endl;
+
         gameChromoCounter=0;
     }
     gameChromoCounter+=1;
-    //cout<<"a game has ended \t"<<gameCounter<<endl;
-    //cout<<"winner"<<winner<<endl;
+
     chromosomeCounterGlobal = chromosomeCounter;
     totalGames+=1;
-    if(totalGames==19999){
+
+    if(totalGames==TOTALGAMES-1){ // Round of a traingset by saving data into file
         printGeneration();
+        /*
         cout<<"Chromosome "<<gameChromoCounter<<"\tFitness"<<endl;
         for(int chromo = 0; chromo < ChromosomePool; chromo++){
             cout<<"\t"<<generation[chromo].fitnessScore<<endl;
         }
+        */
+        myTotalGames = totalGames;
+        statistics();
     }
 
 }
@@ -460,6 +469,13 @@ void ludo_player_ga::makeChildren(vector<float>parent1,vector<float>parent2){
         }
         //printGeneration();
 
+}
+void ludo_player_ga::statistics(){
+    // Loop generations
+    for(int i = 0 ; i <= generationCounter; i++){
+        cout<<"biggest win\t"<<biggest_win[i]<<endl;
+        cout<<"Generation win\t"<<GenerationWins[i]<<endl;
+    }
 }
 void ludo_player_ga::sortFitness(){
     sort(generation.begin(),generation.end(),less_than_key() );
