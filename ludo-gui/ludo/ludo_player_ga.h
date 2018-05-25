@@ -8,28 +8,28 @@
 #include <vector>
 #include "random"
 #include "string"
-
+#include <chrono>
 #include "game.h"
 
 
-#define ChromosomePool 50
-#define chromosimeLifeTime 20
-#define Training true
-#define TOTALGAMES 5000
+#define ChromosomePool 100
+#define chromosimeLifeTime 1500
+#define Training false
+#define TOTALGAMES 1000000
 
 using namespace std;
 
 struct Chromosomes{
     // Adds a many characteristics as thinkeble for the ludo player.
-        float enterBoard = 0.8;
-        float moveToSafeZone = 0.1;
-        float sendEnemyHome = 0.1;
-        float block = 0.1;
-        float moveNormal = 0.1;
-        float move2Star = 0.1;
-        float move2Globe = 0.1;
-        float moveInSafeZone = 0.1;
-        float finishPiece = 0.1;
+        float enterBoard = 0.829248;
+        float moveToSafeZone = 0.504855;
+        float sendEnemyHome = 0.229248;
+        float block = 0.153641;
+        float moveNormal = 0.304855;
+        float move2Star = 0.529248;
+        float move2Globe = -0.0195384;
+        float moveInSafeZone = 0.204855;
+        float finishPiece = 0.780462;
 
         // Container for my chromosomes
         vector<float> Weights {enterBoard,moveToSafeZone,sendEnemyHome,block,

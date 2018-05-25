@@ -194,16 +194,16 @@ int ludo_player_ga::calculateScores(vector<vector<bool> > availibleMoves, vector
         for(int move = 0; move < Weights.size() ; move ++){ // Loop through availeble moves
             // Multiply by 1 so weights can be changed appropiately i Chromosones
             if(availibleMoves[0][move] == true){
-                piece1Fitness+=1 * Weights[move];
+                piece1Fitness+=  Weights[move];
             }
             if(availibleMoves[1][move] == true){
-                piece2Fitness+=1 * Weights[move];
+                piece2Fitness+= Weights[move];
             }
             if(availibleMoves[2][move] == true){
-                piece3Fitness+=1 * Weights[move];
+                piece3Fitness+= Weights[move];
             }
             if(availibleMoves[3][move] == true){
-                piece4Fitness+=1 * Weights[move];
+                piece4Fitness+= Weights[move];
             }
         }
     //}
@@ -242,8 +242,9 @@ int ludo_player_ga::make_decision(){
     //positions_and_dice piece;
     //piecePos = piece.pos;
     //cout<<"piece 1 " <<endl;
+    if(Training ==true){
 
-    if(init_flag == true){
+        if(init_flag == true){
         initialize_population();
         generation = initialize_random_genes(generation);
 
@@ -259,10 +260,11 @@ int ludo_player_ga::make_decision(){
 
     myMoves = exploreBoard();
 
-    if(Training !=true){
+
         Perfect_GA_Player myPlayer;
         choice = calculateScores(myMoves,myPlayer.Weights);
     }else{
+        myMoves = exploreBoard();
     choice = calculateScores(myMoves,generation[chromosomeCounterGlobal].Weights);
     }
 
@@ -304,7 +306,7 @@ void ludo_player_ga::mutateGenes(double influenceFactor){
                double number = distribution(generator);
                //randNumber = ((double) rand() / (RAND_MAX));    // Random number between 0 & 1
                 //if(randNumber >= 0.5){
-               generation[i].Weights[gene]+= number; // add mutation to gene
+               generation[i].Weights[gene]= number; // add mutation to gene
                /*
                     giveOrTake = ((double) rand() / (RAND_MAX)); // Decide to add or subtrackt mutation
                     if(giveOrTake >= 0.5){ //add a little something to gene
@@ -370,83 +372,83 @@ void ludo_player_ga::updateFitnessScore(int winner){
     }
 
     roundNr = 0;
-
-    if(gameChromoCounter == chromosimeLifeTime-1){          // End of That genotypes lifeTime
-
-        generation[chromosomeCounter].fitnessScore= myWinners[0] / (chromosimeLifeTime);
-        cout<<"i've won "<<myWinners[0]<<" out of total "<<gameChromoCounter<<endl<<endl;
-
-        totalGenWins+=myWinners[0];                     //saving all the times i won
-
-
-
-
-        //cout<<"delete me"<<myWinners[0]; //(gameCounter+1)<<endl;
-        //cout<<"PLAYED 10 GAMES"<<endl;
-        //cout<<"Fitness score "<<generation[chromosomeCounter].fitnessScore<<endl;
-
-        chromosomeCounter+=1;
-
-        if(chromosomeCounter<ChromosomePool){
-            myWinners[0] = 0;
-        }
-        cout<<endl<<"Game nr: "<<totalGames<<endl;
-        cout<<"TRYING Chromosome NR. "<<chromosomeCounter<<endl;
-
-        if(chromosomeCounter == ChromosomePool-1){              // Changing generation
-            GenerationWins.push_back(totalGenWins);             // Saving this generations wins
-            totalGenWins = 0;                                   // resetting total wins for next generation
+    if(Training == true){
+        if(gameChromoCounter == chromosimeLifeTime-1){          // End of That genotypes lifeTime
 
             generation[chromosomeCounter].fitnessScore= myWinners[0] / (chromosimeLifeTime);
-            myWinners[0] = 0;
+            cout<<"i've won "<<myWinners[0]<<" out of total "<<gameChromoCounter<<endl<<endl;
+
+            totalGenWins+=myWinners[0];                     //saving all the times i won
 
 
 
-            cout<<"Generation: "<<gene<<endl;
-            generationCounter = gene;
 
-            sortFitness();
-            biggest_win.push_back(generation[ChromosomePool-1].fitnessScore);
-            biggest_win_Weights.push_back(generation[ChromosomePool-1].Weights);
+            //cout<<"delete me"<<myWinners[0]; //(gameCounter+1)<<endl;
+            //cout<<"PLAYED 10 GAMES"<<endl;
+            //cout<<"Fitness score "<<generation[chromosomeCounter].fitnessScore<<endl;
 
-            cout<<""<<endl;         
-            for(int chromo = 0; chromo < ChromosomePool ;chromo++){
-                cout<<"fitness after sort "<<generation[chromo].fitnessScore<<endl;
+            chromosomeCounter+=1;
+
+            if(chromosomeCounter<ChromosomePool){
+                myWinners[0] = 0;
             }
-            cout<<""<<endl;
+            //cout<<endl<<"Game nr: "<<totalGames<<endl;
+            //cout<<"TRYING Chromosome NR. "<<chromosomeCounter<<endl;
 
-            vector<float>parent1 = generation[ChromosomePool-1].Weights;
-            vector<float>parent2 = generation[ChromosomePool-2].Weights;
-            makeChildren(parent1,parent2);
-            mutateGenes(0.2);
+            if(chromosomeCounter == ChromosomePool-1){              // Changing generation
+                GenerationWins.push_back(totalGenWins);             // Saving this generations wins
+                totalGenWins = 0;                                   // resetting total wins for next generation
 
-            chromosomeCounter = 0;
-
-
-            gene+=1;
+                generation[chromosomeCounter].fitnessScore= myWinners[0] / (chromosimeLifeTime);
+                myWinners[0] = 0;
 
 
+
+                cout<<"Generation: "<<gene<<endl;
+                generationCounter = gene;
+
+                sortFitness();
+                biggest_win.push_back(generation[ChromosomePool-1].fitnessScore);   // saving the higest winrate
+                biggest_win_Weights.push_back(generation[ChromosomePool-1].Weights); // pushing the best winrate weights
+
+                cout<<""<<endl;
+                for(int chromo = 0; chromo < ChromosomePool ;chromo++){
+                    cout<<"fitness after sort "<<generation[chromo].fitnessScore<<endl;
+                }
+                cout<<""<<endl;
+
+                vector<float>parent1 = generation[ChromosomePool-1].Weights;
+                vector<float>parent2 = generation[ChromosomePool-2].Weights;
+                makeChildren(parent1,parent2);
+                mutateGenes(0.2);
+
+                chromosomeCounter = 0;
+
+
+                gene+=1;
+
+
+            }
+
+            gameChromoCounter=0;
         }
+        gameChromoCounter+=1;
 
-        gameChromoCounter=0;
-    }
-    gameChromoCounter+=1;
+        chromosomeCounterGlobal = chromosomeCounter;
+        totalGames+=1;
 
-    chromosomeCounterGlobal = chromosomeCounter;
-    totalGames+=1;
-
-    if(totalGames==TOTALGAMES-1){ // Round of a traingset by saving data into file
-        printGeneration();
-        /*
-        cout<<"Chromosome "<<gameChromoCounter<<"\tFitness"<<endl;
-        for(int chromo = 0; chromo < ChromosomePool; chromo++){
-            cout<<"\t"<<generation[chromo].fitnessScore<<endl;
+        if(totalGames==TOTALGAMES-1){ // Round of a traingset by saving data into file
+            printGeneration();
+            /*
+            cout<<"Chromosome "<<gameChromoCounter<<"\tFitness"<<endl;
+            for(int chromo = 0; chromo < ChromosomePool; chromo++){
+                cout<<"\t"<<generation[chromo].fitnessScore<<endl;
+            }
+            */
+            myTotalGames = totalGames;
+            statistics();
         }
-        */
-        myTotalGames = totalGames;
-        statistics();
     }
-
 }
 void ludo_player_ga::makeChildren(vector<float>parent1,vector<float>parent2){
         //generation.clear();
@@ -455,16 +457,21 @@ void ludo_player_ga::makeChildren(vector<float>parent1,vector<float>parent2){
     //take two best childen and scramble their genes into a new ChromosomePool
         for(int chromo = 0; chromo <ChromosomePool; chromo++){
             generation[chromo].Weights.clear();
+
             for(int gene = 0; gene <parent1.size(); gene ++){
+                //generation[chromo].Weights.pop_back();
+                //cout<<"pre" <<generation[chromo].Weights[gene]<<endl;
                 randNumber = ((double) rand() / (RAND_MAX));
-                //cout<<randNumber<<" ";
+                //cout<<"rand "<<randNumber<<" "<<endl;
                 if(randNumber >0.5 ){   // Randomly chose parent 1
                     newGenWeight = parent1[gene] ;//random new gene from a parent
                     }
                 else{                   // Randomly chose parent 2
                     newGenWeight = parent2[gene];//random new gene from a parent
                 }
+              //cout<<"rand " <<newGenWeight<<endl;
               generation[chromo].Weights.push_back(newGenWeight);
+              //cout<<"post " <<generation[chromo].Weights[gene]<<endl;
             }
         }
         //printGeneration();
@@ -472,10 +479,15 @@ void ludo_player_ga::makeChildren(vector<float>parent1,vector<float>parent2){
 }
 void ludo_player_ga::statistics(){
     // Loop generations
-    for(int i = 0 ; i <= generationCounter; i++){
-        cout<<"biggest win\t"<<biggest_win[i]<<endl;
+    for(int i = 0 ; i < generationCounter; i++){
+        cout<<"biggest win \t"<<biggest_win[i]<<endl;
         cout<<"Generation win\t"<<GenerationWins[i]<<endl;
+        cout<<" Most wins weigths"<<endl;
+        for(int i =0;  i< biggest_win_Weights[generationCounter].size() ; i++){
+            cout<<"weights\t"<<biggest_win_Weights[generationCounter][i]<<endl;
+        }
     }
+
 }
 void ludo_player_ga::sortFitness(){
     sort(generation.begin(),generation.end(),less_than_key() );
