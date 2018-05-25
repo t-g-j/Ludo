@@ -1,0 +1,6562 @@
+Chromosome 0
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.8
+Gene 3 has weight of 0.6
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.3
+Gene 8 has weight of 1
+Chromosome 1
+Gene 0 has weight of 0.2
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.8
+Gene 3 has weight of 0.1
+Gene 4 has weight of 1
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.7
+Chromosome 2
+Gene 0 has weight of 0.3
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.9
+Gene 4 has weight of 0.8
+Gene 5 has weight of 1
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.3
+Chromosome 3
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.8
+Gene 2 has weight of 0.6
+Gene 3 has weight of 1
+Gene 4 has weight of 0.3
+Gene 5 has weight of 0.3
+Gene 6 has weight of 0.9
+Gene 7 has weight of 1
+Gene 8 has weight of 0.8
+Chromosome 4
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.3
+Gene 4 has weight of 1
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.2
+Gene 7 has weight of 1
+Gene 8 has weight of 0.5
+Chromosome 5
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.9
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.6
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.1
+Chromosome 6
+Gene 0 has weight of 0.7
+Gene 1 has weight of 0.4
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.1
+Gene 4 has weight of 0.7
+Gene 5 has weight of 0.2
+Gene 6 has weight of 0.6
+Gene 7 has weight of 0.6
+Gene 8 has weight of 0.5
+Chromosome 7
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.6
+Gene 3 has weight of 0.7
+Gene 4 has weight of 1
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.5
+Gene 8 has weight of 0.6
+Chromosome 8
+Gene 0 has weight of 0.3
+Gene 1 has weight of 0.6
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.5
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.4
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.8
+Chromosome 9
+Gene 0 has weight of 0.9
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.9
+Gene 3 has weight of 0.9
+Gene 4 has weight of 0.5
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.5
+Gene 8 has weight of 1
+Chromosome 10
+Gene 0 has weight of 0.3
+Gene 1 has weight of 0.1
+Gene 2 has weight of 0.7
+Gene 3 has weight of 0.9
+Gene 4 has weight of 1
+Gene 5 has weight of 0.3
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.7
+Gene 8 has weight of 0.5
+Chromosome 11
+Gene 0 has weight of 1
+Gene 1 has weight of 0.6
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.9
+Gene 5 has weight of 0.8
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.8
+Gene 8 has weight of 0.3
+Chromosome 12
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.1
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.6
+Chromosome 13
+Gene 0 has weight of 1
+Gene 1 has weight of 0.5
+Gene 2 has weight of 1
+Gene 3 has weight of 0.1
+Gene 4 has weight of 1
+Gene 5 has weight of 0.2
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.8
+Gene 8 has weight of 0.2
+Chromosome 14
+Gene 0 has weight of 0.2
+Gene 1 has weight of 0.6
+Gene 2 has weight of 1
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.8
+Gene 5 has weight of 0.7
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.4
+Gene 8 has weight of 0.7
+Chromosome 15
+Gene 0 has weight of 0.6
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.4
+Gene 3 has weight of 1
+Gene 4 has weight of 0.5
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.3
+Gene 8 has weight of 1
+Chromosome 16
+Gene 0 has weight of 0.4
+Gene 1 has weight of 1
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.9
+Gene 4 has weight of 0.9
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.1
+Gene 7 has weight of 1
+Gene 8 has weight of 0.7
+Chromosome 17
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.9
+Gene 2 has weight of 0.6
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.2
+Gene 6 has weight of 0.6
+Gene 7 has weight of 1
+Gene 8 has weight of 0.9
+Chromosome 18
+Gene 0 has weight of 0.5
+Gene 1 has weight of 0.9
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.1
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.1
+Gene 6 has weight of 0.5
+Gene 7 has weight of 0.5
+Gene 8 has weight of 0.5
+Chromosome 19
+Gene 0 has weight of 0.5
+Gene 1 has weight of 0.8
+Gene 2 has weight of 0.7
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.8
+Gene 6 has weight of 0.6
+Gene 7 has weight of 1
+Gene 8 has weight of 0.7
+Chromosome 20
+Gene 0 has weight of 0.3
+Gene 1 has weight of 0.2
+Gene 2 has weight of 0.8
+Gene 3 has weight of 0.9
+Gene 4 has weight of 0.6
+Gene 5 has weight of 0.8
+Gene 6 has weight of 0.5
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.9
+Chromosome 21
+Gene 0 has weight of 0.6
+Gene 1 has weight of 1
+Gene 2 has weight of 0.8
+Gene 3 has weight of 0.6
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.9
+Gene 7 has weight of 0.4
+Gene 8 has weight of 0.2
+Chromosome 22
+Gene 0 has weight of 0.9
+Gene 1 has weight of 1
+Gene 2 has weight of 0.7
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.4
+Gene 7 has weight of 0.9
+Gene 8 has weight of 0.7
+Chromosome 23
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.5
+Gene 2 has weight of 0.9
+Gene 3 has weight of 0.9
+Gene 4 has weight of 0.9
+Gene 5 has weight of 1
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.8
+Gene 8 has weight of 0.7
+Chromosome 24
+Gene 0 has weight of 0.5
+Gene 1 has weight of 0.4
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.1
+Gene 5 has weight of 1
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.6
+Gene 8 has weight of 0.5
+Chromosome 25
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.6
+Gene 2 has weight of 1
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.7
+Gene 5 has weight of 1
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.3
+Gene 8 has weight of 0.5
+Chromosome 26
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.8
+Gene 2 has weight of 0.6
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.9
+Gene 5 has weight of 0.2
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.9
+Gene 8 has weight of 1
+Chromosome 27
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.9
+Gene 3 has weight of 0.1
+Gene 4 has weight of 0.3
+Gene 5 has weight of 0.2
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.6
+Gene 8 has weight of 0.2
+Chromosome 28
+Gene 0 has weight of 0.2
+Gene 1 has weight of 0.1
+Gene 2 has weight of 0.9
+Gene 3 has weight of 0.6
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.7
+Gene 6 has weight of 0.5
+Gene 7 has weight of 0.7
+Gene 8 has weight of 0.3
+Chromosome 29
+Gene 0 has weight of 0.6
+Gene 1 has weight of 0.9
+Gene 2 has weight of 0.7
+Gene 3 has weight of 0.3
+Gene 4 has weight of 0.9
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.3
+Gene 8 has weight of 0.5
+Chromosome 30
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.3
+Gene 3 has weight of 1
+Gene 4 has weight of 1
+Gene 5 has weight of 0.1
+Gene 6 has weight of 0.9
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.4
+Chromosome 31
+Gene 0 has weight of 0.2
+Gene 1 has weight of 0.2
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.5
+Gene 5 has weight of 0.1
+Gene 6 has weight of 0.4
+Gene 7 has weight of 1
+Gene 8 has weight of 0.2
+Chromosome 32
+Gene 0 has weight of 1
+Gene 1 has weight of 0.7
+Gene 2 has weight of 1
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.6
+Gene 8 has weight of 0.7
+Chromosome 33
+Gene 0 has weight of 0.7
+Gene 1 has weight of 0.5
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.1
+Gene 4 has weight of 0.5
+Gene 5 has weight of 0.7
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.7
+Gene 8 has weight of 0.8
+Chromosome 34
+Gene 0 has weight of 0.6
+Gene 1 has weight of 0.7
+Gene 2 has weight of 1
+Gene 3 has weight of 0.9
+Gene 4 has weight of 0.8
+Gene 5 has weight of 0.3
+Gene 6 has weight of 0.9
+Gene 7 has weight of 0.3
+Gene 8 has weight of 1
+Chromosome 35
+Gene 0 has weight of 1
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.3
+Gene 4 has weight of 0.8
+Gene 5 has weight of 0.7
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.4
+Gene 8 has weight of 0.3
+Chromosome 36
+Gene 0 has weight of 0.2
+Gene 1 has weight of 0.6
+Gene 2 has weight of 1
+Gene 3 has weight of 1
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.5
+Gene 6 has weight of 1
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.1
+Chromosome 37
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.6
+Gene 2 has weight of 0.9
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.9
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.5
+Chromosome 38
+Gene 0 has weight of 0.3
+Gene 1 has weight of 1
+Gene 2 has weight of 0.7
+Gene 3 has weight of 0.2
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.3
+Gene 8 has weight of 0.3
+Chromosome 39
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.6
+Gene 2 has weight of 0.6
+Gene 3 has weight of 0.3
+Gene 4 has weight of 1
+Gene 5 has weight of 0.1
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.9
+Gene 8 has weight of 0.4
+Chromosome 40
+Gene 0 has weight of 0.9
+Gene 1 has weight of 0.1
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.1
+Gene 4 has weight of 1
+Gene 5 has weight of 0.2
+Gene 6 has weight of 1
+Gene 7 has weight of 0.7
+Gene 8 has weight of 0.3
+Chromosome 41
+Gene 0 has weight of 0.6
+Gene 1 has weight of 0.5
+Gene 2 has weight of 0.5
+Gene 3 has weight of 1
+Gene 4 has weight of 1
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.6
+Chromosome 42
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.3
+Gene 2 has weight of 1
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.8
+Gene 8 has weight of 0.5
+Chromosome 43
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.2
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.7
+Gene 4 has weight of 1
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.3
+Gene 8 has weight of 0.7
+Chromosome 44
+Gene 0 has weight of 0.5
+Gene 1 has weight of 0.2
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.9
+Gene 4 has weight of 0.9
+Gene 5 has weight of 1
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.9
+Gene 8 has weight of 0.9
+Chromosome 45
+Gene 0 has weight of 0.9
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.9
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.9
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.4
+Gene 7 has weight of 0.4
+Gene 8 has weight of 0.9
+Chromosome 46
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.5
+Gene 2 has weight of 0.8
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.9
+Gene 5 has weight of 1
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.7
+Gene 8 has weight of 0.9
+Chromosome 47
+Gene 0 has weight of 0.8
+Gene 1 has weight of 1
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.4
+Gene 8 has weight of 0.3
+Chromosome 48
+Gene 0 has weight of 0.7
+Gene 1 has weight of 0.6
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.6
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.8
+Gene 7 has weight of 1
+Gene 8 has weight of 0.7
+Chromosome 49
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.5
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.1
+Gene 4 has weight of 0.5
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.9
+Chromosome 50
+Gene 0 has weight of 0.7
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.8
+Gene 4 has weight of 1
+Gene 5 has weight of 0.4
+Gene 6 has weight of 1
+Gene 7 has weight of 0.3
+Gene 8 has weight of 0.9
+Chromosome 51
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.1
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.9
+Gene 5 has weight of 1
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.6
+Gene 8 has weight of 0.5
+Chromosome 52
+Gene 0 has weight of 1
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.6
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.5
+Gene 5 has weight of 1
+Gene 6 has weight of 1
+Gene 7 has weight of 0.5
+Gene 8 has weight of 0.6
+Chromosome 53
+Gene 0 has weight of 1
+Gene 1 has weight of 0.4
+Gene 2 has weight of 0.6
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.2
+Gene 7 has weight of 1
+Gene 8 has weight of 1
+Chromosome 54
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.9
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.6
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.5
+Gene 6 has weight of 1
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.3
+Chromosome 55
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.2
+Gene 2 has weight of 1
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.3
+Gene 5 has weight of 0.2
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.8
+Chromosome 56
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.2
+Gene 2 has weight of 0.2
+Gene 3 has weight of 1
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.8
+Gene 8 has weight of 0.8
+Chromosome 57
+Gene 0 has weight of 0.5
+Gene 1 has weight of 0.1
+Gene 2 has weight of 0.7
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.8
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.9
+Gene 7 has weight of 0.6
+Gene 8 has weight of 0.9
+Chromosome 58
+Gene 0 has weight of 0.3
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.7
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.3
+Gene 8 has weight of 0.9
+Chromosome 59
+Gene 0 has weight of 1
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.2
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.4
+Chromosome 60
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.8
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.5
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.3
+Chromosome 61
+Gene 0 has weight of 1
+Gene 1 has weight of 0.1
+Gene 2 has weight of 1
+Gene 3 has weight of 1
+Gene 4 has weight of 0.5
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.4
+Chromosome 62
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.9
+Gene 2 has weight of 0.9
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.8
+Gene 8 has weight of 0.7
+Chromosome 63
+Gene 0 has weight of 0.1
+Gene 1 has weight of 1
+Gene 2 has weight of 0.8
+Gene 3 has weight of 0.6
+Gene 4 has weight of 1
+Gene 5 has weight of 0.8
+Gene 6 has weight of 0.9
+Gene 7 has weight of 0.6
+Gene 8 has weight of 0.4
+Chromosome 64
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.9
+Gene 2 has weight of 0.4
+Gene 3 has weight of 0.8
+Gene 4 has weight of 1
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.9
+Gene 8 has weight of 0.8
+Chromosome 65
+Gene 0 has weight of 0.5
+Gene 1 has weight of 0.2
+Gene 2 has weight of 1
+Gene 3 has weight of 0.1
+Gene 4 has weight of 1
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.9
+Gene 7 has weight of 0.6
+Gene 8 has weight of 0.9
+Chromosome 66
+Gene 0 has weight of 0.5
+Gene 1 has weight of 0.4
+Gene 2 has weight of 0.8
+Gene 3 has weight of 0.2
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.1
+Gene 7 has weight of 1
+Gene 8 has weight of 0.8
+Chromosome 67
+Gene 0 has weight of 1
+Gene 1 has weight of 1
+Gene 2 has weight of 0.4
+Gene 3 has weight of 0.3
+Gene 4 has weight of 0.5
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.3
+Chromosome 68
+Gene 0 has weight of 0.3
+Gene 1 has weight of 0.1
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.2
+Gene 4 has weight of 0.8
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.8
+Gene 8 has weight of 0.5
+Chromosome 69
+Gene 0 has weight of 0.2
+Gene 1 has weight of 0.8
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.2
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.8
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.5
+Gene 8 has weight of 0.1
+Chromosome 70
+Gene 0 has weight of 0.9
+Gene 1 has weight of 0.6
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.7
+Gene 5 has weight of 0.3
+Gene 6 has weight of 0.2
+Gene 7 has weight of 1
+Gene 8 has weight of 0.7
+Chromosome 71
+Gene 0 has weight of 0.5
+Gene 1 has weight of 0.9
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.9
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.1
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.3
+Gene 8 has weight of 1
+Chromosome 72
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.6
+Gene 2 has weight of 0.7
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.7
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.8
+Gene 7 has weight of 1
+Gene 8 has weight of 0.8
+Chromosome 73
+Gene 0 has weight of 0.5
+Gene 1 has weight of 1
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.7
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.9
+Gene 8 has weight of 0.6
+Chromosome 74
+Gene 0 has weight of 0.4
+Gene 1 has weight of 1
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.2
+Gene 4 has weight of 0.6
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.6
+Gene 8 has weight of 0.6
+Chromosome 75
+Gene 0 has weight of 0.5
+Gene 1 has weight of 1
+Gene 2 has weight of 0.9
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.9
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.3
+Gene 8 has weight of 0.3
+Chromosome 76
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.1
+Gene 2 has weight of 0.4
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.7
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.4
+Gene 8 has weight of 0.4
+Chromosome 77
+Gene 0 has weight of 0.5
+Gene 1 has weight of 0.5
+Gene 2 has weight of 0.4
+Gene 3 has weight of 1
+Gene 4 has weight of 0.8
+Gene 5 has weight of 0.3
+Gene 6 has weight of 0.6
+Gene 7 has weight of 0.9
+Gene 8 has weight of 1
+Chromosome 78
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.7
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.4
+Chromosome 79
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.4
+Gene 2 has weight of 0.9
+Gene 3 has weight of 0.6
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.1
+Gene 6 has weight of 0.9
+Gene 7 has weight of 0.8
+Gene 8 has weight of 0.7
+Chromosome 80
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.6
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.9
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.4
+Chromosome 81
+Gene 0 has weight of 0.6
+Gene 1 has weight of 1
+Gene 2 has weight of 0.4
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.9
+Gene 8 has weight of 0.4
+Chromosome 82
+Gene 0 has weight of 0.6
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.6
+Gene 3 has weight of 1
+Gene 4 has weight of 1
+Gene 5 has weight of 0.1
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.7
+Gene 8 has weight of 0.4
+Chromosome 83
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.6
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.7
+Gene 6 has weight of 0.6
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.9
+Chromosome 84
+Gene 0 has weight of 0.2
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.7
+Gene 4 has weight of 1
+Gene 5 has weight of 0.2
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.5
+Gene 8 has weight of 0.3
+Chromosome 85
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.5
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.3
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.4
+Gene 8 has weight of 0.8
+Chromosome 86
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.1
+Gene 2 has weight of 0.4
+Gene 3 has weight of 0.5
+Gene 4 has weight of 1
+Gene 5 has weight of 0.3
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.5
+Gene 8 has weight of 0.3
+Chromosome 87
+Gene 0 has weight of 0.6
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.9
+Chromosome 88
+Gene 0 has weight of 1
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.4
+Gene 7 has weight of 0.5
+Gene 8 has weight of 0.3
+Chromosome 89
+Gene 0 has weight of 0.3
+Gene 1 has weight of 0.5
+Gene 2 has weight of 0.6
+Gene 3 has weight of 0.2
+Gene 4 has weight of 0.8
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.7
+Chromosome 90
+Gene 0 has weight of 1
+Gene 1 has weight of 0.9
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.8
+Gene 7 has weight of 1
+Gene 8 has weight of 0.9
+Chromosome 91
+Gene 0 has weight of 0.7
+Gene 1 has weight of 0.8
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.9
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.9
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.7
+Chromosome 92
+Gene 0 has weight of 0.9
+Gene 1 has weight of 0.6
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.2
+Gene 4 has weight of 1
+Gene 5 has weight of 1
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.7
+Chromosome 93
+Gene 0 has weight of 0.5
+Gene 1 has weight of 1
+Gene 2 has weight of 1
+Gene 3 has weight of 0.1
+Gene 4 has weight of 0.9
+Gene 5 has weight of 1
+Gene 6 has weight of 0.4
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.5
+Chromosome 94
+Gene 0 has weight of 0.9
+Gene 1 has weight of 1
+Gene 2 has weight of 0.7
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.8
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.3
+Chromosome 95
+Gene 0 has weight of 0.3
+Gene 1 has weight of 0.2
+Gene 2 has weight of 0.6
+Gene 3 has weight of 0.1
+Gene 4 has weight of 1
+Gene 5 has weight of 0.1
+Gene 6 has weight of 0.5
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.2
+Chromosome 96
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.8
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.2
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.4
+Gene 8 has weight of 0.3
+Chromosome 97
+Gene 0 has weight of 0.2
+Gene 1 has weight of 0.8
+Gene 2 has weight of 0.6
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.6
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.3
+Gene 8 has weight of 0.2
+Chromosome 98
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.2
+Gene 4 has weight of 0.7
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.9
+Gene 8 has weight of 0.6
+Chromosome 99
+Gene 0 has weight of 1
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.8
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.7
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.8
+Gene 7 has weight of 1
+Gene 8 has weight of 0.8
+i've won 240 out of total 699
+
+i've won 237 out of total 699
+
+i've won 229 out of total 699
+
+i've won 179 out of total 699
+
+i've won 155 out of total 699
+
+i've won 200 out of total 699
+
+i've won 225 out of total 699
+
+i've won 220 out of total 699
+
+i've won 232 out of total 699
+
+i've won 261 out of total 699
+
+i've won 135 out of total 699
+
+i've won 293 out of total 699
+
+i've won 219 out of total 699
+
+i've won 211 out of total 699
+
+i've won 152 out of total 699
+
+i've won 281 out of total 699
+
+i've won 156 out of total 699
+
+i've won 192 out of total 699
+
+i've won 228 out of total 699
+
+i've won 202 out of total 699
+
+i've won 225 out of total 699
+
+i've won 246 out of total 699
+
+i've won 215 out of total 699
+
+i've won 145 out of total 699
+
+i've won 256 out of total 699
+
+i've won 188 out of total 699
+
+i've won 170 out of total 699
+
+i've won 215 out of total 699
+
+i've won 220 out of total 699
+
+i've won 221 out of total 699
+
+i've won 147 out of total 699
+
+i've won 131 out of total 699
+
+i've won 265 out of total 699
+
+i've won 239 out of total 699
+
+i've won 184 out of total 699
+
+i've won 286 out of total 699
+
+i've won 146 out of total 699
+
+i've won 204 out of total 699
+
+i've won 219 out of total 699
+
+i've won 153 out of total 699
+
+i've won 225 out of total 699
+
+i've won 207 out of total 699
+
+i've won 162 out of total 699
+
+i've won 189 out of total 699
+
+i've won 144 out of total 699
+
+i've won 222 out of total 699
+
+i've won 171 out of total 699
+
+i've won 245 out of total 699
+
+i've won 214 out of total 699
+
+i've won 165 out of total 699
+
+i've won 216 out of total 699
+
+i've won 158 out of total 699
+
+i've won 231 out of total 699
+
+i've won 243 out of total 699
+
+i've won 252 out of total 699
+
+i've won 133 out of total 699
+
+i've won 192 out of total 699
+
+i've won 162 out of total 699
+
+i've won 172 out of total 699
+
+i've won 246 out of total 699
+
+i've won 261 out of total 699
+
+i've won 239 out of total 699
+
+i've won 194 out of total 699
+
+i've won 175 out of total 699
+
+i've won 155 out of total 699
+
+i've won 187 out of total 699
+
+i've won 208 out of total 699
+
+i've won 278 out of total 699
+
+i've won 170 out of total 699
+
+i've won 161 out of total 699
+
+i've won 201 out of total 699
+
+i've won 216 out of total 699
+
+i've won 202 out of total 699
+
+i've won 243 out of total 699
+
+i've won 160 out of total 699
+
+i've won 190 out of total 699
+
+i've won 270 out of total 699
+
+i've won 148 out of total 699
+
+i've won 143 out of total 699
+
+i've won 167 out of total 699
+
+i've won 238 out of total 699
+
+i've won 248 out of total 699
+
+i've won 174 out of total 699
+
+i've won 242 out of total 699
+
+i've won 136 out of total 699
+
+i've won 268 out of total 699
+
+i've won 157 out of total 699
+
+i've won 264 out of total 699
+
+i've won 260 out of total 699
+
+i've won 235 out of total 699
+
+i've won 207 out of total 699
+
+i've won 203 out of total 699
+
+i've won 230 out of total 699
+
+i've won 198 out of total 699
+
+i've won 236 out of total 699
+
+i've won 199 out of total 699
+
+i've won 245 out of total 699
+
+i've won 149 out of total 699
+
+i've won 207 out of total 699
+
+Generation: 0
+
+fitness after sort 0
+fitness after sort 0.187143
+fitness after sort 0.19
+fitness after sort 0.192857
+fitness after sort 0.194286
+fitness after sort 0.204286
+fitness after sort 0.205714
+fitness after sort 0.207143
+fitness after sort 0.208571
+fitness after sort 0.21
+fitness after sort 0.211429
+fitness after sort 0.212857
+fitness after sort 0.217143
+fitness after sort 0.218571
+fitness after sort 0.221429
+fitness after sort 0.221429
+fitness after sort 0.222857
+fitness after sort 0.224286
+fitness after sort 0.225714
+fitness after sort 0.228571
+fitness after sort 0.23
+fitness after sort 0.231429
+fitness after sort 0.231429
+fitness after sort 0.235714
+fitness after sort 0.238571
+fitness after sort 0.242857
+fitness after sort 0.242857
+fitness after sort 0.244286
+fitness after sort 0.245714
+fitness after sort 0.248571
+fitness after sort 0.25
+fitness after sort 0.255714
+fitness after sort 0.262857
+fitness after sort 0.267143
+fitness after sort 0.268571
+fitness after sort 0.27
+fitness after sort 0.271429
+fitness after sort 0.274286
+fitness after sort 0.274286
+fitness after sort 0.277143
+fitness after sort 0.282857
+fitness after sort 0.284286
+fitness after sort 0.285714
+fitness after sort 0.287143
+fitness after sort 0.288571
+fitness after sort 0.288571
+fitness after sort 0.29
+fitness after sort 0.291429
+fitness after sort 0.295714
+fitness after sort 0.295714
+fitness after sort 0.295714
+fitness after sort 0.297143
+fitness after sort 0.301429
+fitness after sort 0.305714
+fitness after sort 0.307143
+fitness after sort 0.307143
+fitness after sort 0.308571
+fitness after sort 0.308571
+fitness after sort 0.312857
+fitness after sort 0.312857
+fitness after sort 0.314286
+fitness after sort 0.314286
+fitness after sort 0.315714
+fitness after sort 0.317143
+fitness after sort 0.321429
+fitness after sort 0.321429
+fitness after sort 0.321429
+fitness after sort 0.325714
+fitness after sort 0.327143
+fitness after sort 0.328571
+fitness after sort 0.33
+fitness after sort 0.331429
+fitness after sort 0.335714
+fitness after sort 0.337143
+fitness after sort 0.338571
+fitness after sort 0.34
+fitness after sort 0.341429
+fitness after sort 0.341429
+fitness after sort 0.342857
+fitness after sort 0.345714
+fitness after sort 0.347143
+fitness after sort 0.347143
+fitness after sort 0.35
+fitness after sort 0.35
+fitness after sort 0.351429
+fitness after sort 0.351429
+fitness after sort 0.354286
+fitness after sort 0.36
+fitness after sort 0.365714
+fitness after sort 0.371429
+fitness after sort 0.372857
+fitness after sort 0.372857
+fitness after sort 0.377143
+fitness after sort 0.378571
+fitness after sort 0.382857
+fitness after sort 0.385714
+fitness after sort 0.397143
+fitness after sort 0.401429
+fitness after sort 0.408571
+fitness after sort 0.418571
+
+i've won 260 out of total 699
+
+i've won 272 out of total 699
+
+i've won 258 out of total 699
+
+i've won 265 out of total 699
+
+i've won 296 out of total 699
+
+i've won 271 out of total 699
+
+i've won 257 out of total 699
+
+i've won 279 out of total 699
+
+i've won 265 out of total 699
+
+i've won 260 out of total 699
+
+i've won 284 out of total 699
+
+i've won 271 out of total 699
+
+i've won 271 out of total 699
+
+i've won 266 out of total 699
+
+i've won 276 out of total 699
+
+i've won 274 out of total 699
+
+i've won 261 out of total 699
+
+i've won 275 out of total 699
+
+i've won 291 out of total 699
+
+i've won 288 out of total 699
+
+i've won 266 out of total 699
+
+i've won 273 out of total 699
+
+i've won 308 out of total 699
+
+i've won 270 out of total 699
+
+i've won 297 out of total 699
+
+i've won 328 out of total 699
+
+i've won 248 out of total 699
+
+i've won 267 out of total 699
+
+i've won 285 out of total 699
+
+i've won 253 out of total 699
+
+i've won 297 out of total 699
+
+i've won 281 out of total 699
+
+i've won 290 out of total 699
+
+i've won 262 out of total 699
+
+i've won 262 out of total 699
+
+i've won 294 out of total 699
+
+i've won 264 out of total 699
+
+i've won 265 out of total 699
+
+i've won 304 out of total 699
+
+i've won 245 out of total 699
+
+i've won 266 out of total 699
+
+i've won 292 out of total 699
+
+i've won 251 out of total 699
+
+i've won 296 out of total 699
+
+i've won 276 out of total 699
+
+i've won 276 out of total 699
+
+i've won 313 out of total 699
+
+i've won 275 out of total 699
+
+i've won 301 out of total 699
+
+i've won 282 out of total 699
+
+i've won 288 out of total 699
+
+i've won 252 out of total 699
+
+i've won 282 out of total 699
+
+i've won 262 out of total 699
+
+i've won 293 out of total 699
+
+i've won 280 out of total 699
+
+i've won 272 out of total 699
+
+i've won 286 out of total 699
+
+i've won 298 out of total 699
+
+i've won 276 out of total 699
+
+i've won 269 out of total 699
+
+i've won 261 out of total 699
+
+i've won 267 out of total 699
+
+i've won 278 out of total 699
+
+i've won 268 out of total 699
+
+i've won 273 out of total 699
+
+i've won 223 out of total 699
+
+i've won 258 out of total 699
+
+i've won 269 out of total 699
+
+i've won 296 out of total 699
+
+i've won 306 out of total 699
+
+i've won 279 out of total 699
+
+i've won 306 out of total 699
+
+i've won 288 out of total 699
+
+i've won 277 out of total 699
+
+i've won 287 out of total 699
+
+i've won 262 out of total 699
+
+i've won 253 out of total 699
+
+i've won 317 out of total 699
+
+i've won 261 out of total 699
+
+i've won 256 out of total 699
+
+i've won 266 out of total 699
+
+i've won 301 out of total 699
+
+i've won 294 out of total 699
+
+i've won 246 out of total 699
+
+i've won 279 out of total 699
+
+i've won 273 out of total 699
+
+i've won 253 out of total 699
+
+i've won 270 out of total 699
+
+i've won 262 out of total 699
+
+i've won 283 out of total 699
+
+i've won 280 out of total 699
+
+i've won 277 out of total 699
+
+i've won 279 out of total 699
+
+i've won 263 out of total 699
+
+i've won 306 out of total 699
+
+i've won 268 out of total 699
+
+i've won 264 out of total 699
+
+i've won 264 out of total 699
+
+Generation: 1
+
+fitness after sort 0
+fitness after sort 0.318571
+fitness after sort 0.35
+fitness after sort 0.351429
+fitness after sort 0.354286
+fitness after sort 0.358571
+fitness after sort 0.36
+fitness after sort 0.361429
+fitness after sort 0.361429
+fitness after sort 0.361429
+fitness after sort 0.365714
+fitness after sort 0.367143
+fitness after sort 0.368571
+fitness after sort 0.368571
+fitness after sort 0.371429
+fitness after sort 0.371429
+fitness after sort 0.372857
+fitness after sort 0.372857
+fitness after sort 0.372857
+fitness after sort 0.374286
+fitness after sort 0.374286
+fitness after sort 0.374286
+fitness after sort 0.374286
+fitness after sort 0.374286
+fitness after sort 0.375714
+fitness after sort 0.377143
+fitness after sort 0.377143
+fitness after sort 0.377143
+fitness after sort 0.378571
+fitness after sort 0.378571
+fitness after sort 0.378571
+fitness after sort 0.38
+fitness after sort 0.38
+fitness after sort 0.38
+fitness after sort 0.38
+fitness after sort 0.381429
+fitness after sort 0.381429
+fitness after sort 0.382857
+fitness after sort 0.382857
+fitness after sort 0.384286
+fitness after sort 0.384286
+fitness after sort 0.385714
+fitness after sort 0.385714
+fitness after sort 0.387143
+fitness after sort 0.387143
+fitness after sort 0.387143
+fitness after sort 0.388571
+fitness after sort 0.388571
+fitness after sort 0.39
+fitness after sort 0.39
+fitness after sort 0.39
+fitness after sort 0.391429
+fitness after sort 0.392857
+fitness after sort 0.392857
+fitness after sort 0.394286
+fitness after sort 0.394286
+fitness after sort 0.394286
+fitness after sort 0.394286
+fitness after sort 0.395714
+fitness after sort 0.395714
+fitness after sort 0.397143
+fitness after sort 0.398571
+fitness after sort 0.398571
+fitness after sort 0.398571
+fitness after sort 0.398571
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.401429
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.404286
+fitness after sort 0.405714
+fitness after sort 0.407143
+fitness after sort 0.408571
+fitness after sort 0.41
+fitness after sort 0.411429
+fitness after sort 0.411429
+fitness after sort 0.411429
+fitness after sort 0.414286
+fitness after sort 0.415714
+fitness after sort 0.417143
+fitness after sort 0.418571
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.422857
+fitness after sort 0.422857
+fitness after sort 0.422857
+fitness after sort 0.424286
+fitness after sort 0.424286
+fitness after sort 0.425714
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.434286
+fitness after sort 0.437143
+fitness after sort 0.437143
+fitness after sort 0.437143
+fitness after sort 0.44
+fitness after sort 0.447143
+fitness after sort 0.452857
+fitness after sort 0.468571
+
+i've won 303 out of total 699
+
+i've won 262 out of total 699
+
+i've won 281 out of total 699
+
+i've won 257 out of total 699
+
+i've won 310 out of total 699
+
+i've won 302 out of total 699
+
+i've won 310 out of total 699
+
+i've won 270 out of total 699
+
+i've won 290 out of total 699
+
+i've won 277 out of total 699
+
+i've won 269 out of total 699
+
+i've won 269 out of total 699
+
+i've won 280 out of total 699
+
+i've won 278 out of total 699
+
+i've won 287 out of total 699
+
+i've won 298 out of total 699
+
+i've won 291 out of total 699
+
+i've won 275 out of total 699
+
+i've won 286 out of total 699
+
+i've won 268 out of total 699
+
+i've won 291 out of total 699
+
+i've won 290 out of total 699
+
+i've won 281 out of total 699
+
+i've won 289 out of total 699
+
+i've won 266 out of total 699
+
+i've won 293 out of total 699
+
+i've won 243 out of total 699
+
+i've won 291 out of total 699
+
+i've won 252 out of total 699
+
+i've won 272 out of total 699
+
+i've won 273 out of total 699
+
+i've won 266 out of total 699
+
+i've won 287 out of total 699
+
+i've won 312 out of total 699
+
+i've won 308 out of total 699
+
+i've won 258 out of total 699
+
+i've won 276 out of total 699
+
+i've won 282 out of total 699
+
+i've won 273 out of total 699
+
+i've won 256 out of total 699
+
+i've won 297 out of total 699
+
+i've won 299 out of total 699
+
+i've won 282 out of total 699
+
+i've won 266 out of total 699
+
+i've won 289 out of total 699
+
+i've won 280 out of total 699
+
+i've won 275 out of total 699
+
+i've won 263 out of total 699
+
+i've won 278 out of total 699
+
+i've won 296 out of total 699
+
+i've won 283 out of total 699
+
+i've won 290 out of total 699
+
+i've won 280 out of total 699
+
+i've won 278 out of total 699
+
+i've won 287 out of total 699
+
+i've won 284 out of total 699
+
+i've won 278 out of total 699
+
+i've won 257 out of total 699
+
+i've won 270 out of total 699
+
+i've won 293 out of total 699
+
+i've won 273 out of total 699
+
+i've won 311 out of total 699
+
+i've won 294 out of total 699
+
+i've won 281 out of total 699
+
+i've won 294 out of total 699
+
+i've won 283 out of total 699
+
+i've won 295 out of total 699
+
+i've won 283 out of total 699
+
+i've won 285 out of total 699
+
+i've won 271 out of total 699
+
+i've won 282 out of total 699
+
+i've won 311 out of total 699
+
+i've won 276 out of total 699
+
+i've won 298 out of total 699
+
+i've won 280 out of total 699
+
+i've won 271 out of total 699
+
+i've won 309 out of total 699
+
+i've won 288 out of total 699
+
+i've won 289 out of total 699
+
+i've won 266 out of total 699
+
+i've won 273 out of total 699
+
+i've won 280 out of total 699
+
+i've won 274 out of total 699
+
+i've won 285 out of total 699
+
+i've won 302 out of total 699
+
+i've won 281 out of total 699
+
+i've won 298 out of total 699
+
+i've won 272 out of total 699
+
+i've won 286 out of total 699
+
+i've won 287 out of total 699
+
+i've won 285 out of total 699
+
+i've won 266 out of total 699
+
+i've won 314 out of total 699
+
+i've won 258 out of total 699
+
+i've won 288 out of total 699
+
+i've won 300 out of total 699
+
+i've won 276 out of total 699
+
+i've won 280 out of total 699
+
+i've won 296 out of total 699
+
+Generation: 2
+
+fitness after sort 0
+fitness after sort 0.347143
+fitness after sort 0.36
+fitness after sort 0.365714
+fitness after sort 0.367143
+fitness after sort 0.367143
+fitness after sort 0.368571
+fitness after sort 0.368571
+fitness after sort 0.374286
+fitness after sort 0.375714
+fitness after sort 0.38
+fitness after sort 0.38
+fitness after sort 0.38
+fitness after sort 0.38
+fitness after sort 0.38
+fitness after sort 0.382857
+fitness after sort 0.384286
+fitness after sort 0.384286
+fitness after sort 0.385714
+fitness after sort 0.385714
+fitness after sort 0.387143
+fitness after sort 0.387143
+fitness after sort 0.388571
+fitness after sort 0.388571
+fitness after sort 0.39
+fitness after sort 0.39
+fitness after sort 0.39
+fitness after sort 0.39
+fitness after sort 0.391429
+fitness after sort 0.392857
+fitness after sort 0.392857
+fitness after sort 0.394286
+fitness after sort 0.394286
+fitness after sort 0.394286
+fitness after sort 0.395714
+fitness after sort 0.397143
+fitness after sort 0.397143
+fitness after sort 0.397143
+fitness after sort 0.397143
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.401429
+fitness after sort 0.401429
+fitness after sort 0.401429
+fitness after sort 0.401429
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.404286
+fitness after sort 0.404286
+fitness after sort 0.404286
+fitness after sort 0.405714
+fitness after sort 0.407143
+fitness after sort 0.407143
+fitness after sort 0.407143
+fitness after sort 0.408571
+fitness after sort 0.408571
+fitness after sort 0.41
+fitness after sort 0.41
+fitness after sort 0.41
+fitness after sort 0.41
+fitness after sort 0.411429
+fitness after sort 0.411429
+fitness after sort 0.412857
+fitness after sort 0.412857
+fitness after sort 0.412857
+fitness after sort 0.414286
+fitness after sort 0.414286
+fitness after sort 0.414286
+fitness after sort 0.415714
+fitness after sort 0.415714
+fitness after sort 0.415714
+fitness after sort 0.418571
+fitness after sort 0.418571
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.421429
+fitness after sort 0.422857
+fitness after sort 0.422857
+fitness after sort 0.424286
+fitness after sort 0.425714
+fitness after sort 0.425714
+fitness after sort 0.425714
+fitness after sort 0.427143
+fitness after sort 0.428571
+fitness after sort 0.431429
+fitness after sort 0.431429
+fitness after sort 0.432857
+fitness after sort 0.44
+fitness after sort 0.441429
+fitness after sort 0.442857
+fitness after sort 0.442857
+fitness after sort 0.444286
+fitness after sort 0.444286
+fitness after sort 0.445714
+fitness after sort 0.448571
+
+i've won 300 out of total 699
+
+i've won 278 out of total 699
+
+i've won 288 out of total 699
+
+i've won 320 out of total 699
+
+i've won 293 out of total 699
+
+i've won 295 out of total 699
+
+i've won 281 out of total 699
+
+i've won 275 out of total 699
+
+i've won 283 out of total 699
+
+i've won 302 out of total 699
+
+i've won 275 out of total 699
+
+i've won 320 out of total 699
+
+i've won 306 out of total 699
+
+i've won 297 out of total 699
+
+i've won 290 out of total 699
+
+i've won 283 out of total 699
+
+i've won 305 out of total 699
+
+i've won 284 out of total 699
+
+i've won 277 out of total 699
+
+i've won 306 out of total 699
+
+i've won 290 out of total 699
+
+i've won 321 out of total 699
+
+i've won 277 out of total 699
+
+i've won 306 out of total 699
+
+i've won 294 out of total 699
+
+i've won 294 out of total 699
+
+i've won 290 out of total 699
+
+i've won 281 out of total 699
+
+i've won 300 out of total 699
+
+i've won 315 out of total 699
+
+i've won 277 out of total 699
+
+i've won 274 out of total 699
+
+i've won 286 out of total 699
+
+i've won 287 out of total 699
+
+i've won 263 out of total 699
+
+i've won 293 out of total 699
+
+i've won 290 out of total 699
+
+i've won 289 out of total 699
+
+i've won 269 out of total 699
+
+i've won 300 out of total 699
+
+i've won 282 out of total 699
+
+i've won 270 out of total 699
+
+i've won 275 out of total 699
+
+i've won 303 out of total 699
+
+i've won 306 out of total 699
+
+i've won 272 out of total 699
+
+i've won 287 out of total 699
+
+i've won 296 out of total 699
+
+i've won 286 out of total 699
+
+i've won 301 out of total 699
+
+i've won 295 out of total 699
+
+i've won 301 out of total 699
+
+i've won 306 out of total 699
+
+i've won 297 out of total 699
+
+i've won 290 out of total 699
+
+i've won 280 out of total 699
+
+i've won 288 out of total 699
+
+i've won 305 out of total 699
+
+i've won 303 out of total 699
+
+i've won 282 out of total 699
+
+i've won 280 out of total 699
+
+i've won 292 out of total 699
+
+i've won 305 out of total 699
+
+i've won 312 out of total 699
+
+i've won 293 out of total 699
+
+i've won 264 out of total 699
+
+i've won 302 out of total 699
+
+i've won 297 out of total 699
+
+i've won 279 out of total 699
+
+i've won 305 out of total 699
+
+i've won 278 out of total 699
+
+i've won 295 out of total 699
+
+i've won 283 out of total 699
+
+i've won 260 out of total 699
+
+i've won 278 out of total 699
+
+i've won 257 out of total 699
+
+i've won 303 out of total 699
+
+i've won 294 out of total 699
+
+i've won 288 out of total 699
+
+i've won 295 out of total 699
+
+i've won 292 out of total 699
+
+i've won 257 out of total 699
+
+i've won 280 out of total 699
+
+i've won 305 out of total 699
+
+i've won 293 out of total 699
+
+i've won 285 out of total 699
+
+i've won 279 out of total 699
+
+i've won 290 out of total 699
+
+i've won 303 out of total 699
+
+i've won 268 out of total 699
+
+i've won 272 out of total 699
+
+i've won 304 out of total 699
+
+i've won 286 out of total 699
+
+i've won 276 out of total 699
+
+i've won 285 out of total 699
+
+i've won 292 out of total 699
+
+i've won 294 out of total 699
+
+i've won 265 out of total 699
+
+i've won 277 out of total 699
+
+Generation: 3
+
+fitness after sort 0
+fitness after sort 0.367143
+fitness after sort 0.367143
+fitness after sort 0.371429
+fitness after sort 0.375714
+fitness after sort 0.377143
+fitness after sort 0.378571
+fitness after sort 0.382857
+fitness after sort 0.384286
+fitness after sort 0.385714
+fitness after sort 0.388571
+fitness after sort 0.388571
+fitness after sort 0.391429
+fitness after sort 0.392857
+fitness after sort 0.392857
+fitness after sort 0.392857
+fitness after sort 0.394286
+fitness after sort 0.395714
+fitness after sort 0.395714
+fitness after sort 0.395714
+fitness after sort 0.395714
+fitness after sort 0.397143
+fitness after sort 0.397143
+fitness after sort 0.397143
+fitness after sort 0.398571
+fitness after sort 0.398571
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.401429
+fitness after sort 0.401429
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.404286
+fitness after sort 0.404286
+fitness after sort 0.404286
+fitness after sort 0.405714
+fitness after sort 0.407143
+fitness after sort 0.407143
+fitness after sort 0.408571
+fitness after sort 0.408571
+fitness after sort 0.408571
+fitness after sort 0.41
+fitness after sort 0.41
+fitness after sort 0.411429
+fitness after sort 0.411429
+fitness after sort 0.411429
+fitness after sort 0.412857
+fitness after sort 0.414286
+fitness after sort 0.414286
+fitness after sort 0.414286
+fitness after sort 0.414286
+fitness after sort 0.414286
+fitness after sort 0.414286
+fitness after sort 0.417143
+fitness after sort 0.417143
+fitness after sort 0.417143
+fitness after sort 0.418571
+fitness after sort 0.418571
+fitness after sort 0.418571
+fitness after sort 0.418571
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.421429
+fitness after sort 0.421429
+fitness after sort 0.421429
+fitness after sort 0.421429
+fitness after sort 0.422857
+fitness after sort 0.424286
+fitness after sort 0.424286
+fitness after sort 0.424286
+fitness after sort 0.428571
+fitness after sort 0.428571
+fitness after sort 0.428571
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.431429
+fitness after sort 0.431429
+fitness after sort 0.432857
+fitness after sort 0.432857
+fitness after sort 0.432857
+fitness after sort 0.432857
+fitness after sort 0.434286
+fitness after sort 0.435714
+fitness after sort 0.435714
+fitness after sort 0.435714
+fitness after sort 0.435714
+fitness after sort 0.435714
+fitness after sort 0.437143
+fitness after sort 0.437143
+fitness after sort 0.437143
+fitness after sort 0.437143
+fitness after sort 0.437143
+fitness after sort 0.445714
+fitness after sort 0.45
+fitness after sort 0.457143
+fitness after sort 0.457143
+fitness after sort 0.458571
+
+i've won 311 out of total 699
+
+i've won 303 out of total 699
+
+i've won 284 out of total 699
+
+i've won 277 out of total 699
+
+i've won 292 out of total 699
+
+i've won 296 out of total 699
+
+i've won 278 out of total 699
+
+i've won 282 out of total 699
+
+i've won 295 out of total 699
+
+i've won 261 out of total 699
+
+i've won 270 out of total 699
+
+i've won 300 out of total 699
+
+i've won 289 out of total 699
+
+i've won 279 out of total 699
+
+i've won 295 out of total 699
+
+i've won 294 out of total 699
+
+i've won 286 out of total 699
+
+i've won 259 out of total 699
+
+i've won 285 out of total 699
+
+i've won 308 out of total 699
+
+i've won 285 out of total 699
+
+i've won 280 out of total 699
+
+i've won 297 out of total 699
+
+i've won 290 out of total 699
+
+i've won 275 out of total 699
+
+i've won 281 out of total 699
+
+i've won 296 out of total 699
+
+i've won 287 out of total 699
+
+i've won 287 out of total 699
+
+i've won 280 out of total 699
+
+i've won 273 out of total 699
+
+i've won 270 out of total 699
+
+i've won 310 out of total 699
+
+i've won 288 out of total 699
+
+i've won 278 out of total 699
+
+i've won 277 out of total 699
+
+i've won 297 out of total 699
+
+i've won 293 out of total 699
+
+i've won 292 out of total 699
+
+i've won 295 out of total 699
+
+i've won 275 out of total 699
+
+i've won 265 out of total 699
+
+i've won 316 out of total 699
+
+i've won 279 out of total 699
+
+i've won 283 out of total 699
+
+i've won 319 out of total 699
+
+i've won 313 out of total 699
+
+i've won 282 out of total 699
+
+i've won 293 out of total 699
+
+i've won 322 out of total 699
+
+i've won 288 out of total 699
+
+i've won 311 out of total 699
+
+i've won 296 out of total 699
+
+i've won 281 out of total 699
+
+i've won 309 out of total 699
+
+i've won 280 out of total 699
+
+i've won 305 out of total 699
+
+i've won 293 out of total 699
+
+i've won 282 out of total 699
+
+i've won 288 out of total 699
+
+i've won 281 out of total 699
+
+i've won 292 out of total 699
+
+i've won 265 out of total 699
+
+i've won 308 out of total 699
+
+i've won 284 out of total 699
+
+i've won 295 out of total 699
+
+i've won 278 out of total 699
+
+i've won 295 out of total 699
+
+i've won 287 out of total 699
+
+i've won 321 out of total 699
+
+i've won 301 out of total 699
+
+i've won 276 out of total 699
+
+i've won 290 out of total 699
+
+i've won 277 out of total 699
+
+i've won 271 out of total 699
+
+i've won 292 out of total 699
+
+i've won 285 out of total 699
+
+i've won 304 out of total 699
+
+i've won 290 out of total 699
+
+i've won 275 out of total 699
+
+i've won 294 out of total 699
+
+i've won 288 out of total 699
+
+i've won 297 out of total 699
+
+i've won 287 out of total 699
+
+i've won 292 out of total 699
+
+i've won 293 out of total 699
+
+i've won 304 out of total 699
+
+i've won 292 out of total 699
+
+i've won 270 out of total 699
+
+i've won 289 out of total 699
+
+i've won 276 out of total 699
+
+i've won 296 out of total 699
+
+i've won 303 out of total 699
+
+i've won 293 out of total 699
+
+i've won 288 out of total 699
+
+i've won 270 out of total 699
+
+i've won 268 out of total 699
+
+i've won 284 out of total 699
+
+i've won 276 out of total 699
+
+Generation: 4
+
+fitness after sort 0
+fitness after sort 0.37
+fitness after sort 0.372857
+fitness after sort 0.378571
+fitness after sort 0.378571
+fitness after sort 0.382857
+fitness after sort 0.385714
+fitness after sort 0.385714
+fitness after sort 0.385714
+fitness after sort 0.385714
+fitness after sort 0.387143
+fitness after sort 0.39
+fitness after sort 0.392857
+fitness after sort 0.392857
+fitness after sort 0.392857
+fitness after sort 0.394286
+fitness after sort 0.394286
+fitness after sort 0.394286
+fitness after sort 0.395714
+fitness after sort 0.395714
+fitness after sort 0.395714
+fitness after sort 0.397143
+fitness after sort 0.397143
+fitness after sort 0.397143
+fitness after sort 0.398571
+fitness after sort 0.398571
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.401429
+fitness after sort 0.401429
+fitness after sort 0.401429
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.404286
+fitness after sort 0.405714
+fitness after sort 0.405714
+fitness after sort 0.405714
+fitness after sort 0.407143
+fitness after sort 0.407143
+fitness after sort 0.407143
+fitness after sort 0.408571
+fitness after sort 0.41
+fitness after sort 0.41
+fitness after sort 0.41
+fitness after sort 0.41
+fitness after sort 0.411429
+fitness after sort 0.411429
+fitness after sort 0.411429
+fitness after sort 0.411429
+fitness after sort 0.411429
+fitness after sort 0.412857
+fitness after sort 0.412857
+fitness after sort 0.414286
+fitness after sort 0.414286
+fitness after sort 0.414286
+fitness after sort 0.417143
+fitness after sort 0.417143
+fitness after sort 0.417143
+fitness after sort 0.417143
+fitness after sort 0.417143
+fitness after sort 0.417143
+fitness after sort 0.418571
+fitness after sort 0.418571
+fitness after sort 0.418571
+fitness after sort 0.418571
+fitness after sort 0.418571
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.421429
+fitness after sort 0.421429
+fitness after sort 0.421429
+fitness after sort 0.421429
+fitness after sort 0.421429
+fitness after sort 0.422857
+fitness after sort 0.422857
+fitness after sort 0.422857
+fitness after sort 0.422857
+fitness after sort 0.424286
+fitness after sort 0.424286
+fitness after sort 0.424286
+fitness after sort 0.428571
+fitness after sort 0.43
+fitness after sort 0.432857
+fitness after sort 0.432857
+fitness after sort 0.434286
+fitness after sort 0.434286
+fitness after sort 0.435714
+fitness after sort 0.44
+fitness after sort 0.44
+fitness after sort 0.441429
+fitness after sort 0.442857
+fitness after sort 0.444286
+fitness after sort 0.444286
+fitness after sort 0.447143
+fitness after sort 0.451429
+fitness after sort 0.455714
+fitness after sort 0.458571
+fitness after sort 0.46
+
+i've won 283 out of total 699
+
+i've won 307 out of total 699
+
+i've won 299 out of total 699
+
+i've won 298 out of total 699
+
+i've won 306 out of total 699
+
+i've won 285 out of total 699
+
+i've won 298 out of total 699
+
+i've won 283 out of total 699
+
+i've won 288 out of total 699
+
+i've won 296 out of total 699
+
+i've won 305 out of total 699
+
+i've won 288 out of total 699
+
+i've won 293 out of total 699
+
+i've won 282 out of total 699
+
+i've won 278 out of total 699
+
+i've won 287 out of total 699
+
+i've won 288 out of total 699
+
+i've won 285 out of total 699
+
+i've won 288 out of total 699
+
+i've won 300 out of total 699
+
+i've won 303 out of total 699
+
+i've won 289 out of total 699
+
+i've won 282 out of total 699
+
+i've won 297 out of total 699
+
+i've won 284 out of total 699
+
+i've won 259 out of total 699
+
+i've won 285 out of total 699
+
+i've won 292 out of total 699
+
+i've won 296 out of total 699
+
+i've won 312 out of total 699
+
+i've won 277 out of total 699
+
+i've won 304 out of total 699
+
+i've won 294 out of total 699
+
+i've won 276 out of total 699
+
+i've won 283 out of total 699
+
+i've won 282 out of total 699
+
+i've won 284 out of total 699
+
+i've won 314 out of total 699
+
+i've won 281 out of total 699
+
+i've won 301 out of total 699
+
+i've won 288 out of total 699
+
+i've won 275 out of total 699
+
+i've won 298 out of total 699
+
+i've won 285 out of total 699
+
+i've won 294 out of total 699
+
+i've won 268 out of total 699
+
+i've won 280 out of total 699
+
+i've won 291 out of total 699
+
+i've won 279 out of total 699
+
+i've won 275 out of total 699
+
+i've won 299 out of total 699
+
+i've won 310 out of total 699
+
+i've won 277 out of total 699
+
+i've won 304 out of total 699
+
+i've won 292 out of total 699
+
+i've won 290 out of total 699
+
+i've won 288 out of total 699
+
+i've won 301 out of total 699
+
+i've won 294 out of total 699
+
+i've won 297 out of total 699
+
+i've won 299 out of total 699
+
+i've won 272 out of total 699
+
+i've won 289 out of total 699
+
+i've won 268 out of total 699
+
+i've won 289 out of total 699
+
+i've won 299 out of total 699
+
+i've won 304 out of total 699
+
+i've won 279 out of total 699
+
+i've won 302 out of total 699
+
+i've won 295 out of total 699
+
+i've won 312 out of total 699
+
+i've won 301 out of total 699
+
+i've won 290 out of total 699
+
+i've won 290 out of total 699
+
+i've won 303 out of total 699
+
+i've won 268 out of total 699
+
+i've won 276 out of total 699
+
+i've won 298 out of total 699
+
+i've won 278 out of total 699
+
+i've won 292 out of total 699
+
+i've won 294 out of total 699
+
+i've won 300 out of total 699
+
+i've won 288 out of total 699
+
+i've won 319 out of total 699
+
+i've won 282 out of total 699
+
+i've won 284 out of total 699
+
+i've won 276 out of total 699
+
+i've won 311 out of total 699
+
+i've won 302 out of total 699
+
+i've won 270 out of total 699
+
+i've won 268 out of total 699
+
+i've won 270 out of total 699
+
+i've won 296 out of total 699
+
+i've won 277 out of total 699
+
+i've won 305 out of total 699
+
+i've won 302 out of total 699
+
+i've won 296 out of total 699
+
+i've won 287 out of total 699
+
+i've won 289 out of total 699
+
+Generation: 5
+
+fitness after sort 0
+fitness after sort 0.37
+fitness after sort 0.382857
+fitness after sort 0.382857
+fitness after sort 0.382857
+fitness after sort 0.382857
+fitness after sort 0.385714
+fitness after sort 0.385714
+fitness after sort 0.388571
+fitness after sort 0.392857
+fitness after sort 0.392857
+fitness after sort 0.394286
+fitness after sort 0.394286
+fitness after sort 0.394286
+fitness after sort 0.395714
+fitness after sort 0.395714
+fitness after sort 0.395714
+fitness after sort 0.397143
+fitness after sort 0.397143
+fitness after sort 0.398571
+fitness after sort 0.398571
+fitness after sort 0.4
+fitness after sort 0.401429
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.404286
+fitness after sort 0.404286
+fitness after sort 0.404286
+fitness after sort 0.405714
+fitness after sort 0.405714
+fitness after sort 0.405714
+fitness after sort 0.407143
+fitness after sort 0.407143
+fitness after sort 0.407143
+fitness after sort 0.407143
+fitness after sort 0.41
+fitness after sort 0.41
+fitness after sort 0.411429
+fitness after sort 0.411429
+fitness after sort 0.411429
+fitness after sort 0.411429
+fitness after sort 0.411429
+fitness after sort 0.411429
+fitness after sort 0.411429
+fitness after sort 0.412857
+fitness after sort 0.412857
+fitness after sort 0.412857
+fitness after sort 0.412857
+fitness after sort 0.414286
+fitness after sort 0.414286
+fitness after sort 0.414286
+fitness after sort 0.415714
+fitness after sort 0.417143
+fitness after sort 0.417143
+fitness after sort 0.417143
+fitness after sort 0.418571
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.421429
+fitness after sort 0.422857
+fitness after sort 0.422857
+fitness after sort 0.422857
+fitness after sort 0.422857
+fitness after sort 0.424286
+fitness after sort 0.424286
+fitness after sort 0.425714
+fitness after sort 0.425714
+fitness after sort 0.425714
+fitness after sort 0.425714
+fitness after sort 0.427143
+fitness after sort 0.427143
+fitness after sort 0.427143
+fitness after sort 0.427143
+fitness after sort 0.428571
+fitness after sort 0.428571
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.431429
+fitness after sort 0.431429
+fitness after sort 0.431429
+fitness after sort 0.432857
+fitness after sort 0.432857
+fitness after sort 0.434286
+fitness after sort 0.434286
+fitness after sort 0.434286
+fitness after sort 0.435714
+fitness after sort 0.435714
+fitness after sort 0.437143
+fitness after sort 0.438571
+fitness after sort 0.442857
+fitness after sort 0.444286
+fitness after sort 0.445714
+fitness after sort 0.445714
+fitness after sort 0.448571
+fitness after sort 0.455714
+
+i've won 310 out of total 699
+
+i've won 274 out of total 699
+
+i've won 312 out of total 699
+
+i've won 294 out of total 699
+
+i've won 293 out of total 699
+
+i've won 285 out of total 699
+
+i've won 281 out of total 699
+
+i've won 318 out of total 699
+
+i've won 282 out of total 699
+
+i've won 290 out of total 699
+
+i've won 298 out of total 699
+
+i've won 295 out of total 699
+
+i've won 306 out of total 699
+
+i've won 299 out of total 699
+
+i've won 317 out of total 699
+
+i've won 286 out of total 699
+
+i've won 302 out of total 699
+
+i've won 308 out of total 699
+
+i've won 310 out of total 699
+
+i've won 296 out of total 699
+
+i've won 322 out of total 699
+
+i've won 292 out of total 699
+
+i've won 311 out of total 699
+
+i've won 280 out of total 699
+
+i've won 291 out of total 699
+
+i've won 282 out of total 699
+
+i've won 308 out of total 699
+
+i've won 299 out of total 699
+
+i've won 321 out of total 699
+
+i've won 289 out of total 699
+
+i've won 306 out of total 699
+
+i've won 297 out of total 699
+
+i've won 276 out of total 699
+
+i've won 295 out of total 699
+
+i've won 303 out of total 699
+
+i've won 294 out of total 699
+
+i've won 316 out of total 699
+
+i've won 297 out of total 699
+
+i've won 285 out of total 699
+
+i've won 274 out of total 699
+
+i've won 309 out of total 699
+
+i've won 306 out of total 699
+
+i've won 290 out of total 699
+
+i've won 316 out of total 699
+
+i've won 300 out of total 699
+
+i've won 297 out of total 699
+
+i've won 284 out of total 699
+
+i've won 305 out of total 699
+
+i've won 286 out of total 699
+
+i've won 269 out of total 699
+
+i've won 284 out of total 699
+
+i've won 310 out of total 699
+
+i've won 290 out of total 699
+
+i've won 320 out of total 699
+
+i've won 295 out of total 699
+
+i've won 287 out of total 699
+
+i've won 288 out of total 699
+
+i've won 293 out of total 699
+
+i've won 300 out of total 699
+
+i've won 293 out of total 699
+
+i've won 320 out of total 699
+
+i've won 307 out of total 699
+
+i've won 313 out of total 699
+
+i've won 281 out of total 699
+
+i've won 277 out of total 699
+
+i've won 316 out of total 699
+
+i've won 307 out of total 699
+
+i've won 311 out of total 699
+
+i've won 283 out of total 699
+
+i've won 288 out of total 699
+
+i've won 315 out of total 699
+
+i've won 291 out of total 699
+
+i've won 294 out of total 699
+
+i've won 308 out of total 699
+
+i've won 299 out of total 699
+
+i've won 292 out of total 699
+
+i've won 270 out of total 699
+
+i've won 275 out of total 699
+
+i've won 294 out of total 699
+
+i've won 282 out of total 699
+
+i've won 284 out of total 699
+
+i've won 310 out of total 699
+
+i've won 293 out of total 699
+
+i've won 285 out of total 699
+
+i've won 285 out of total 699
+
+i've won 277 out of total 699
+
+i've won 272 out of total 699
+
+i've won 289 out of total 699
+
+i've won 284 out of total 699
+
+i've won 279 out of total 699
+
+i've won 282 out of total 699
+
+i've won 278 out of total 699
+
+i've won 282 out of total 699
+
+i've won 278 out of total 699
+
+i've won 254 out of total 699
+
+i've won 268 out of total 699
+
+i've won 298 out of total 699
+
+i've won 284 out of total 699
+
+i've won 277 out of total 699
+
+Generation: 6
+
+fitness after sort 0
+fitness after sort 0.362857
+fitness after sort 0.382857
+fitness after sort 0.384286
+fitness after sort 0.385714
+fitness after sort 0.388571
+fitness after sort 0.391429
+fitness after sort 0.391429
+fitness after sort 0.392857
+fitness after sort 0.394286
+fitness after sort 0.395714
+fitness after sort 0.395714
+fitness after sort 0.395714
+fitness after sort 0.397143
+fitness after sort 0.397143
+fitness after sort 0.398571
+fitness after sort 0.4
+fitness after sort 0.401429
+fitness after sort 0.401429
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.404286
+fitness after sort 0.405714
+fitness after sort 0.405714
+fitness after sort 0.405714
+fitness after sort 0.405714
+fitness after sort 0.405714
+fitness after sort 0.407143
+fitness after sort 0.407143
+fitness after sort 0.407143
+fitness after sort 0.407143
+fitness after sort 0.408571
+fitness after sort 0.408571
+fitness after sort 0.41
+fitness after sort 0.411429
+fitness after sort 0.411429
+fitness after sort 0.412857
+fitness after sort 0.412857
+fitness after sort 0.414286
+fitness after sort 0.414286
+fitness after sort 0.414286
+fitness after sort 0.415714
+fitness after sort 0.415714
+fitness after sort 0.417143
+fitness after sort 0.417143
+fitness after sort 0.418571
+fitness after sort 0.418571
+fitness after sort 0.418571
+fitness after sort 0.418571
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.421429
+fitness after sort 0.421429
+fitness after sort 0.421429
+fitness after sort 0.422857
+fitness after sort 0.424286
+fitness after sort 0.424286
+fitness after sort 0.424286
+fitness after sort 0.425714
+fitness after sort 0.425714
+fitness after sort 0.427143
+fitness after sort 0.427143
+fitness after sort 0.427143
+fitness after sort 0.428571
+fitness after sort 0.428571
+fitness after sort 0.431429
+fitness after sort 0.432857
+fitness after sort 0.435714
+fitness after sort 0.437143
+fitness after sort 0.437143
+fitness after sort 0.437143
+fitness after sort 0.438571
+fitness after sort 0.438571
+fitness after sort 0.44
+fitness after sort 0.44
+fitness after sort 0.44
+fitness after sort 0.441429
+fitness after sort 0.442857
+fitness after sort 0.442857
+fitness after sort 0.442857
+fitness after sort 0.442857
+fitness after sort 0.444286
+fitness after sort 0.444286
+fitness after sort 0.445714
+fitness after sort 0.447143
+fitness after sort 0.45
+fitness after sort 0.451429
+fitness after sort 0.451429
+fitness after sort 0.451429
+fitness after sort 0.452857
+fitness after sort 0.454286
+fitness after sort 0.457143
+fitness after sort 0.457143
+fitness after sort 0.458571
+fitness after sort 0.46
+
+i've won 263 out of total 699
+
+i've won 259 out of total 699
+
+i've won 287 out of total 699
+
+i've won 306 out of total 699
+
+i've won 257 out of total 699
+
+i've won 303 out of total 699
+
+i've won 283 out of total 699
+
+i've won 254 out of total 699
+
+i've won 301 out of total 699
+
+i've won 301 out of total 699
+
+i've won 284 out of total 699
+
+i've won 314 out of total 699
+
+i've won 280 out of total 699
+
+i've won 302 out of total 699
+
+i've won 292 out of total 699
+
+i've won 275 out of total 699
+
+i've won 264 out of total 699
+
+i've won 276 out of total 699
+
+i've won 260 out of total 699
+
+i've won 277 out of total 699
+
+i've won 291 out of total 699
+
+i've won 251 out of total 699
+
+i've won 304 out of total 699
+
+i've won 311 out of total 699
+
+i've won 244 out of total 699
+
+i've won 305 out of total 699
+
+i've won 275 out of total 699
+
+i've won 275 out of total 699
+
+i've won 263 out of total 699
+
+i've won 314 out of total 699
+
+i've won 290 out of total 699
+
+i've won 282 out of total 699
+
+i've won 267 out of total 699
+
+i've won 274 out of total 699
+
+i've won 313 out of total 699
+
+i've won 275 out of total 699
+
+i've won 302 out of total 699
+
+i've won 303 out of total 699
+
+i've won 292 out of total 699
+
+i've won 268 out of total 699
+
+i've won 260 out of total 699
+
+i've won 316 out of total 699
+
+i've won 287 out of total 699
+
+i've won 285 out of total 699
+
+i've won 266 out of total 699
+
+i've won 269 out of total 699
+
+i've won 342 out of total 699
+
+i've won 280 out of total 699
+
+i've won 293 out of total 699
+
+i've won 256 out of total 699
+
+i've won 261 out of total 699
+
+i've won 238 out of total 699
+
+i've won 273 out of total 699
+
+i've won 286 out of total 699
+
+i've won 305 out of total 699
+
+i've won 294 out of total 699
+
+i've won 304 out of total 699
+
+i've won 288 out of total 699
+
+i've won 313 out of total 699
+
+i've won 290 out of total 699
+
+i've won 298 out of total 699
+
+i've won 282 out of total 699
+
+i've won 291 out of total 699
+
+i've won 316 out of total 699
+
+i've won 311 out of total 699
+
+i've won 271 out of total 699
+
+i've won 280 out of total 699
+
+i've won 252 out of total 699
+
+i've won 297 out of total 699
+
+i've won 305 out of total 699
+
+i've won 305 out of total 699
+
+i've won 315 out of total 699
+
+i've won 314 out of total 699
+
+i've won 303 out of total 699
+
+i've won 301 out of total 699
+
+i've won 293 out of total 699
+
+i've won 314 out of total 699
+
+i've won 309 out of total 699
+
+i've won 302 out of total 699
+
+i've won 294 out of total 699
+
+i've won 294 out of total 699
+
+i've won 303 out of total 699
+
+i've won 302 out of total 699
+
+i've won 316 out of total 699
+
+i've won 293 out of total 699
+
+i've won 314 out of total 699
+
+i've won 296 out of total 699
+
+i've won 315 out of total 699
+
+i've won 318 out of total 699
+
+i've won 294 out of total 699
+
+i've won 299 out of total 699
+
+i've won 290 out of total 699
+
+i've won 268 out of total 699
+
+i've won 301 out of total 699
+
+i've won 310 out of total 699
+
+i've won 316 out of total 699
+
+i've won 301 out of total 699
+
+i've won 294 out of total 699
+
+i've won 287 out of total 699
+
+Generation: 7
+
+fitness after sort 0
+fitness after sort 0.34
+fitness after sort 0.348571
+fitness after sort 0.358571
+fitness after sort 0.36
+fitness after sort 0.362857
+fitness after sort 0.365714
+fitness after sort 0.367143
+fitness after sort 0.37
+fitness after sort 0.371429
+fitness after sort 0.371429
+fitness after sort 0.372857
+fitness after sort 0.375714
+fitness after sort 0.375714
+fitness after sort 0.377143
+fitness after sort 0.38
+fitness after sort 0.381429
+fitness after sort 0.382857
+fitness after sort 0.382857
+fitness after sort 0.384286
+fitness after sort 0.387143
+fitness after sort 0.39
+fitness after sort 0.391429
+fitness after sort 0.392857
+fitness after sort 0.392857
+fitness after sort 0.392857
+fitness after sort 0.392857
+fitness after sort 0.394286
+fitness after sort 0.395714
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.404286
+fitness after sort 0.405714
+fitness after sort 0.407143
+fitness after sort 0.408571
+fitness after sort 0.41
+fitness after sort 0.41
+fitness after sort 0.41
+fitness after sort 0.411429
+fitness after sort 0.414286
+fitness after sort 0.414286
+fitness after sort 0.414286
+fitness after sort 0.415714
+fitness after sort 0.415714
+fitness after sort 0.417143
+fitness after sort 0.417143
+fitness after sort 0.418571
+fitness after sort 0.418571
+fitness after sort 0.418571
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.422857
+fitness after sort 0.424286
+fitness after sort 0.425714
+fitness after sort 0.427143
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.431429
+fitness after sort 0.431429
+fitness after sort 0.431429
+fitness after sort 0.431429
+fitness after sort 0.432857
+fitness after sort 0.432857
+fitness after sort 0.432857
+fitness after sort 0.432857
+fitness after sort 0.434286
+fitness after sort 0.434286
+fitness after sort 0.435714
+fitness after sort 0.435714
+fitness after sort 0.435714
+fitness after sort 0.435714
+fitness after sort 0.437143
+fitness after sort 0.441429
+fitness after sort 0.442857
+fitness after sort 0.444286
+fitness after sort 0.444286
+fitness after sort 0.447143
+fitness after sort 0.447143
+fitness after sort 0.448571
+fitness after sort 0.448571
+fitness after sort 0.448571
+fitness after sort 0.448571
+fitness after sort 0.448571
+fitness after sort 0.45
+fitness after sort 0.45
+fitness after sort 0.451429
+fitness after sort 0.451429
+fitness after sort 0.451429
+fitness after sort 0.451429
+fitness after sort 0.454286
+fitness after sort 0.488571
+
+i've won 278 out of total 699
+
+i've won 287 out of total 699
+
+i've won 268 out of total 699
+
+i've won 262 out of total 699
+
+i've won 274 out of total 699
+
+i've won 261 out of total 699
+
+i've won 297 out of total 699
+
+i've won 252 out of total 699
+
+i've won 284 out of total 699
+
+i've won 272 out of total 699
+
+i've won 260 out of total 699
+
+i've won 264 out of total 699
+
+i've won 252 out of total 699
+
+i've won 276 out of total 699
+
+i've won 272 out of total 699
+
+i've won 289 out of total 699
+
+i've won 278 out of total 699
+
+i've won 268 out of total 699
+
+i've won 287 out of total 699
+
+i've won 266 out of total 699
+
+i've won 259 out of total 699
+
+i've won 284 out of total 699
+
+i've won 272 out of total 699
+
+i've won 264 out of total 699
+
+i've won 296 out of total 699
+
+i've won 270 out of total 699
+
+i've won 275 out of total 699
+
+i've won 253 out of total 699
+
+i've won 257 out of total 699
+
+i've won 241 out of total 699
+
+i've won 269 out of total 699
+
+i've won 254 out of total 699
+
+i've won 261 out of total 699
+
+i've won 284 out of total 699
+
+i've won 279 out of total 699
+
+i've won 288 out of total 699
+
+i've won 275 out of total 699
+
+i've won 290 out of total 699
+
+i've won 253 out of total 699
+
+i've won 279 out of total 699
+
+i've won 270 out of total 699
+
+i've won 269 out of total 699
+
+i've won 244 out of total 699
+
+i've won 255 out of total 699
+
+i've won 244 out of total 699
+
+i've won 280 out of total 699
+
+i've won 276 out of total 699
+
+i've won 266 out of total 699
+
+i've won 278 out of total 699
+
+i've won 266 out of total 699
+
+i've won 274 out of total 699
+
+i've won 264 out of total 699
+
+i've won 271 out of total 699
+
+i've won 271 out of total 699
+
+i've won 273 out of total 699
+
+i've won 258 out of total 699
+
+i've won 251 out of total 699
+
+i've won 243 out of total 699
+
+i've won 304 out of total 699
+
+i've won 262 out of total 699
+
+i've won 282 out of total 699
+
+i've won 251 out of total 699
+
+i've won 280 out of total 699
+
+i've won 286 out of total 699
+
+i've won 271 out of total 699
+
+i've won 262 out of total 699
+
+i've won 274 out of total 699
+
+i've won 289 out of total 699
+
+i've won 269 out of total 699
+
+i've won 273 out of total 699
+
+i've won 292 out of total 699
+
+i've won 325 out of total 699
+
+i've won 308 out of total 699
+
+i've won 296 out of total 699
+
+i've won 309 out of total 699
+
+i've won 294 out of total 699
+
+i've won 321 out of total 699
+
+i've won 287 out of total 699
+
+i've won 280 out of total 699
+
+i've won 253 out of total 699
+
+i've won 291 out of total 699
+
+i've won 282 out of total 699
+
+i've won 286 out of total 699
+
+i've won 266 out of total 699
+
+i've won 306 out of total 699
+
+i've won 329 out of total 699
+
+i've won 307 out of total 699
+
+i've won 293 out of total 699
+
+i've won 308 out of total 699
+
+i've won 301 out of total 699
+
+i've won 308 out of total 699
+
+i've won 278 out of total 699
+
+i've won 315 out of total 699
+
+i've won 292 out of total 699
+
+i've won 303 out of total 699
+
+i've won 300 out of total 699
+
+i've won 316 out of total 699
+
+i've won 291 out of total 699
+
+i've won 315 out of total 699
+
+Generation: 8
+
+fitness after sort 0
+fitness after sort 0.344286
+fitness after sort 0.347143
+fitness after sort 0.348571
+fitness after sort 0.348571
+fitness after sort 0.358571
+fitness after sort 0.358571
+fitness after sort 0.36
+fitness after sort 0.36
+fitness after sort 0.361429
+fitness after sort 0.361429
+fitness after sort 0.361429
+fitness after sort 0.362857
+fitness after sort 0.364286
+fitness after sort 0.367143
+fitness after sort 0.368571
+fitness after sort 0.37
+fitness after sort 0.371429
+fitness after sort 0.372857
+fitness after sort 0.372857
+fitness after sort 0.374286
+fitness after sort 0.374286
+fitness after sort 0.374286
+fitness after sort 0.377143
+fitness after sort 0.377143
+fitness after sort 0.377143
+fitness after sort 0.38
+fitness after sort 0.38
+fitness after sort 0.38
+fitness after sort 0.38
+fitness after sort 0.382857
+fitness after sort 0.382857
+fitness after sort 0.384286
+fitness after sort 0.384286
+fitness after sort 0.384286
+fitness after sort 0.385714
+fitness after sort 0.385714
+fitness after sort 0.387143
+fitness after sort 0.387143
+fitness after sort 0.387143
+fitness after sort 0.388571
+fitness after sort 0.388571
+fitness after sort 0.388571
+fitness after sort 0.39
+fitness after sort 0.39
+fitness after sort 0.391429
+fitness after sort 0.391429
+fitness after sort 0.391429
+fitness after sort 0.392857
+fitness after sort 0.392857
+fitness after sort 0.394286
+fitness after sort 0.394286
+fitness after sort 0.397143
+fitness after sort 0.397143
+fitness after sort 0.397143
+fitness after sort 0.397143
+fitness after sort 0.398571
+fitness after sort 0.398571
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.405714
+fitness after sort 0.405714
+fitness after sort 0.405714
+fitness after sort 0.408571
+fitness after sort 0.408571
+fitness after sort 0.41
+fitness after sort 0.41
+fitness after sort 0.41
+fitness after sort 0.411429
+fitness after sort 0.412857
+fitness after sort 0.412857
+fitness after sort 0.414286
+fitness after sort 0.415714
+fitness after sort 0.415714
+fitness after sort 0.417143
+fitness after sort 0.417143
+fitness after sort 0.418571
+fitness after sort 0.42
+fitness after sort 0.422857
+fitness after sort 0.422857
+fitness after sort 0.424286
+fitness after sort 0.428571
+fitness after sort 0.43
+fitness after sort 0.432857
+fitness after sort 0.434286
+fitness after sort 0.437143
+fitness after sort 0.438571
+fitness after sort 0.44
+fitness after sort 0.44
+fitness after sort 0.44
+fitness after sort 0.441429
+fitness after sort 0.45
+fitness after sort 0.45
+fitness after sort 0.451429
+fitness after sort 0.458571
+fitness after sort 0.464286
+fitness after sort 0.47
+
+i've won 276 out of total 699
+
+i've won 277 out of total 699
+
+i've won 274 out of total 699
+
+i've won 265 out of total 699
+
+i've won 282 out of total 699
+
+i've won 254 out of total 699
+
+i've won 272 out of total 699
+
+i've won 265 out of total 699
+
+i've won 288 out of total 699
+
+i've won 252 out of total 699
+
+i've won 273 out of total 699
+
+i've won 271 out of total 699
+
+i've won 263 out of total 699
+
+i've won 282 out of total 699
+
+i've won 260 out of total 699
+
+i've won 281 out of total 699
+
+i've won 275 out of total 699
+
+i've won 274 out of total 699
+
+i've won 275 out of total 699
+
+i've won 262 out of total 699
+
+i've won 283 out of total 699
+
+i've won 266 out of total 699
+
+i've won 254 out of total 699
+
+i've won 290 out of total 699
+
+i've won 270 out of total 699
+
+i've won 283 out of total 699
+
+i've won 267 out of total 699
+
+i've won 256 out of total 699
+
+i've won 287 out of total 699
+
+i've won 261 out of total 699
+
+i've won 252 out of total 699
+
+i've won 268 out of total 699
+
+i've won 279 out of total 699
+
+i've won 266 out of total 699
+
+i've won 274 out of total 699
+
+i've won 275 out of total 699
+
+i've won 274 out of total 699
+
+i've won 273 out of total 699
+
+i've won 272 out of total 699
+
+i've won 290 out of total 699
+
+i've won 268 out of total 699
+
+i've won 261 out of total 699
+
+i've won 278 out of total 699
+
+i've won 268 out of total 699
+
+i've won 259 out of total 699
+
+i've won 280 out of total 699
+
+i've won 283 out of total 699
+
+i've won 254 out of total 699
+
+i've won 273 out of total 699
+
+i've won 262 out of total 699
+
+i've won 249 out of total 699
+
+i've won 281 out of total 699
+
+i've won 270 out of total 699
+
+i've won 262 out of total 699
+
+i've won 283 out of total 699
+
+i've won 259 out of total 699
+
+i've won 260 out of total 699
+
+i've won 293 out of total 699
+
+i've won 276 out of total 699
+
+i've won 284 out of total 699
+
+i've won 268 out of total 699
+
+i've won 276 out of total 699
+
+i've won 277 out of total 699
+
+i've won 265 out of total 699
+
+i've won 285 out of total 699
+
+i've won 299 out of total 699
+
+i've won 287 out of total 699
+
+i've won 285 out of total 699
+
+i've won 245 out of total 699
+
+i've won 277 out of total 699
+
+i've won 319 out of total 699
+
+i've won 298 out of total 699
+
+i've won 285 out of total 699
+
+i've won 299 out of total 699
+
+i've won 320 out of total 699
+
+i've won 282 out of total 699
+
+i've won 301 out of total 699
+
+i've won 300 out of total 699
+
+i've won 300 out of total 699
+
+i've won 294 out of total 699
+
+i've won 306 out of total 699
+
+i've won 290 out of total 699
+
+i've won 310 out of total 699
+
+i've won 301 out of total 699
+
+i've won 290 out of total 699
+
+i've won 287 out of total 699
+
+i've won 303 out of total 699
+
+i've won 311 out of total 699
+
+i've won 337 out of total 699
+
+i've won 307 out of total 699
+
+i've won 292 out of total 699
+
+i've won 318 out of total 699
+
+i've won 300 out of total 699
+
+i've won 307 out of total 699
+
+i've won 302 out of total 699
+
+i've won 317 out of total 699
+
+i've won 324 out of total 699
+
+i've won 297 out of total 699
+
+i've won 294 out of total 699
+
+Generation: 9
+
+fitness after sort 0
+fitness after sort 0.35
+fitness after sort 0.355714
+fitness after sort 0.36
+fitness after sort 0.36
+fitness after sort 0.362857
+fitness after sort 0.362857
+fitness after sort 0.362857
+fitness after sort 0.365714
+fitness after sort 0.37
+fitness after sort 0.37
+fitness after sort 0.371429
+fitness after sort 0.371429
+fitness after sort 0.372857
+fitness after sort 0.372857
+fitness after sort 0.374286
+fitness after sort 0.374286
+fitness after sort 0.374286
+fitness after sort 0.375714
+fitness after sort 0.378571
+fitness after sort 0.378571
+fitness after sort 0.378571
+fitness after sort 0.38
+fitness after sort 0.38
+fitness after sort 0.381429
+fitness after sort 0.382857
+fitness after sort 0.382857
+fitness after sort 0.382857
+fitness after sort 0.382857
+fitness after sort 0.385714
+fitness after sort 0.385714
+fitness after sort 0.387143
+fitness after sort 0.388571
+fitness after sort 0.388571
+fitness after sort 0.39
+fitness after sort 0.39
+fitness after sort 0.39
+fitness after sort 0.391429
+fitness after sort 0.391429
+fitness after sort 0.391429
+fitness after sort 0.391429
+fitness after sort 0.392857
+fitness after sort 0.392857
+fitness after sort 0.392857
+fitness after sort 0.394286
+fitness after sort 0.394286
+fitness after sort 0.394286
+fitness after sort 0.395714
+fitness after sort 0.395714
+fitness after sort 0.395714
+fitness after sort 0.397143
+fitness after sort 0.398571
+fitness after sort 0.4
+fitness after sort 0.401429
+fitness after sort 0.401429
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.404286
+fitness after sort 0.404286
+fitness after sort 0.404286
+fitness after sort 0.404286
+fitness after sort 0.405714
+fitness after sort 0.407143
+fitness after sort 0.407143
+fitness after sort 0.407143
+fitness after sort 0.41
+fitness after sort 0.41
+fitness after sort 0.41
+fitness after sort 0.411429
+fitness after sort 0.414286
+fitness after sort 0.414286
+fitness after sort 0.414286
+fitness after sort 0.414286
+fitness after sort 0.417143
+fitness after sort 0.418571
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.424286
+fitness after sort 0.425714
+fitness after sort 0.427143
+fitness after sort 0.427143
+fitness after sort 0.428571
+fitness after sort 0.428571
+fitness after sort 0.428571
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.431429
+fitness after sort 0.432857
+fitness after sort 0.437143
+fitness after sort 0.438571
+fitness after sort 0.438571
+fitness after sort 0.442857
+fitness after sort 0.444286
+fitness after sort 0.452857
+fitness after sort 0.454286
+fitness after sort 0.455714
+fitness after sort 0.457143
+fitness after sort 0.462857
+fitness after sort 0.481429
+
+i've won 263 out of total 699
+
+i've won 266 out of total 699
+
+i've won 283 out of total 699
+
+i've won 252 out of total 699
+
+i've won 255 out of total 699
+
+i've won 269 out of total 699
+
+i've won 278 out of total 699
+
+i've won 267 out of total 699
+
+i've won 278 out of total 699
+
+i've won 273 out of total 699
+
+i've won 265 out of total 699
+
+i've won 268 out of total 699
+
+i've won 283 out of total 699
+
+i've won 260 out of total 699
+
+i've won 271 out of total 699
+
+i've won 280 out of total 699
+
+i've won 255 out of total 699
+
+i've won 282 out of total 699
+
+i've won 278 out of total 699
+
+i've won 271 out of total 699
+
+i've won 264 out of total 699
+
+i've won 270 out of total 699
+
+i've won 252 out of total 699
+
+i've won 294 out of total 699
+
+i've won 290 out of total 699
+
+i've won 256 out of total 699
+
+i've won 262 out of total 699
+
+i've won 280 out of total 699
+
+i've won 282 out of total 699
+
+i've won 293 out of total 699
+
+i've won 262 out of total 699
+
+i've won 291 out of total 699
+
+i've won 264 out of total 699
+
+i've won 255 out of total 699
+
+i've won 266 out of total 699
+
+i've won 251 out of total 699
+
+i've won 281 out of total 699
+
+i've won 266 out of total 699
+
+i've won 253 out of total 699
+
+i've won 269 out of total 699
+
+i've won 301 out of total 699
+
+i've won 261 out of total 699
+
+i've won 275 out of total 699
+
+i've won 303 out of total 699
+
+i've won 269 out of total 699
+
+i've won 257 out of total 699
+
+i've won 275 out of total 699
+
+i've won 269 out of total 699
+
+i've won 272 out of total 699
+
+i've won 281 out of total 699
+
+i've won 283 out of total 699
+
+i've won 268 out of total 699
+
+i've won 271 out of total 699
+
+i've won 264 out of total 699
+
+i've won 251 out of total 699
+
+i've won 267 out of total 699
+
+i've won 282 out of total 699
+
+i've won 252 out of total 699
+
+i've won 248 out of total 699
+
+i've won 276 out of total 699
+
+i've won 285 out of total 699
+
+i've won 267 out of total 699
+
+i've won 282 out of total 699
+
+i've won 273 out of total 699
+
+i've won 271 out of total 699
+
+i've won 281 out of total 699
+
+i've won 259 out of total 699
+
+i've won 265 out of total 699
+
+i've won 282 out of total 699
+
+i've won 277 out of total 699
+
+i've won 301 out of total 699
+
+i've won 298 out of total 699
+
+i've won 289 out of total 699
+
+i've won 316 out of total 699
+
+i've won 303 out of total 699
+
+i've won 294 out of total 699
+
+i've won 296 out of total 699
+
+i've won 303 out of total 699
+
+i've won 317 out of total 699
+
+i've won 292 out of total 699
+
+i've won 308 out of total 699
+
+i've won 313 out of total 699
+
+i've won 285 out of total 699
+
+i've won 306 out of total 699
+
+i've won 316 out of total 699
+
+i've won 306 out of total 699
+
+i've won 302 out of total 699
+
+i've won 284 out of total 699
+
+i've won 311 out of total 699
+
+i've won 317 out of total 699
+
+i've won 289 out of total 699
+
+i've won 333 out of total 699
+
+i've won 275 out of total 699
+
+i've won 320 out of total 699
+
+i've won 295 out of total 699
+
+i've won 298 out of total 699
+
+i've won 304 out of total 699
+
+i've won 287 out of total 699
+
+i've won 335 out of total 699
+
+Generation: 10
+
+fitness after sort 0
+fitness after sort 0.354286
+fitness after sort 0.358571
+fitness after sort 0.358571
+fitness after sort 0.36
+fitness after sort 0.36
+fitness after sort 0.36
+fitness after sort 0.361429
+fitness after sort 0.364286
+fitness after sort 0.364286
+fitness after sort 0.364286
+fitness after sort 0.365714
+fitness after sort 0.367143
+fitness after sort 0.37
+fitness after sort 0.371429
+fitness after sort 0.372857
+fitness after sort 0.374286
+fitness after sort 0.374286
+fitness after sort 0.375714
+fitness after sort 0.377143
+fitness after sort 0.377143
+fitness after sort 0.377143
+fitness after sort 0.378571
+fitness after sort 0.378571
+fitness after sort 0.38
+fitness after sort 0.38
+fitness after sort 0.38
+fitness after sort 0.381429
+fitness after sort 0.381429
+fitness after sort 0.381429
+fitness after sort 0.382857
+fitness after sort 0.382857
+fitness after sort 0.384286
+fitness after sort 0.384286
+fitness after sort 0.384286
+fitness after sort 0.384286
+fitness after sort 0.385714
+fitness after sort 0.387143
+fitness after sort 0.387143
+fitness after sort 0.387143
+fitness after sort 0.387143
+fitness after sort 0.388571
+fitness after sort 0.39
+fitness after sort 0.39
+fitness after sort 0.392857
+fitness after sort 0.392857
+fitness after sort 0.392857
+fitness after sort 0.394286
+fitness after sort 0.395714
+fitness after sort 0.397143
+fitness after sort 0.397143
+fitness after sort 0.397143
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.401429
+fitness after sort 0.401429
+fitness after sort 0.401429
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.404286
+fitness after sort 0.404286
+fitness after sort 0.404286
+fitness after sort 0.405714
+fitness after sort 0.407143
+fitness after sort 0.407143
+fitness after sort 0.41
+fitness after sort 0.412857
+fitness after sort 0.412857
+fitness after sort 0.414286
+fitness after sort 0.415714
+fitness after sort 0.417143
+fitness after sort 0.418571
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.421429
+fitness after sort 0.422857
+fitness after sort 0.425714
+fitness after sort 0.425714
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.431429
+fitness after sort 0.432857
+fitness after sort 0.432857
+fitness after sort 0.432857
+fitness after sort 0.434286
+fitness after sort 0.437143
+fitness after sort 0.437143
+fitness after sort 0.44
+fitness after sort 0.444286
+fitness after sort 0.447143
+fitness after sort 0.451429
+fitness after sort 0.451429
+fitness after sort 0.452857
+fitness after sort 0.452857
+fitness after sort 0.457143
+fitness after sort 0.475714
+fitness after sort 0.478571
+
+i've won 279 out of total 699
+
+i've won 265 out of total 699
+
+i've won 291 out of total 699
+
+i've won 267 out of total 699
+
+i've won 266 out of total 699
+
+i've won 272 out of total 699
+
+i've won 269 out of total 699
+
+i've won 268 out of total 699
+
+i've won 274 out of total 699
+
+i've won 271 out of total 699
+
+i've won 250 out of total 699
+
+i've won 273 out of total 699
+
+i've won 277 out of total 699
+
+i've won 271 out of total 699
+
+i've won 272 out of total 699
+
+i've won 257 out of total 699
+
+i've won 296 out of total 699
+
+i've won 274 out of total 699
+
+i've won 279 out of total 699
+
+i've won 262 out of total 699
+
+i've won 261 out of total 699
+
+i've won 285 out of total 699
+
+i've won 278 out of total 699
+
+i've won 249 out of total 699
+
+i've won 276 out of total 699
+
+i've won 274 out of total 699
+
+i've won 246 out of total 699
+
+i've won 271 out of total 699
+
+i've won 248 out of total 699
+
+i've won 261 out of total 699
+
+i've won 282 out of total 699
+
+i've won 265 out of total 699
+
+i've won 267 out of total 699
+
+i've won 250 out of total 699
+
+i've won 280 out of total 699
+
+i've won 280 out of total 699
+
+i've won 273 out of total 699
+
+i've won 270 out of total 699
+
+i've won 280 out of total 699
+
+i've won 272 out of total 699
+
+i've won 276 out of total 699
+
+i've won 285 out of total 699
+
+i've won 248 out of total 699
+
+i've won 308 out of total 699
+
+i've won 294 out of total 699
+
+i've won 268 out of total 699
+
+i've won 286 out of total 699
+
+i've won 273 out of total 699
+
+i've won 281 out of total 699
+
+i've won 275 out of total 699
+
+i've won 246 out of total 699
+
+i've won 271 out of total 699
+
+i've won 283 out of total 699
+
+i've won 271 out of total 699
+
+i've won 294 out of total 699
+
+i've won 281 out of total 699
+
+i've won 284 out of total 699
+
+i've won 294 out of total 699
+
+i've won 280 out of total 699
+
+i've won 279 out of total 699
+
+i've won 265 out of total 699
+
+i've won 281 out of total 699
+
+i've won 291 out of total 699
+
+i've won 265 out of total 699
+
+i've won 251 out of total 699
+
+i've won 288 out of total 699
+
+i've won 258 out of total 699
+
+i've won 266 out of total 699
+
+i've won 262 out of total 699
+
+i've won 268 out of total 699
+
+i've won 282 out of total 699
+
+i've won 299 out of total 699
+
+i've won 306 out of total 699
+
+i've won 289 out of total 699
+
+i've won 283 out of total 699
+
+i've won 298 out of total 699
+
+i've won 296 out of total 699
+
+i've won 280 out of total 699
+
+i've won 307 out of total 699
+
+i've won 297 out of total 699
+
+i've won 316 out of total 699
+
+i've won 294 out of total 699
+
+i've won 293 out of total 699
+
+i've won 303 out of total 699
+
+i've won 292 out of total 699
+
+i've won 292 out of total 699
+
+i've won 290 out of total 699
+
+i've won 313 out of total 699
+
+i've won 305 out of total 699
+
+i've won 287 out of total 699
+
+i've won 317 out of total 699
+
+i've won 307 out of total 699
+
+i've won 294 out of total 699
+
+i've won 304 out of total 699
+
+i've won 303 out of total 699
+
+i've won 307 out of total 699
+
+i've won 301 out of total 699
+
+i've won 280 out of total 699
+
+i've won 301 out of total 699
+
+Generation: 11
+
+fitness after sort 0
+fitness after sort 0.351429
+fitness after sort 0.351429
+fitness after sort 0.354286
+fitness after sort 0.354286
+fitness after sort 0.355714
+fitness after sort 0.357143
+fitness after sort 0.357143
+fitness after sort 0.358571
+fitness after sort 0.367143
+fitness after sort 0.368571
+fitness after sort 0.372857
+fitness after sort 0.372857
+fitness after sort 0.374286
+fitness after sort 0.374286
+fitness after sort 0.378571
+fitness after sort 0.378571
+fitness after sort 0.378571
+fitness after sort 0.378571
+fitness after sort 0.38
+fitness after sort 0.38
+fitness after sort 0.381429
+fitness after sort 0.381429
+fitness after sort 0.382857
+fitness after sort 0.382857
+fitness after sort 0.382857
+fitness after sort 0.384286
+fitness after sort 0.385714
+fitness after sort 0.387143
+fitness after sort 0.387143
+fitness after sort 0.387143
+fitness after sort 0.387143
+fitness after sort 0.387143
+fitness after sort 0.388571
+fitness after sort 0.388571
+fitness after sort 0.388571
+fitness after sort 0.39
+fitness after sort 0.39
+fitness after sort 0.39
+fitness after sort 0.391429
+fitness after sort 0.391429
+fitness after sort 0.391429
+fitness after sort 0.392857
+fitness after sort 0.394286
+fitness after sort 0.394286
+fitness after sort 0.395714
+fitness after sort 0.397143
+fitness after sort 0.398571
+fitness after sort 0.398571
+fitness after sort 0.398571
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.401429
+fitness after sort 0.401429
+fitness after sort 0.401429
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.404286
+fitness after sort 0.404286
+fitness after sort 0.405714
+fitness after sort 0.407143
+fitness after sort 0.407143
+fitness after sort 0.408571
+fitness after sort 0.41
+fitness after sort 0.411429
+fitness after sort 0.412857
+fitness after sort 0.414286
+fitness after sort 0.415714
+fitness after sort 0.415714
+fitness after sort 0.417143
+fitness after sort 0.417143
+fitness after sort 0.418571
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.422857
+fitness after sort 0.422857
+fitness after sort 0.424286
+fitness after sort 0.425714
+fitness after sort 0.427143
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.432857
+fitness after sort 0.432857
+fitness after sort 0.434286
+fitness after sort 0.435714
+fitness after sort 0.437143
+fitness after sort 0.438571
+fitness after sort 0.438571
+fitness after sort 0.438571
+fitness after sort 0.44
+fitness after sort 0.447143
+fitness after sort 0.451429
+fitness after sort 0.452857
+
+i've won 262 out of total 699
+
+i've won 278 out of total 699
+
+i've won 254 out of total 699
+
+i've won 272 out of total 699
+
+i've won 284 out of total 699
+
+i've won 250 out of total 699
+
+i've won 252 out of total 699
+
+i've won 289 out of total 699
+
+i've won 271 out of total 699
+
+i've won 283 out of total 699
+
+i've won 265 out of total 699
+
+i've won 279 out of total 699
+
+i've won 269 out of total 699
+
+i've won 247 out of total 699
+
+i've won 281 out of total 699
+
+i've won 258 out of total 699
+
+i've won 260 out of total 699
+
+i've won 255 out of total 699
+
+i've won 267 out of total 699
+
+i've won 251 out of total 699
+
+i've won 265 out of total 699
+
+i've won 280 out of total 699
+
+i've won 272 out of total 699
+
+i've won 286 out of total 699
+
+i've won 248 out of total 699
+
+i've won 264 out of total 699
+
+i've won 290 out of total 699
+
+i've won 270 out of total 699
+
+i've won 264 out of total 699
+
+i've won 280 out of total 699
+
+i've won 287 out of total 699
+
+i've won 276 out of total 699
+
+i've won 281 out of total 699
+
+i've won 265 out of total 699
+
+i've won 281 out of total 699
+
+i've won 257 out of total 699
+
+i've won 281 out of total 699
+
+i've won 269 out of total 699
+
+i've won 276 out of total 699
+
+i've won 287 out of total 699
+
+i've won 271 out of total 699
+
+i've won 268 out of total 699
+
+i've won 280 out of total 699
+
+i've won 282 out of total 699
+
+i've won 282 out of total 699
+
+i've won 272 out of total 699
+
+i've won 274 out of total 699
+
+i've won 270 out of total 699
+
+i've won 281 out of total 699
+
+i've won 279 out of total 699
+
+i've won 276 out of total 699
+
+i've won 292 out of total 699
+
+i've won 247 out of total 699
+
+i've won 274 out of total 699
+
+i've won 260 out of total 699
+
+i've won 285 out of total 699
+
+i've won 259 out of total 699
+
+i've won 267 out of total 699
+
+i've won 272 out of total 699
+
+i've won 271 out of total 699
+
+i've won 253 out of total 699
+
+i've won 271 out of total 699
+
+i've won 257 out of total 699
+
+i've won 272 out of total 699
+
+i've won 266 out of total 699
+
+i've won 275 out of total 699
+
+i've won 300 out of total 699
+
+i've won 280 out of total 699
+
+i've won 252 out of total 699
+
+i've won 280 out of total 699
+
+i've won 329 out of total 699
+
+i've won 283 out of total 699
+
+i've won 316 out of total 699
+
+i've won 295 out of total 699
+
+i've won 305 out of total 699
+
+i've won 311 out of total 699
+
+i've won 316 out of total 699
+
+i've won 298 out of total 699
+
+i've won 316 out of total 699
+
+i've won 299 out of total 699
+
+i've won 312 out of total 699
+
+i've won 313 out of total 699
+
+i've won 307 out of total 699
+
+i've won 276 out of total 699
+
+i've won 306 out of total 699
+
+i've won 312 out of total 699
+
+i've won 298 out of total 699
+
+i've won 315 out of total 699
+
+i've won 305 out of total 699
+
+i've won 320 out of total 699
+
+i've won 295 out of total 699
+
+i've won 293 out of total 699
+
+i've won 300 out of total 699
+
+i've won 303 out of total 699
+
+i've won 292 out of total 699
+
+i've won 313 out of total 699
+
+i've won 296 out of total 699
+
+i've won 303 out of total 699
+
+i've won 274 out of total 699
+
+Generation: 12
+
+fitness after sort 0
+fitness after sort 0.352857
+fitness after sort 0.352857
+fitness after sort 0.354286
+fitness after sort 0.357143
+fitness after sort 0.358571
+fitness after sort 0.36
+fitness after sort 0.36
+fitness after sort 0.361429
+fitness after sort 0.362857
+fitness after sort 0.364286
+fitness after sort 0.367143
+fitness after sort 0.367143
+fitness after sort 0.368571
+fitness after sort 0.37
+fitness after sort 0.371429
+fitness after sort 0.371429
+fitness after sort 0.374286
+fitness after sort 0.377143
+fitness after sort 0.377143
+fitness after sort 0.378571
+fitness after sort 0.378571
+fitness after sort 0.378571
+fitness after sort 0.38
+fitness after sort 0.381429
+fitness after sort 0.381429
+fitness after sort 0.382857
+fitness after sort 0.384286
+fitness after sort 0.384286
+fitness after sort 0.385714
+fitness after sort 0.385714
+fitness after sort 0.387143
+fitness after sort 0.387143
+fitness after sort 0.387143
+fitness after sort 0.387143
+fitness after sort 0.388571
+fitness after sort 0.388571
+fitness after sort 0.388571
+fitness after sort 0.388571
+fitness after sort 0.388571
+fitness after sort 0.391429
+fitness after sort 0.391429
+fitness after sort 0.391429
+fitness after sort 0.392857
+fitness after sort 0.394286
+fitness after sort 0.394286
+fitness after sort 0.394286
+fitness after sort 0.394286
+fitness after sort 0.397143
+fitness after sort 0.398571
+fitness after sort 0.398571
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.401429
+fitness after sort 0.401429
+fitness after sort 0.401429
+fitness after sort 0.401429
+fitness after sort 0.401429
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.404286
+fitness after sort 0.404286
+fitness after sort 0.405714
+fitness after sort 0.407143
+fitness after sort 0.408571
+fitness after sort 0.41
+fitness after sort 0.41
+fitness after sort 0.412857
+fitness after sort 0.414286
+fitness after sort 0.417143
+fitness after sort 0.417143
+fitness after sort 0.418571
+fitness after sort 0.421429
+fitness after sort 0.421429
+fitness after sort 0.422857
+fitness after sort 0.425714
+fitness after sort 0.425714
+fitness after sort 0.427143
+fitness after sort 0.428571
+fitness after sort 0.428571
+fitness after sort 0.432857
+fitness after sort 0.432857
+fitness after sort 0.435714
+fitness after sort 0.435714
+fitness after sort 0.437143
+fitness after sort 0.438571
+fitness after sort 0.444286
+fitness after sort 0.445714
+fitness after sort 0.445714
+fitness after sort 0.447143
+fitness after sort 0.447143
+fitness after sort 0.45
+fitness after sort 0.451429
+fitness after sort 0.451429
+fitness after sort 0.451429
+fitness after sort 0.457143
+fitness after sort 0.47
+
+i've won 278 out of total 699
+
+i've won 270 out of total 699
+
+i've won 257 out of total 699
+
+i've won 289 out of total 699
+
+i've won 273 out of total 699
+
+i've won 277 out of total 699
+
+i've won 256 out of total 699
+
+i've won 259 out of total 699
+
+i've won 263 out of total 699
+
+i've won 298 out of total 699
+
+i've won 277 out of total 699
+
+i've won 271 out of total 699
+
+i've won 282 out of total 699
+
+i've won 274 out of total 699
+
+i've won 273 out of total 699
+
+i've won 284 out of total 699
+
+i've won 282 out of total 699
+
+i've won 248 out of total 699
+
+i've won 272 out of total 699
+
+i've won 271 out of total 699
+
+i've won 269 out of total 699
+
+i've won 292 out of total 699
+
+i've won 277 out of total 699
+
+i've won 274 out of total 699
+
+i've won 274 out of total 699
+
+i've won 276 out of total 699
+
+i've won 256 out of total 699
+
+i've won 258 out of total 699
+
+i've won 265 out of total 699
+
+i've won 264 out of total 699
+
+i've won 271 out of total 699
+
+i've won 248 out of total 699
+
+i've won 278 out of total 699
+
+i've won 249 out of total 699
+
+i've won 260 out of total 699
+
+i've won 265 out of total 699
+
+i've won 261 out of total 699
+
+i've won 273 out of total 699
+
+i've won 265 out of total 699
+
+i've won 278 out of total 699
+
+i've won 293 out of total 699
+
+i've won 248 out of total 699
+
+i've won 269 out of total 699
+
+i've won 268 out of total 699
+
+i've won 279 out of total 699
+
+i've won 281 out of total 699
+
+i've won 266 out of total 699
+
+i've won 284 out of total 699
+
+i've won 259 out of total 699
+
+i've won 289 out of total 699
+
+i've won 249 out of total 699
+
+i've won 272 out of total 699
+
+i've won 266 out of total 699
+
+i've won 262 out of total 699
+
+i've won 288 out of total 699
+
+i've won 266 out of total 699
+
+i've won 283 out of total 699
+
+i've won 262 out of total 699
+
+i've won 277 out of total 699
+
+i've won 249 out of total 699
+
+i've won 279 out of total 699
+
+i've won 279 out of total 699
+
+i've won 273 out of total 699
+
+i've won 271 out of total 699
+
+i've won 252 out of total 699
+
+i've won 262 out of total 699
+
+i've won 258 out of total 699
+
+i've won 276 out of total 699
+
+i've won 268 out of total 699
+
+i've won 276 out of total 699
+
+i've won 305 out of total 699
+
+i've won 291 out of total 699
+
+i've won 302 out of total 699
+
+i've won 308 out of total 699
+
+i've won 333 out of total 699
+
+i've won 329 out of total 699
+
+i've won 313 out of total 699
+
+i've won 317 out of total 699
+
+i've won 305 out of total 699
+
+i've won 302 out of total 699
+
+i've won 297 out of total 699
+
+i've won 289 out of total 699
+
+i've won 290 out of total 699
+
+i've won 297 out of total 699
+
+i've won 296 out of total 699
+
+i've won 300 out of total 699
+
+i've won 298 out of total 699
+
+i've won 322 out of total 699
+
+i've won 307 out of total 699
+
+i've won 296 out of total 699
+
+i've won 311 out of total 699
+
+i've won 302 out of total 699
+
+i've won 293 out of total 699
+
+i've won 295 out of total 699
+
+i've won 313 out of total 699
+
+i've won 294 out of total 699
+
+i've won 314 out of total 699
+
+i've won 289 out of total 699
+
+i've won 322 out of total 699
+
+Generation: 13
+
+fitness after sort 0
+fitness after sort 0.354286
+fitness after sort 0.354286
+fitness after sort 0.354286
+fitness after sort 0.355714
+fitness after sort 0.355714
+fitness after sort 0.355714
+fitness after sort 0.36
+fitness after sort 0.365714
+fitness after sort 0.365714
+fitness after sort 0.367143
+fitness after sort 0.368571
+fitness after sort 0.368571
+fitness after sort 0.37
+fitness after sort 0.37
+fitness after sort 0.371429
+fitness after sort 0.372857
+fitness after sort 0.374286
+fitness after sort 0.374286
+fitness after sort 0.374286
+fitness after sort 0.375714
+fitness after sort 0.377143
+fitness after sort 0.378571
+fitness after sort 0.378571
+fitness after sort 0.378571
+fitness after sort 0.38
+fitness after sort 0.38
+fitness after sort 0.38
+fitness after sort 0.382857
+fitness after sort 0.382857
+fitness after sort 0.384286
+fitness after sort 0.384286
+fitness after sort 0.385714
+fitness after sort 0.387143
+fitness after sort 0.387143
+fitness after sort 0.387143
+fitness after sort 0.387143
+fitness after sort 0.388571
+fitness after sort 0.388571
+fitness after sort 0.39
+fitness after sort 0.39
+fitness after sort 0.39
+fitness after sort 0.39
+fitness after sort 0.391429
+fitness after sort 0.391429
+fitness after sort 0.391429
+fitness after sort 0.394286
+fitness after sort 0.394286
+fitness after sort 0.394286
+fitness after sort 0.395714
+fitness after sort 0.395714
+fitness after sort 0.395714
+fitness after sort 0.395714
+fitness after sort 0.397143
+fitness after sort 0.397143
+fitness after sort 0.397143
+fitness after sort 0.398571
+fitness after sort 0.398571
+fitness after sort 0.398571
+fitness after sort 0.401429
+fitness after sort 0.402857
+fitness after sort 0.402857
+fitness after sort 0.404286
+fitness after sort 0.405714
+fitness after sort 0.405714
+fitness after sort 0.411429
+fitness after sort 0.412857
+fitness after sort 0.412857
+fitness after sort 0.412857
+fitness after sort 0.412857
+fitness after sort 0.414286
+fitness after sort 0.415714
+fitness after sort 0.417143
+fitness after sort 0.418571
+fitness after sort 0.418571
+fitness after sort 0.42
+fitness after sort 0.421429
+fitness after sort 0.422857
+fitness after sort 0.422857
+fitness after sort 0.424286
+fitness after sort 0.424286
+fitness after sort 0.425714
+fitness after sort 0.425714
+fitness after sort 0.428571
+fitness after sort 0.431429
+fitness after sort 0.431429
+fitness after sort 0.431429
+fitness after sort 0.435714
+fitness after sort 0.435714
+fitness after sort 0.438571
+fitness after sort 0.44
+fitness after sort 0.444286
+fitness after sort 0.447143
+fitness after sort 0.447143
+fitness after sort 0.448571
+fitness after sort 0.452857
+fitness after sort 0.46
+fitness after sort 0.46
+fitness after sort 0.47
+fitness after sort 0.475714
+
+i've won 276 out of total 699
+
+i've won 270 out of total 699
+
+i've won 290 out of total 699
+
+i've won 273 out of total 699
+
+i've won 307 out of total 699
+
+i've won 246 out of total 699
+
+i've won 287 out of total 699
+
+i've won 261 out of total 699
+
+i've won 261 out of total 699
+
+i've won 272 out of total 699
+
+i've won 266 out of total 699
+
+i've won 309 out of total 699
+
+i've won 240 out of total 699
+
+i've won 254 out of total 699
+
+i've won 264 out of total 699
+
+i've won 283 out of total 699
+
+i've won 284 out of total 699
+
+i've won 274 out of total 699
+
+i've won 265 out of total 699
+
+i've won 265 out of total 699
+
+i've won 263 out of total 699
+
+i've won 275 out of total 699
+
+i've won 269 out of total 699
+
+i've won 268 out of total 699
+
+i've won 282 out of total 699
+
+i've won 259 out of total 699
+
+i've won 289 out of total 699
+
+i've won 271 out of total 699
+
+i've won 247 out of total 699
+
+i've won 264 out of total 699
+
+i've won 289 out of total 699
+
+i've won 278 out of total 699
+
+i've won 266 out of total 699
+
+i've won 271 out of total 699
+
+i've won 267 out of total 699
+
+i've won 259 out of total 699
+
+i've won 271 out of total 699
+
+i've won 251 out of total 699
+
+i've won 283 out of total 699
+
+i've won 259 out of total 699
+
+i've won 281 out of total 699
+
+i've won 254 out of total 699
+
+i've won 278 out of total 699
+
+i've won 284 out of total 699
+
+Chromosone: 0
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 1
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 2
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 3
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 4
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 5
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 6
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 7
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 8
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 9
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 10
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 11
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 12
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 13
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 14
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 15
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 16
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 17
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 18
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 19
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 20
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 21
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 22
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 23
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 24
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 25
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 26
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 27
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 28
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 29
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 30
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 31
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 32
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 33
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 34
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 35
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 36
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 37
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 38
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 39
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 40
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 41
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 42
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 43
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 44
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 45
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 46
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 47
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 48
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 49
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 50
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 51
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 52
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 53
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 54
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 55
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 56
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 57
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 58
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 59
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 60
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 61
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 62
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 63
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 64
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 65
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 66
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 67
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 68
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0536411
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 69
+	has gene weights :0.853641
+	has gene weights :0.553641
+	has gene weights :-0.0219658
+	has gene weights :0.402427
+	has gene weights :0.729248
+	has gene weights :0.529248
+	has gene weights :0.0292479
+	has gene weights :0.653641
+	has gene weights :0.153641
+
+Chromosone: 70
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0780342
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 71
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0780342
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 72
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0536411
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 73
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0780342
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 74
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0780342
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 75
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0536411
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 76
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0780342
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 77
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0536411
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 78
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0780342
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 79
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0536411
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 80
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0780342
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 81
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0536411
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 82
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0536411
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 83
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0536411
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 84
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0536411
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 85
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0780342
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 86
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0536411
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 87
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0536411
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 88
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0536411
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 89
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0780342
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 90
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0536411
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 91
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0536411
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 92
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0780342
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 93
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0536411
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 94
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0780342
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 95
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0780342
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 96
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0780342
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 97
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0780342
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 98
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0536411
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+Chromosone: 99
+	has gene weights :0.878034
+	has gene weights :0.578034
+	has gene weights :0.00242738
+	has gene weights :0.42682
+	has gene weights :0.753641
+	has gene weights :0.553641
+	has gene weights :0.0780342
+	has gene weights :0.678034
+	has gene weights :0.178034
+
+biggest win 	0.418571
+Generation win	20335
+ Most wins weigths
+weights	0.878034
+weights	0.578034
+weights	0.00242738
+weights	0.42682
+weights	0.753641
+weights	0.553641
+weights	0.0780342
+weights	0.678034
+weights	0.178034
+biggest win 	0.468571
+Generation win	27298
+ Most wins weigths
+weights	0.878034
+weights	0.578034
+weights	0.00242738
+weights	0.42682
+weights	0.753641
+weights	0.553641
+weights	0.0780342
+weights	0.678034
+weights	0.178034
+biggest win 	0.448571
+Generation win	27988
+ Most wins weigths
+weights	0.878034
+weights	0.578034
+weights	0.00242738
+weights	0.42682
+weights	0.753641
+weights	0.553641
+weights	0.0780342
+weights	0.678034
+weights	0.178034
+biggest win 	0.458571
+Generation win	28642
+ Most wins weigths
+weights	0.878034
+weights	0.578034
+weights	0.00242738
+weights	0.42682
+weights	0.753641
+weights	0.553641
+weights	0.0780342
+weights	0.678034
+weights	0.178034
+biggest win 	0.46
+Generation win	28582
+ Most wins weigths
+weights	0.878034
+weights	0.578034
+weights	0.00242738
+weights	0.42682
+weights	0.753641
+weights	0.553641
+weights	0.0780342
+weights	0.678034
+weights	0.178034
+biggest win 	0.455714
+Generation win	28737
+ Most wins weigths
+weights	0.878034
+weights	0.578034
+weights	0.00242738
+weights	0.42682
+weights	0.753641
+weights	0.553641
+weights	0.0780342
+weights	0.678034
+weights	0.178034
+biggest win 	0.46
+Generation win	29098
+ Most wins weigths
+weights	0.878034
+weights	0.578034
+weights	0.00242738
+weights	0.42682
+weights	0.753641
+weights	0.553641
+weights	0.0780342
+weights	0.678034
+weights	0.178034
+biggest win 	0.488571
+Generation win	28707
+ Most wins weigths
+weights	0.878034
+weights	0.578034
+weights	0.00242738
+weights	0.42682
+weights	0.753641
+weights	0.553641
+weights	0.0780342
+weights	0.678034
+weights	0.178034
+biggest win 	0.47
+Generation win	27558
+ Most wins weigths
+weights	0.878034
+weights	0.578034
+weights	0.00242738
+weights	0.42682
+weights	0.753641
+weights	0.553641
+weights	0.0780342
+weights	0.678034
+weights	0.178034
+biggest win 	0.481429
+Generation win	27819
+ Most wins weigths
+weights	0.878034
+weights	0.578034
+weights	0.00242738
+weights	0.42682
+weights	0.753641
+weights	0.553641
+weights	0.0780342
+weights	0.678034
+weights	0.178034
+biggest win 	0.478571
+Generation win	27758
+ Most wins weigths
+weights	0.878034
+weights	0.578034
+weights	0.00242738
+weights	0.42682
+weights	0.753641
+weights	0.553641
+weights	0.0780342
+weights	0.678034
+weights	0.178034
+biggest win 	0.452857
+Generation win	27709
+ Most wins weigths
+weights	0.878034
+weights	0.578034
+weights	0.00242738
+weights	0.42682
+weights	0.753641
+weights	0.553641
+weights	0.0780342
+weights	0.678034
+weights	0.178034
+biggest win 	0.47
+Generation win	27775
+ Most wins weigths
+weights	0.878034
+weights	0.578034
+weights	0.00242738
+weights	0.42682
+weights	0.753641
+weights	0.553641
+weights	0.0780342
+weights	0.678034
+weights	0.178034
+Player 0 won: 397846 times.
+Player 1 won: 204978 times.
+Player 2 won: 198107 times.
+Player 3 won: 199069 times.

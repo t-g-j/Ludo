@@ -1715,7 +1715,8 @@ main.o: main.cpp dialog.h \
 		ludo_player.h \
 		../../../../Qt/5.10.1/clang_64/lib/QtCore.framework/Headers/QObject \
 		ludo_player_random.h \
-		ludo_player_ga.h
+		ludo_player_ga.h \
+		ludo_player_q.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o main.o main.cpp
 
 dialog.o: dialog.cpp dialog.h \

@@ -1,0 +1,4122 @@
+
+i've won 121 out of total 499
+
+i've won 143 out of total 499
+
+i've won 136 out of total 499
+
+i've won 132 out of total 499
+
+i've won 128 out of total 499
+
+i've won 148 out of total 499
+
+i've won 156 out of total 499
+
+i've won 176 out of total 499
+
+i've won 165 out of total 499
+
+i've won 174 out of total 499
+
+i've won 119 out of total 499
+
+i've won 216 out of total 499
+
+i've won 130 out of total 499
+
+i've won 152 out of total 499
+
+i've won 115 out of total 499
+
+i've won 204 out of total 499
+
+i've won 114 out of total 499
+
+i've won 130 out of total 499
+
+i've won 159 out of total 499
+
+i've won 159 out of total 499
+
+i've won 141 out of total 499
+
+i've won 173 out of total 499
+
+i've won 156 out of total 499
+
+i've won 118 out of total 499
+
+i've won 178 out of total 499
+
+i've won 103 out of total 499
+
+i've won 117 out of total 499
+
+i've won 151 out of total 499
+
+i've won 166 out of total 499
+
+i've won 138 out of total 499
+
+i've won 115 out of total 499
+
+i've won 110 out of total 499
+
+i've won 192 out of total 499
+
+i've won 165 out of total 499
+
+i've won 147 out of total 499
+
+i've won 188 out of total 499
+
+i've won 96 out of total 499
+
+i've won 151 out of total 499
+
+i've won 170 out of total 499
+
+i've won 120 out of total 499
+
+i've won 151 out of total 499
+
+i've won 153 out of total 499
+
+i've won 103 out of total 499
+
+i've won 144 out of total 499
+
+i've won 110 out of total 499
+
+i've won 161 out of total 499
+
+i've won 115 out of total 499
+
+i've won 158 out of total 499
+
+i've won 155 out of total 499
+
+i've won 112 out of total 499
+
+i've won 162 out of total 499
+
+i've won 115 out of total 499
+
+i've won 159 out of total 499
+
+i've won 177 out of total 499
+
+i've won 200 out of total 499
+
+i've won 103 out of total 499
+
+i've won 129 out of total 499
+
+i've won 127 out of total 499
+
+i've won 109 out of total 499
+
+i've won 163 out of total 499
+
+i've won 173 out of total 499
+
+i've won 189 out of total 499
+
+i've won 128 out of total 499
+
+i've won 110 out of total 499
+
+i've won 109 out of total 499
+
+i've won 123 out of total 499
+
+i've won 160 out of total 499
+
+i've won 204 out of total 499
+
+i've won 119 out of total 499
+
+i've won 109 out of total 499
+
+i've won 141 out of total 499
+
+i've won 149 out of total 499
+
+i've won 142 out of total 499
+
+i've won 168 out of total 499
+
+i've won 117 out of total 499
+
+i've won 148 out of total 499
+
+i've won 164 out of total 499
+
+i've won 101 out of total 499
+
+i've won 117 out of total 499
+
+i've won 131 out of total 499
+
+i've won 165 out of total 499
+
+i've won 168 out of total 499
+
+i've won 115 out of total 499
+
+i've won 173 out of total 499
+
+i've won 99 out of total 499
+
+i've won 197 out of total 499
+
+i've won 101 out of total 499
+
+i've won 170 out of total 499
+
+i've won 180 out of total 499
+
+i've won 152 out of total 499
+
+i've won 156 out of total 499
+
+i've won 165 out of total 499
+
+i've won 163 out of total 499
+
+i've won 133 out of total 499
+
+i've won 169 out of total 499
+
+i've won 161 out of total 499
+
+i've won 170 out of total 499
+
+i've won 122 out of total 499
+
+i've won 158 out of total 499
+
+Generation: 0
+
+fitness after sort 0.432
+
+i've won 160 out of total 499
+
+i've won 116 out of total 499
+
+i've won 166 out of total 499
+
+i've won 191 out of total 499
+
+i've won 207 out of total 499
+
+i've won 216 out of total 499
+
+i've won 198 out of total 499
+
+i've won 91 out of total 499
+
+i've won 220 out of total 499
+
+i've won 167 out of total 499
+
+i've won 163 out of total 499
+
+i've won 133 out of total 499
+
+i've won 184 out of total 499
+
+i've won 224 out of total 499
+
+i've won 122 out of total 499
+
+i've won 185 out of total 499
+
+i've won 136 out of total 499
+
+i've won 178 out of total 499
+
+i've won 184 out of total 499
+
+i've won 180 out of total 499
+
+i've won 204 out of total 499
+
+i've won 156 out of total 499
+
+i've won 120 out of total 499
+
+i've won 187 out of total 499
+
+i've won 182 out of total 499
+
+i've won 206 out of total 499
+
+i've won 173 out of total 499
+
+i've won 202 out of total 499
+
+i've won 217 out of total 499
+
+i've won 230 out of total 499
+
+i've won 97 out of total 499
+
+i've won 194 out of total 499
+
+i've won 164 out of total 499
+
+i've won 200 out of total 499
+
+i've won 197 out of total 499
+
+i've won 207 out of total 499
+
+i've won 181 out of total 499
+
+i've won 212 out of total 499
+
+i've won 198 out of total 499
+
+i've won 199 out of total 499
+
+i've won 199 out of total 499
+
+i've won 205 out of total 499
+
+i've won 192 out of total 499
+
+i've won 172 out of total 499
+
+i've won 221 out of total 499
+
+i've won 222 out of total 499
+
+i've won 202 out of total 499
+
+i've won 207 out of total 499
+
+i've won 181 out of total 499
+
+i've won 204 out of total 499
+
+i've won 201 out of total 499
+
+i've won 190 out of total 499
+
+i've won 219 out of total 499
+
+i've won 189 out of total 499
+
+i've won 192 out of total 499
+
+i've won 126 out of total 499
+
+i've won 209 out of total 499
+
+i've won 178 out of total 499
+
+i've won 178 out of total 499
+
+i've won 199 out of total 499
+
+i've won 159 out of total 499
+
+i've won 207 out of total 499
+
+i've won 181 out of total 499
+
+i've won 123 out of total 499
+
+i've won 202 out of total 499
+
+i've won 196 out of total 499
+
+i've won 174 out of total 499
+
+i've won 213 out of total 499
+
+i've won 172 out of total 499
+
+i've won 161 out of total 499
+
+i've won 200 out of total 499
+
+i've won 169 out of total 499
+
+i've won 145 out of total 499
+
+i've won 215 out of total 499
+
+i've won 108 out of total 499
+
+i've won 215 out of total 499
+
+i've won 218 out of total 499
+
+i've won 203 out of total 499
+
+i've won 187 out of total 499
+
+i've won 182 out of total 499
+
+i've won 188 out of total 499
+
+i've won 211 out of total 499
+
+i've won 170 out of total 499
+
+i've won 187 out of total 499
+
+i've won 192 out of total 499
+
+i've won 106 out of total 499
+
+i've won 205 out of total 499
+
+i've won 218 out of total 499
+
+i've won 224 out of total 499
+
+i've won 110 out of total 499
+
+i've won 216 out of total 499
+
+i've won 174 out of total 499
+
+i've won 108 out of total 499
+
+i've won 133 out of total 499
+
+i've won 189 out of total 499
+
+i've won 175 out of total 499
+
+i've won 144 out of total 499
+
+i've won 217 out of total 499
+
+i've won 181 out of total 499
+
+Generation: 1
+
+
+fitness after sort 0.46
+
+i've won 203 out of total 499
+
+i've won 190 out of total 499
+
+i've won 200 out of total 499
+
+i've won 178 out of total 499
+
+i've won 194 out of total 499
+
+i've won 203 out of total 499
+
+i've won 223 out of total 499
+
+i've won 204 out of total 499
+
+i've won 220 out of total 499
+
+i've won 204 out of total 499
+
+i've won 187 out of total 499
+
+i've won 210 out of total 499
+
+i've won 191 out of total 499
+
+i've won 193 out of total 499
+
+i've won 177 out of total 499
+
+i've won 176 out of total 499
+
+i've won 203 out of total 499
+
+i've won 196 out of total 499
+
+i've won 196 out of total 499
+
+i've won 186 out of total 499
+
+i've won 181 out of total 499
+
+i've won 216 out of total 499
+
+i've won 189 out of total 499
+
+i've won 205 out of total 499
+
+i've won 203 out of total 499
+
+i've won 213 out of total 499
+
+i've won 191 out of total 499
+
+i've won 183 out of total 499
+
+i've won 214 out of total 499
+
+i've won 194 out of total 499
+
+i've won 185 out of total 499
+
+i've won 217 out of total 499
+
+i've won 185 out of total 499
+
+i've won 200 out of total 499
+
+i've won 203 out of total 499
+
+i've won 209 out of total 499
+
+i've won 205 out of total 499
+
+i've won 210 out of total 499
+
+i've won 203 out of total 499
+
+i've won 193 out of total 499
+
+i've won 213 out of total 499
+
+i've won 185 out of total 499
+
+i've won 212 out of total 499
+
+i've won 200 out of total 499
+
+i've won 194 out of total 499
+
+i've won 189 out of total 499
+
+i've won 190 out of total 499
+
+i've won 192 out of total 499
+
+i've won 185 out of total 499
+
+i've won 180 out of total 499
+
+i've won 222 out of total 499
+
+i've won 219 out of total 499
+
+i've won 223 out of total 499
+
+i've won 196 out of total 499
+
+i've won 203 out of total 499
+
+i've won 180 out of total 499
+
+i've won 231 out of total 499
+
+i've won 241 out of total 499
+
+i've won 207 out of total 499
+
+i've won 211 out of total 499
+
+i've won 204 out of total 499
+
+i've won 193 out of total 499
+
+i've won 213 out of total 499
+
+i've won 205 out of total 499
+
+i've won 199 out of total 499
+
+i've won 197 out of total 499
+
+i've won 211 out of total 499
+
+i've won 200 out of total 499
+
+i've won 199 out of total 499
+
+i've won 211 out of total 499
+
+i've won 174 out of total 499
+
+i've won 209 out of total 499
+
+i've won 220 out of total 499
+
+i've won 204 out of total 499
+
+i've won 190 out of total 499
+
+i've won 186 out of total 499
+
+i've won 200 out of total 499
+
+i've won 208 out of total 499
+
+i've won 212 out of total 499
+
+i've won 206 out of total 499
+
+i've won 236 out of total 499
+
+i've won 178 out of total 499
+
+i've won 187 out of total 499
+
+i've won 211 out of total 499
+
+i've won 172 out of total 499
+
+i've won 222 out of total 499
+
+i've won 208 out of total 499
+
+i've won 222 out of total 499
+
+i've won 198 out of total 499
+
+i've won 199 out of total 499
+
+i've won 210 out of total 499
+
+i've won 197 out of total 499
+
+i've won 195 out of total 499
+
+i've won 187 out of total 499
+
+i've won 186 out of total 499
+
+i've won 192 out of total 499
+
+i've won 183 out of total 499
+
+i've won 185 out of total 499
+
+i've won 214 out of total 499
+
+Generation: 2
+
+
+fitness after sort 0.482
+
+i've won 202 out of total 499
+
+i've won 200 out of total 499
+
+i've won 210 out of total 499
+
+i've won 201 out of total 499
+
+i've won 208 out of total 499
+
+i've won 204 out of total 499
+
+i've won 202 out of total 499
+
+i've won 215 out of total 499
+
+i've won 210 out of total 499
+
+i've won 216 out of total 499
+
+i've won 218 out of total 499
+
+i've won 219 out of total 499
+
+i've won 218 out of total 499
+
+i've won 228 out of total 499
+
+i've won 215 out of total 499
+
+i've won 216 out of total 499
+
+i've won 232 out of total 499
+
+i've won 208 out of total 499
+
+i've won 214 out of total 499
+
+i've won 213 out of total 499
+
+i've won 200 out of total 499
+
+i've won 199 out of total 499
+
+i've won 212 out of total 499
+
+i've won 216 out of total 499
+
+i've won 207 out of total 499
+
+i've won 198 out of total 499
+
+i've won 205 out of total 499
+
+i've won 215 out of total 499
+
+i've won 224 out of total 499
+
+i've won 229 out of total 499
+
+i've won 221 out of total 499
+
+i've won 216 out of total 499
+
+i've won 207 out of total 499
+
+i've won 215 out of total 499
+
+i've won 208 out of total 499
+
+i've won 198 out of total 499
+
+i've won 227 out of total 499
+
+i've won 229 out of total 499
+
+i've won 219 out of total 499
+
+i've won 209 out of total 499
+
+i've won 224 out of total 499
+
+i've won 237 out of total 499
+
+i've won 208 out of total 499
+
+i've won 222 out of total 499
+
+i've won 208 out of total 499
+
+i've won 231 out of total 499
+
+i've won 214 out of total 499
+
+i've won 210 out of total 499
+
+i've won 231 out of total 499
+
+i've won 227 out of total 499
+
+i've won 197 out of total 499
+
+i've won 219 out of total 499
+
+i've won 206 out of total 499
+
+i've won 223 out of total 499
+
+i've won 200 out of total 499
+
+i've won 218 out of total 499
+
+i've won 225 out of total 499
+
+i've won 246 out of total 499
+
+i've won 210 out of total 499
+
+i've won 212 out of total 499
+
+i've won 205 out of total 499
+
+i've won 208 out of total 499
+
+i've won 207 out of total 499
+
+i've won 211 out of total 499
+
+i've won 230 out of total 499
+
+i've won 213 out of total 499
+
+i've won 195 out of total 499
+
+i've won 219 out of total 499
+
+i've won 227 out of total 499
+
+i've won 222 out of total 499
+
+i've won 196 out of total 499
+
+i've won 192 out of total 499
+
+i've won 236 out of total 499
+
+i've won 223 out of total 499
+
+i've won 213 out of total 499
+
+i've won 199 out of total 499
+
+i've won 213 out of total 499
+
+i've won 224 out of total 499
+
+i've won 228 out of total 499
+
+i've won 232 out of total 499
+
+i've won 217 out of total 499
+
+i've won 226 out of total 499
+
+i've won 203 out of total 499
+
+i've won 232 out of total 499
+
+i've won 223 out of total 499
+
+i've won 232 out of total 499
+
+i've won 218 out of total 499
+
+i've won 220 out of total 499
+
+i've won 240 out of total 499
+
+i've won 214 out of total 499
+
+i've won 224 out of total 499
+
+i've won 213 out of total 499
+
+i've won 225 out of total 499
+
+i've won 222 out of total 499
+
+i've won 218 out of total 499
+
+i've won 232 out of total 499
+
+i've won 219 out of total 499
+
+i've won 217 out of total 499
+
+i've won 209 out of total 499
+
+Generation: 3
+
+
+fitness after sort 0.492
+
+i've won 201 out of total 499
+
+i've won 204 out of total 499
+
+i've won 209 out of total 499
+
+i've won 203 out of total 499
+
+i've won 208 out of total 499
+
+i've won 223 out of total 499
+
+i've won 218 out of total 499
+
+i've won 214 out of total 499
+
+i've won 236 out of total 499
+
+i've won 237 out of total 499
+
+i've won 225 out of total 499
+
+i've won 209 out of total 499
+
+i've won 207 out of total 499
+
+i've won 235 out of total 499
+
+i've won 208 out of total 499
+
+i've won 214 out of total 499
+
+i've won 215 out of total 499
+
+i've won 217 out of total 499
+
+i've won 214 out of total 499
+
+i've won 229 out of total 499
+
+i've won 231 out of total 499
+
+i've won 214 out of total 499
+
+i've won 200 out of total 499
+
+i've won 209 out of total 499
+
+i've won 228 out of total 499
+
+i've won 212 out of total 499
+
+i've won 200 out of total 499
+
+i've won 198 out of total 499
+
+i've won 231 out of total 499
+
+i've won 218 out of total 499
+
+i've won 223 out of total 499
+
+i've won 206 out of total 499
+
+i've won 230 out of total 499
+
+i've won 221 out of total 499
+
+i've won 208 out of total 499
+
+i've won 229 out of total 499
+
+i've won 195 out of total 499
+
+i've won 209 out of total 499
+
+i've won 205 out of total 499
+
+i've won 218 out of total 499
+
+i've won 194 out of total 499
+
+i've won 219 out of total 499
+
+i've won 226 out of total 499
+
+i've won 208 out of total 499
+
+i've won 235 out of total 499
+
+i've won 195 out of total 499
+
+i've won 200 out of total 499
+
+i've won 214 out of total 499
+
+i've won 222 out of total 499
+
+i've won 219 out of total 499
+
+i've won 206 out of total 499
+
+i've won 211 out of total 499
+
+i've won 235 out of total 499
+
+i've won 203 out of total 499
+
+i've won 219 out of total 499
+
+i've won 193 out of total 499
+
+i've won 239 out of total 499
+
+i've won 224 out of total 499
+
+i've won 203 out of total 499
+
+i've won 226 out of total 499
+
+i've won 216 out of total 499
+
+i've won 228 out of total 499
+
+i've won 210 out of total 499
+
+i've won 214 out of total 499
+
+i've won 224 out of total 499
+
+i've won 216 out of total 499
+
+i've won 216 out of total 499
+
+i've won 232 out of total 499
+
+i've won 212 out of total 499
+
+i've won 201 out of total 499
+
+i've won 225 out of total 499
+
+i've won 211 out of total 499
+
+i've won 211 out of total 499
+
+i've won 211 out of total 499
+
+i've won 206 out of total 499
+
+i've won 228 out of total 499
+
+i've won 205 out of total 499
+
+i've won 221 out of total 499
+
+i've won 207 out of total 499
+
+i've won 215 out of total 499
+
+i've won 218 out of total 499
+
+i've won 207 out of total 499
+
+i've won 224 out of total 499
+
+i've won 211 out of total 499
+
+i've won 209 out of total 499
+
+i've won 193 out of total 499
+
+i've won 218 out of total 499
+
+i've won 213 out of total 499
+
+i've won 209 out of total 499
+
+i've won 212 out of total 499
+
+i've won 220 out of total 499
+
+i've won 214 out of total 499
+
+i've won 220 out of total 499
+
+i've won 223 out of total 499
+
+i've won 233 out of total 499
+
+i've won 215 out of total 499
+
+i've won 222 out of total 499
+
+i've won 214 out of total 499
+
+i've won 233 out of total 499
+
+Generation: 4
+
+
+fitness after sort 0.478
+
+i've won 219 out of total 499
+
+i've won 213 out of total 499
+
+i've won 214 out of total 499
+
+i've won 204 out of total 499
+
+i've won 181 out of total 499
+
+i've won 199 out of total 499
+
+i've won 196 out of total 499
+
+i've won 199 out of total 499
+
+i've won 220 out of total 499
+
+i've won 198 out of total 499
+
+i've won 194 out of total 499
+
+i've won 183 out of total 499
+
+i've won 226 out of total 499
+
+i've won 198 out of total 499
+
+i've won 179 out of total 499
+
+i've won 184 out of total 499
+
+i've won 232 out of total 499
+
+i've won 226 out of total 499
+
+i've won 208 out of total 499
+
+i've won 220 out of total 499
+
+i've won 187 out of total 499
+
+i've won 197 out of total 499
+
+i've won 221 out of total 499
+
+i've won 208 out of total 499
+
+i've won 217 out of total 499
+
+i've won 207 out of total 499
+
+i've won 185 out of total 499
+
+i've won 189 out of total 499
+
+i've won 200 out of total 499
+
+i've won 215 out of total 499
+
+i've won 186 out of total 499
+
+i've won 195 out of total 499
+
+i've won 199 out of total 499
+
+i've won 234 out of total 499
+
+i've won 210 out of total 499
+
+i've won 235 out of total 499
+
+i've won 198 out of total 499
+
+i've won 208 out of total 499
+
+i've won 206 out of total 499
+
+i've won 221 out of total 499
+
+i've won 208 out of total 499
+
+i've won 213 out of total 499
+
+i've won 203 out of total 499
+
+i've won 189 out of total 499
+
+i've won 211 out of total 499
+
+i've won 213 out of total 499
+
+i've won 209 out of total 499
+
+i've won 193 out of total 499
+
+i've won 195 out of total 499
+
+i've won 199 out of total 499
+
+i've won 209 out of total 499
+
+i've won 215 out of total 499
+
+i've won 201 out of total 499
+
+i've won 183 out of total 499
+
+i've won 197 out of total 499
+
+i've won 206 out of total 499
+
+i've won 204 out of total 499
+
+i've won 204 out of total 499
+
+i've won 200 out of total 499
+
+i've won 209 out of total 499
+
+i've won 218 out of total 499
+
+i've won 227 out of total 499
+
+i've won 208 out of total 499
+
+i've won 199 out of total 499
+
+i've won 198 out of total 499
+
+i've won 205 out of total 499
+
+i've won 191 out of total 499
+
+i've won 209 out of total 499
+
+i've won 212 out of total 499
+
+i've won 200 out of total 499
+
+i've won 201 out of total 499
+
+i've won 221 out of total 499
+
+i've won 226 out of total 499
+
+i've won 222 out of total 499
+
+i've won 219 out of total 499
+
+i've won 210 out of total 499
+
+i've won 223 out of total 499
+
+i've won 219 out of total 499
+
+i've won 213 out of total 499
+
+i've won 214 out of total 499
+
+i've won 224 out of total 499
+
+i've won 232 out of total 499
+
+i've won 233 out of total 499
+
+i've won 218 out of total 499
+
+i've won 228 out of total 499
+
+i've won 212 out of total 499
+
+i've won 196 out of total 499
+
+i've won 201 out of total 499
+
+i've won 215 out of total 499
+
+i've won 232 out of total 499
+
+i've won 226 out of total 499
+
+i've won 214 out of total 499
+
+i've won 222 out of total 499
+
+i've won 235 out of total 499
+
+i've won 222 out of total 499
+
+i've won 205 out of total 499
+
+i've won 198 out of total 499
+
+i've won 222 out of total 499
+
+i've won 217 out of total 499
+
+Generation: 5
+
+
+fitness after sort 0.47
+
+i've won 190 out of total 499
+
+i've won 200 out of total 499
+
+i've won 210 out of total 499
+
+i've won 213 out of total 499
+
+i've won 204 out of total 499
+
+i've won 207 out of total 499
+
+i've won 227 out of total 499
+
+i've won 204 out of total 499
+
+i've won 219 out of total 499
+
+i've won 202 out of total 499
+
+i've won 181 out of total 499
+
+i've won 213 out of total 499
+
+i've won 199 out of total 499
+
+i've won 220 out of total 499
+
+i've won 228 out of total 499
+
+i've won 180 out of total 499
+
+i've won 222 out of total 499
+
+i've won 190 out of total 499
+
+i've won 214 out of total 499
+
+i've won 214 out of total 499
+
+i've won 214 out of total 499
+
+i've won 231 out of total 499
+
+i've won 193 out of total 499
+
+i've won 186 out of total 499
+
+i've won 199 out of total 499
+
+i've won 190 out of total 499
+
+i've won 206 out of total 499
+
+i've won 190 out of total 499
+
+i've won 212 out of total 499
+
+i've won 182 out of total 499
+
+i've won 217 out of total 499
+
+i've won 215 out of total 499
+
+i've won 202 out of total 499
+
+i've won 234 out of total 499
+
+i've won 202 out of total 499
+
+i've won 190 out of total 499
+
+i've won 207 out of total 499
+
+i've won 181 out of total 499
+
+i've won 216 out of total 499
+
+i've won 196 out of total 499
+
+i've won 189 out of total 499
+
+i've won 221 out of total 499
+
+i've won 199 out of total 499
+
+i've won 240 out of total 499
+
+i've won 230 out of total 499
+
+i've won 178 out of total 499
+
+i've won 186 out of total 499
+
+i've won 190 out of total 499
+
+i've won 188 out of total 499
+
+i've won 211 out of total 499
+
+i've won 208 out of total 499
+
+i've won 224 out of total 499
+
+i've won 235 out of total 499
+
+i've won 204 out of total 499
+
+i've won 203 out of total 499
+
+i've won 185 out of total 499
+
+i've won 194 out of total 499
+
+i've won 189 out of total 499
+
+i've won 182 out of total 499
+
+i've won 206 out of total 499
+
+i've won 217 out of total 499
+
+i've won 203 out of total 499
+
+i've won 215 out of total 499
+
+i've won 199 out of total 499
+
+i've won 179 out of total 499
+
+i've won 194 out of total 499
+
+i've won 234 out of total 499
+
+i've won 210 out of total 499
+
+i've won 204 out of total 499
+
+i've won 233 out of total 499
+
+i've won 217 out of total 499
+
+i've won 205 out of total 499
+
+i've won 217 out of total 499
+
+i've won 211 out of total 499
+
+i've won 219 out of total 499
+
+i've won 202 out of total 499
+
+i've won 199 out of total 499
+
+i've won 204 out of total 499
+
+i've won 215 out of total 499
+
+i've won 207 out of total 499
+
+i've won 223 out of total 499
+
+i've won 205 out of total 499
+
+i've won 232 out of total 499
+
+i've won 199 out of total 499
+
+i've won 222 out of total 499
+
+i've won 218 out of total 499
+
+i've won 196 out of total 499
+
+i've won 207 out of total 499
+
+i've won 222 out of total 499
+
+i've won 222 out of total 499
+
+i've won 232 out of total 499
+
+i've won 218 out of total 499
+
+i've won 219 out of total 499
+
+i've won 193 out of total 499
+
+i've won 210 out of total 499
+
+i've won 219 out of total 499
+
+i've won 228 out of total 499
+
+i've won 226 out of total 499
+
+i've won 207 out of total 499
+
+Generation: 6
+
+fitness after sort 0.48
+
+i've won 187 out of total 499
+
+i've won 192 out of total 499
+
+i've won 215 out of total 499
+
+i've won 197 out of total 499
+
+i've won 205 out of total 499
+
+i've won 205 out of total 499
+
+i've won 184 out of total 499
+
+i've won 210 out of total 499
+
+i've won 204 out of total 499
+
+i've won 192 out of total 499
+
+i've won 201 out of total 499
+
+i've won 186 out of total 499
+
+i've won 192 out of total 499
+
+i've won 175 out of total 499
+
+i've won 204 out of total 499
+
+i've won 195 out of total 499
+
+i've won 205 out of total 499
+
+i've won 183 out of total 499
+
+i've won 205 out of total 499
+
+i've won 199 out of total 499
+
+i've won 200 out of total 499
+
+i've won 188 out of total 499
+
+i've won 206 out of total 499
+
+i've won 189 out of total 499
+
+i've won 197 out of total 499
+
+i've won 179 out of total 499
+
+i've won 193 out of total 499
+
+i've won 173 out of total 499
+
+i've won 192 out of total 499
+
+i've won 199 out of total 499
+
+i've won 176 out of total 499
+
+i've won 176 out of total 499
+
+i've won 177 out of total 499
+
+i've won 182 out of total 499
+
+i've won 196 out of total 499
+
+i've won 208 out of total 499
+
+i've won 177 out of total 499
+
+i've won 194 out of total 499
+
+i've won 186 out of total 499
+
+i've won 209 out of total 499
+
+i've won 202 out of total 499
+
+i've won 193 out of total 499
+
+i've won 188 out of total 499
+
+i've won 195 out of total 499
+
+i've won 210 out of total 499
+
+i've won 187 out of total 499
+
+i've won 182 out of total 499
+
+i've won 197 out of total 499
+
+i've won 174 out of total 499
+
+i've won 199 out of total 499
+
+i've won 201 out of total 499
+
+i've won 169 out of total 499
+
+i've won 187 out of total 499
+
+i've won 187 out of total 499
+
+i've won 182 out of total 499
+
+i've won 201 out of total 499
+
+i've won 207 out of total 499
+
+i've won 196 out of total 499
+
+i've won 193 out of total 499
+
+i've won 191 out of total 499
+
+i've won 191 out of total 499
+
+i've won 210 out of total 499
+
+i've won 196 out of total 499
+
+i've won 196 out of total 499
+
+i've won 192 out of total 499
+
+i've won 171 out of total 499
+
+i've won 186 out of total 499
+
+i've won 214 out of total 499
+
+i've won 197 out of total 499
+
+i've won 163 out of total 499
+
+i've won 220 out of total 499
+
+i've won 234 out of total 499
+
+i've won 216 out of total 499
+
+i've won 227 out of total 499
+
+i've won 224 out of total 499
+
+i've won 219 out of total 499
+
+i've won 215 out of total 499
+
+i've won 228 out of total 499
+
+i've won 222 out of total 499
+
+i've won 208 out of total 499
+
+i've won 216 out of total 499
+
+i've won 226 out of total 499
+
+i've won 229 out of total 499
+
+i've won 208 out of total 499
+
+i've won 209 out of total 499
+
+i've won 230 out of total 499
+
+i've won 227 out of total 499
+
+i've won 210 out of total 499
+
+i've won 215 out of total 499
+
+i've won 228 out of total 499
+
+i've won 213 out of total 499
+
+i've won 195 out of total 499
+
+i've won 231 out of total 499
+
+i've won 209 out of total 499
+
+i've won 210 out of total 499
+
+i've won 227 out of total 499
+
+i've won 216 out of total 499
+
+i've won 201 out of total 499
+
+i've won 223 out of total 499
+
+Generation: 7
+
+
+fitness after sort 0.468
+
+i've won 190 out of total 499
+
+i've won 217 out of total 499
+
+i've won 193 out of total 499
+
+i've won 184 out of total 499
+
+i've won 189 out of total 499
+
+i've won 179 out of total 499
+
+i've won 178 out of total 499
+
+i've won 183 out of total 499
+
+i've won 184 out of total 499
+
+i've won 197 out of total 499
+
+i've won 189 out of total 499
+
+i've won 209 out of total 499
+
+i've won 194 out of total 499
+
+i've won 203 out of total 499
+
+i've won 202 out of total 499
+
+i've won 194 out of total 499
+
+i've won 197 out of total 499
+
+i've won 184 out of total 499
+
+i've won 201 out of total 499
+
+i've won 207 out of total 499
+
+i've won 194 out of total 499
+
+i've won 193 out of total 499
+
+i've won 188 out of total 499
+
+i've won 204 out of total 499
+
+i've won 199 out of total 499
+
+i've won 193 out of total 499
+
+i've won 201 out of total 499
+
+i've won 193 out of total 499
+
+i've won 221 out of total 499
+
+i've won 202 out of total 499
+
+i've won 169 out of total 499
+
+i've won 196 out of total 499
+
+i've won 203 out of total 499
+
+i've won 202 out of total 499
+
+i've won 194 out of total 499
+
+i've won 182 out of total 499
+
+i've won 201 out of total 499
+
+i've won 194 out of total 499
+
+i've won 213 out of total 499
+
+i've won 189 out of total 499
+
+i've won 198 out of total 499
+
+i've won 188 out of total 499
+
+i've won 184 out of total 499
+
+i've won 212 out of total 499
+
+i've won 193 out of total 499
+
+i've won 192 out of total 499
+
+i've won 183 out of total 499
+
+i've won 198 out of total 499
+
+i've won 188 out of total 499
+
+i've won 193 out of total 499
+
+i've won 194 out of total 499
+
+i've won 187 out of total 499
+
+i've won 201 out of total 499
+
+i've won 186 out of total 499
+
+i've won 198 out of total 499
+
+i've won 176 out of total 499
+
+i've won 184 out of total 499
+
+i've won 177 out of total 499
+
+i've won 204 out of total 499
+
+i've won 179 out of total 499
+
+i've won 202 out of total 499
+
+i've won 209 out of total 499
+
+i've won 193 out of total 499
+
+i've won 199 out of total 499
+
+i've won 189 out of total 499
+
+i've won 211 out of total 499
+
+i've won 187 out of total 499
+
+i've won 177 out of total 499
+
+i've won 186 out of total 499
+
+i've won 211 out of total 499
+
+i've won 216 out of total 499
+
+i've won 222 out of total 499
+
+i've won 198 out of total 499
+
+i've won 212 out of total 499
+
+i've won 198 out of total 499
+
+i've won 221 out of total 499
+
+i've won 209 out of total 499
+
+i've won 192 out of total 499
+
+i've won 210 out of total 499
+
+i've won 216 out of total 499
+
+i've won 244 out of total 499
+
+i've won 212 out of total 499
+
+i've won 234 out of total 499
+
+i've won 205 out of total 499
+
+i've won 224 out of total 499
+
+i've won 213 out of total 499
+
+i've won 205 out of total 499
+
+i've won 218 out of total 499
+
+i've won 212 out of total 499
+
+i've won 213 out of total 499
+
+i've won 201 out of total 499
+
+i've won 194 out of total 499
+
+i've won 220 out of total 499
+
+i've won 193 out of total 499
+
+i've won 216 out of total 499
+
+i've won 203 out of total 499
+
+i've won 180 out of total 499
+
+i've won 205 out of total 499
+
+i've won 238 out of total 499
+
+Generation: 8
+
+
+fitness after sort 0.488
+
+i've won 187 out of total 499
+
+i've won 197 out of total 499
+
+i've won 169 out of total 499
+
+i've won 195 out of total 499
+
+i've won 191 out of total 499
+
+i've won 196 out of total 499
+
+i've won 204 out of total 499
+
+i've won 192 out of total 499
+
+i've won 209 out of total 499
+
+i've won 215 out of total 499
+
+i've won 187 out of total 499
+
+i've won 204 out of total 499
+
+i've won 201 out of total 499
+
+i've won 206 out of total 499
+
+i've won 193 out of total 499
+
+i've won 189 out of total 499
+
+i've won 187 out of total 499
+
+i've won 198 out of total 499
+
+i've won 195 out of total 499
+
+i've won 195 out of total 499
+
+i've won 197 out of total 499
+
+i've won 199 out of total 499
+
+i've won 209 out of total 499
+
+i've won 202 out of total 499
+
+i've won 210 out of total 499
+
+i've won 196 out of total 499
+
+i've won 188 out of total 499
+
+i've won 182 out of total 499
+
+i've won 188 out of total 499
+
+i've won 203 out of total 499
+
+i've won 184 out of total 499
+
+i've won 175 out of total 499
+
+i've won 175 out of total 499
+
+i've won 187 out of total 499
+
+i've won 209 out of total 499
+
+i've won 196 out of total 499
+
+i've won 197 out of total 499
+
+i've won 203 out of total 499
+
+i've won 203 out of total 499
+
+i've won 215 out of total 499
+
+i've won 202 out of total 499
+
+i've won 173 out of total 499
+
+i've won 200 out of total 499
+
+i've won 195 out of total 499
+
+i've won 199 out of total 499
+
+i've won 175 out of total 499
+
+i've won 188 out of total 499
+
+i've won 176 out of total 499
+
+i've won 196 out of total 499
+
+i've won 186 out of total 499
+
+i've won 195 out of total 499
+
+i've won 196 out of total 499
+
+i've won 182 out of total 499
+
+i've won 202 out of total 499
+
+i've won 209 out of total 499
+
+i've won 203 out of total 499
+
+i've won 197 out of total 499
+
+i've won 187 out of total 499
+
+i've won 175 out of total 499
+
+i've won 199 out of total 499
+
+i've won 182 out of total 499
+
+i've won 161 out of total 499
+
+i've won 198 out of total 499
+
+i've won 203 out of total 499
+
+i've won 202 out of total 499
+
+i've won 214 out of total 499
+
+i've won 190 out of total 499
+
+i've won 194 out of total 499
+
+i've won 183 out of total 499
+
+i've won 189 out of total 499
+
+i've won 225 out of total 499
+
+i've won 199 out of total 499
+
+i've won 218 out of total 499
+
+i've won 230 out of total 499
+
+i've won 209 out of total 499
+
+i've won 192 out of total 499
+
+i've won 225 out of total 499
+
+i've won 209 out of total 499
+
+i've won 207 out of total 499
+
+i've won 196 out of total 499
+
+i've won 210 out of total 499
+
+i've won 196 out of total 499
+
+i've won 223 out of total 499
+
+i've won 228 out of total 499
+
+i've won 233 out of total 499
+
+i've won 220 out of total 499
+
+i've won 230 out of total 499
+
+i've won 193 out of total 499
+
+i've won 195 out of total 499
+
+i've won 222 out of total 499
+
+i've won 216 out of total 499
+
+i've won 209 out of total 499
+
+i've won 223 out of total 499
+
+i've won 236 out of total 499
+
+i've won 224 out of total 499
+
+i've won 218 out of total 499
+
+i've won 228 out of total 499
+
+i've won 222 out of total 499
+
+i've won 213 out of total 499
+
+Generation: 9
+
+
+fitness after sort 0.472
+
+i've won 173 out of total 499
+
+i've won 195 out of total 499
+
+i've won 208 out of total 499
+
+i've won 199 out of total 499
+
+i've won 201 out of total 499
+
+i've won 196 out of total 499
+
+i've won 192 out of total 499
+
+i've won 203 out of total 499
+
+i've won 208 out of total 499
+
+i've won 213 out of total 499
+
+i've won 209 out of total 499
+
+i've won 197 out of total 499
+
+i've won 184 out of total 499
+
+i've won 189 out of total 499
+
+i've won 188 out of total 499
+
+i've won 187 out of total 499
+
+i've won 187 out of total 499
+
+i've won 184 out of total 499
+
+i've won 192 out of total 499
+
+i've won 191 out of total 499
+
+i've won 173 out of total 499
+
+i've won 217 out of total 499
+
+i've won 192 out of total 499
+
+i've won 186 out of total 499
+
+i've won 189 out of total 499
+
+i've won 188 out of total 499
+
+i've won 207 out of total 499
+
+i've won 189 out of total 499
+
+i've won 204 out of total 499
+
+i've won 182 out of total 499
+
+i've won 191 out of total 499
+
+i've won 193 out of total 499
+
+i've won 195 out of total 499
+
+i've won 193 out of total 499
+
+i've won 199 out of total 499
+
+i've won 204 out of total 499
+
+i've won 184 out of total 499
+
+i've won 192 out of total 499
+
+i've won 201 out of total 499
+
+i've won 185 out of total 499
+
+i've won 209 out of total 499
+
+i've won 181 out of total 499
+
+i've won 178 out of total 499
+
+i've won 199 out of total 499
+
+i've won 177 out of total 499
+
+i've won 189 out of total 499
+
+i've won 195 out of total 499
+
+i've won 183 out of total 499
+
+i've won 201 out of total 499
+
+i've won 174 out of total 499
+
+i've won 204 out of total 499
+
+i've won 186 out of total 499
+
+i've won 178 out of total 499
+
+i've won 183 out of total 499
+
+i've won 202 out of total 499
+
+i've won 183 out of total 499
+
+i've won 177 out of total 499
+
+i've won 198 out of total 499
+
+i've won 202 out of total 499
+
+i've won 208 out of total 499
+
+i've won 181 out of total 499
+
+i've won 198 out of total 499
+
+i've won 199 out of total 499
+
+i've won 198 out of total 499
+
+i've won 164 out of total 499
+
+i've won 177 out of total 499
+
+i've won 199 out of total 499
+
+i've won 193 out of total 499
+
+i've won 192 out of total 499
+
+i've won 188 out of total 499
+
+i've won 206 out of total 499
+
+i've won 223 out of total 499
+
+i've won 212 out of total 499
+
+i've won 207 out of total 499
+
+i've won 212 out of total 499
+
+i've won 209 out of total 499
+
+i've won 205 out of total 499
+
+i've won 212 out of total 499
+
+i've won 202 out of total 499
+
+i've won 220 out of total 499
+
+i've won 208 out of total 499
+
+i've won 221 out of total 499
+
+i've won 219 out of total 499
+
+i've won 227 out of total 499
+
+i've won 200 out of total 499
+
+i've won 193 out of total 499
+
+i've won 229 out of total 499
+
+i've won 194 out of total 499
+
+i've won 220 out of total 499
+
+i've won 236 out of total 499
+
+i've won 220 out of total 499
+
+i've won 214 out of total 499
+
+i've won 203 out of total 499
+
+i've won 203 out of total 499
+
+i've won 220 out of total 499
+
+i've won 197 out of total 499
+
+i've won 206 out of total 499
+
+i've won 218 out of total 499
+
+i've won 223 out of total 499
+
+Generation: 10
+
+fitness after sort 0.472
+
+i've won 212 out of total 499
+
+i've won 181 out of total 499
+
+i've won 225 out of total 499
+
+i've won 188 out of total 499
+
+i've won 192 out of total 499
+
+i've won 177 out of total 499
+
+i've won 188 out of total 499
+
+i've won 178 out of total 499
+
+i've won 193 out of total 499
+
+i've won 201 out of total 499
+
+i've won 190 out of total 499
+
+i've won 189 out of total 499
+
+i've won 170 out of total 499
+
+i've won 190 out of total 499
+
+i've won 195 out of total 499
+
+i've won 197 out of total 499
+
+i've won 186 out of total 499
+
+i've won 188 out of total 499
+
+i've won 184 out of total 499
+
+i've won 193 out of total 499
+
+i've won 202 out of total 499
+
+i've won 203 out of total 499
+
+i've won 210 out of total 499
+
+i've won 195 out of total 499
+
+i've won 181 out of total 499
+
+i've won 183 out of total 499
+
+i've won 200 out of total 499
+
+i've won 174 out of total 499
+
+i've won 186 out of total 499
+
+i've won 192 out of total 499
+
+i've won 199 out of total 499
+
+i've won 183 out of total 499
+
+i've won 183 out of total 499
+
+i've won 183 out of total 499
+
+i've won 189 out of total 499
+
+i've won 196 out of total 499
+
+i've won 189 out of total 499
+
+i've won 192 out of total 499
+
+i've won 198 out of total 499
+
+i've won 219 out of total 499
+
+i've won 207 out of total 499
+
+i've won 183 out of total 499
+
+i've won 213 out of total 499
+
+i've won 189 out of total 499
+
+i've won 209 out of total 499
+
+i've won 190 out of total 499
+
+i've won 183 out of total 499
+
+i've won 192 out of total 499
+
+i've won 205 out of total 499
+
+i've won 189 out of total 499
+
+i've won 189 out of total 499
+
+i've won 225 out of total 499
+
+i've won 201 out of total 499
+
+i've won 188 out of total 499
+
+i've won 194 out of total 499
+
+i've won 186 out of total 499
+
+i've won 203 out of total 499
+
+i've won 203 out of total 499
+
+i've won 212 out of total 499
+
+i've won 200 out of total 499
+
+i've won 194 out of total 499
+
+i've won 172 out of total 499
+
+i've won 177 out of total 499
+
+i've won 194 out of total 499
+
+i've won 183 out of total 499
+
+i've won 193 out of total 499
+
+i've won 202 out of total 499
+
+i've won 193 out of total 499
+
+i've won 183 out of total 499
+
+i've won 204 out of total 499
+
+i've won 228 out of total 499
+
+i've won 207 out of total 499
+
+i've won 202 out of total 499
+
+i've won 212 out of total 499
+
+i've won 212 out of total 499
+
+i've won 218 out of total 499
+
+i've won 218 out of total 499
+
+i've won 210 out of total 499
+
+i've won 225 out of total 499
+
+i've won 211 out of total 499
+
+i've won 247 out of total 499
+
+i've won 205 out of total 499
+
+i've won 213 out of total 499
+
+i've won 209 out of total 499
+
+i've won 216 out of total 499
+
+i've won 209 out of total 499
+
+i've won 221 out of total 499
+
+i've won 234 out of total 499
+
+i've won 223 out of total 499
+
+i've won 210 out of total 499
+
+i've won 198 out of total 499
+
+i've won 211 out of total 499
+
+i've won 232 out of total 499
+
+i've won 185 out of total 499
+
+i've won 218 out of total 499
+
+i've won 204 out of total 499
+
+i've won 224 out of total 499
+
+i've won 220 out of total 499
+
+i've won 197 out of total 499
+
+Generation: 11
+
+
+fitness after sort 0.494
+
+i've won 194 out of total 499
+
+i've won 184 out of total 499
+
+i've won 190 out of total 499
+
+i've won 190 out of total 499
+
+i've won 206 out of total 499
+
+i've won 175 out of total 499
+
+i've won 201 out of total 499
+
+i've won 189 out of total 499
+
+i've won 182 out of total 499
+
+i've won 181 out of total 499
+
+i've won 185 out of total 499
+
+i've won 191 out of total 499
+
+i've won 215 out of total 499
+
+i've won 197 out of total 499
+
+i've won 205 out of total 499
+
+i've won 188 out of total 499
+
+i've won 194 out of total 499
+
+i've won 192 out of total 499
+
+i've won 202 out of total 499
+
+i've won 182 out of total 499
+
+i've won 226 out of total 499
+
+i've won 207 out of total 499
+
+i've won 191 out of total 499
+
+i've won 200 out of total 499
+
+i've won 195 out of total 499
+
+i've won 208 out of total 499
+
+i've won 199 out of total 499
+
+i've won 189 out of total 499
+
+i've won 186 out of total 499
+
+i've won 203 out of total 499
+
+i've won 188 out of total 499
+
+i've won 194 out of total 499
+
+i've won 193 out of total 499
+
+i've won 211 out of total 499
+
+i've won 195 out of total 499
+
+i've won 197 out of total 499
+
+i've won 204 out of total 499
+
+i've won 203 out of total 499
+
+i've won 198 out of total 499
+
+i've won 217 out of total 499
+
+i've won 179 out of total 499
+
+i've won 190 out of total 499
+
+i've won 199 out of total 499
+
+i've won 199 out of total 499
+
+i've won 193 out of total 499
+
+i've won 197 out of total 499
+
+i've won 193 out of total 499
+
+i've won 215 out of total 499
+
+i've won 200 out of total 499
+
+i've won 212 out of total 499
+
+i've won 174 out of total 499
+
+i've won 196 out of total 499
+
+i've won 189 out of total 499
+
+i've won 189 out of total 499
+
+i've won 185 out of total 499
+
+i've won 195 out of total 499
+
+i've won 189 out of total 499
+
+i've won 190 out of total 499
+
+i've won 190 out of total 499
+
+i've won 193 out of total 499
+
+i've won 205 out of total 499
+
+i've won 191 out of total 499
+
+i've won 198 out of total 499
+
+i've won 194 out of total 499
+
+i've won 182 out of total 499
+
+i've won 197 out of total 499
+
+i've won 186 out of total 499
+
+i've won 204 out of total 499
+
+i've won 189 out of total 499
+
+i've won 187 out of total 499
+
+i've won 191 out of total 499
+
+i've won 201 out of total 499
+
+i've won 203 out of total 499
+
+i've won 206 out of total 499
+
+i've won 198 out of total 499
+
+i've won 213 out of total 499
+
+i've won 217 out of total 499
+
+i've won 211 out of total 499
+
+i've won 224 out of total 499
+
+i've won 217 out of total 499
+
+i've won 216 out of total 499
+
+i've won 206 out of total 499
+
+i've won 246 out of total 499
+
+i've won 231 out of total 499
+
+i've won 222 out of total 499
+
+i've won 208 out of total 499
+
+i've won 211 out of total 499
+
+i've won 199 out of total 499
+
+i've won 209 out of total 499
+
+i've won 218 out of total 499
+
+i've won 205 out of total 499
+
+i've won 211 out of total 499
+
+i've won 226 out of total 499
+
+i've won 233 out of total 499
+
+i've won 214 out of total 499
+
+i've won 208 out of total 499
+
+i've won 210 out of total 499
+
+i've won 213 out of total 499
+
+i've won 186 out of total 499
+
+Generation: 12
+
+
+fitness after sort 0.492
+
+i've won 198 out of total 499
+
+i've won 197 out of total 499
+
+i've won 188 out of total 499
+
+i've won 204 out of total 499
+
+i've won 186 out of total 499
+
+i've won 197 out of total 499
+
+i've won 219 out of total 499
+
+i've won 212 out of total 499
+
+i've won 169 out of total 499
+
+i've won 217 out of total 499
+
+i've won 201 out of total 499
+
+i've won 201 out of total 499
+
+i've won 187 out of total 499
+
+i've won 162 out of total 499
+
+i've won 182 out of total 499
+
+i've won 189 out of total 499
+
+i've won 207 out of total 499
+
+i've won 179 out of total 499
+
+i've won 210 out of total 499
+
+i've won 212 out of total 499
+
+i've won 183 out of total 499
+
+i've won 221 out of total 499
+
+i've won 212 out of total 499
+
+i've won 208 out of total 499
+
+i've won 197 out of total 499
+
+i've won 206 out of total 499
+
+i've won 185 out of total 499
+
+i've won 174 out of total 499
+
+i've won 206 out of total 499
+
+i've won 203 out of total 499
+
+i've won 209 out of total 499
+
+i've won 194 out of total 499
+
+i've won 194 out of total 499
+
+i've won 191 out of total 499
+
+i've won 220 out of total 499
+
+i've won 189 out of total 499
+
+i've won 178 out of total 499
+
+i've won 203 out of total 499
+
+i've won 192 out of total 499
+
+i've won 187 out of total 499
+
+i've won 198 out of total 499
+
+i've won 177 out of total 499
+
+i've won 177 out of total 499
+
+i've won 185 out of total 499
+
+i've won 181 out of total 499
+
+i've won 209 out of total 499
+
+i've won 200 out of total 499
+
+i've won 202 out of total 499
+
+i've won 180 out of total 499
+
+i've won 189 out of total 499
+
+i've won 205 out of total 499
+
+i've won 191 out of total 499
+
+i've won 208 out of total 499
+
+i've won 171 out of total 499
+
+i've won 204 out of total 499
+
+i've won 186 out of total 499
+
+i've won 206 out of total 499
+
+i've won 183 out of total 499
+
+i've won 177 out of total 499
+
+i've won 180 out of total 499
+
+i've won 184 out of total 499
+
+i've won 165 out of total 499
+
+i've won 194 out of total 499
+
+i've won 198 out of total 499
+
+i've won 204 out of total 499
+
+i've won 180 out of total 499
+
+i've won 193 out of total 499
+
+i've won 184 out of total 499
+
+i've won 204 out of total 499
+
+i've won 199 out of total 499
+
+i've won 210 out of total 499
+
+i've won 226 out of total 499
+
+i've won 201 out of total 499
+
+i've won 224 out of total 499
+
+i've won 201 out of total 499
+
+i've won 204 out of total 499
+
+i've won 221 out of total 499
+
+i've won 222 out of total 499
+
+i've won 207 out of total 499
+
+i've won 235 out of total 499
+
+i've won 206 out of total 499
+
+i've won 193 out of total 499
+
+i've won 203 out of total 499
+
+i've won 223 out of total 499
+
+i've won 206 out of total 499
+
+i've won 209 out of total 499
+
+i've won 199 out of total 499
+
+i've won 232 out of total 499
+
+i've won 212 out of total 499
+
+i've won 204 out of total 499
+
+i've won 218 out of total 499
+
+i've won 218 out of total 499
+
+i've won 216 out of total 499
+
+i've won 206 out of total 499
+
+i've won 218 out of total 499
+
+i've won 217 out of total 499
+
+i've won 222 out of total 499
+
+i've won 209 out of total 499
+
+i've won 215 out of total 499
+
+Generation: 13
+
+
+fitness after sort 0.47
+
+i've won 192 out of total 499
+
+i've won 187 out of total 499
+
+i've won 200 out of total 499
+
+i've won 182 out of total 499
+
+i've won 190 out of total 499
+
+i've won 198 out of total 499
+
+i've won 208 out of total 499
+
+i've won 177 out of total 499
+
+i've won 196 out of total 499
+
+i've won 188 out of total 499
+
+i've won 210 out of total 499
+
+i've won 189 out of total 499
+
+i've won 183 out of total 499
+
+i've won 186 out of total 499
+
+i've won 198 out of total 499
+
+i've won 193 out of total 499
+
+i've won 188 out of total 499
+
+i've won 195 out of total 499
+
+i've won 187 out of total 499
+
+i've won 186 out of total 499
+
+i've won 198 out of total 499
+
+i've won 206 out of total 499
+
+i've won 190 out of total 499
+
+i've won 174 out of total 499
+
+i've won 207 out of total 499
+
+i've won 176 out of total 499
+
+i've won 204 out of total 499
+
+i've won 188 out of total 499
+
+i've won 202 out of total 499
+
+i've won 210 out of total 499
+
+i've won 198 out of total 499
+
+i've won 190 out of total 499
+
+i've won 177 out of total 499
+
+i've won 194 out of total 499
+
+i've won 204 out of total 499
+
+i've won 212 out of total 499
+
+i've won 199 out of total 499
+
+i've won 193 out of total 499
+
+i've won 200 out of total 499
+
+i've won 199 out of total 499
+
+i've won 190 out of total 499
+
+i've won 203 out of total 499
+
+i've won 186 out of total 499
+
+i've won 215 out of total 499
+
+i've won 198 out of total 499
+
+i've won 190 out of total 499
+
+i've won 197 out of total 499
+
+i've won 187 out of total 499
+
+i've won 194 out of total 499
+
+i've won 198 out of total 499
+
+i've won 190 out of total 499
+
+i've won 177 out of total 499
+
+i've won 197 out of total 499
+
+i've won 209 out of total 499
+
+i've won 197 out of total 499
+
+i've won 194 out of total 499
+
+i've won 203 out of total 499
+
+i've won 207 out of total 499
+
+i've won 182 out of total 499
+
+i've won 188 out of total 499
+
+i've won 184 out of total 499
+
+i've won 184 out of total 499
+
+i've won 180 out of total 499
+
+i've won 202 out of total 499
+
+i've won 210 out of total 499
+
+i've won 197 out of total 499
+
+i've won 190 out of total 499
+
+i've won 214 out of total 499
+
+i've won 188 out of total 499
+
+i've won 190 out of total 499
+
+i've won 226 out of total 499
+
+i've won 220 out of total 499
+
+i've won 207 out of total 499
+
+i've won 226 out of total 499
+
+i've won 225 out of total 499
+
+i've won 219 out of total 499
+
+i've won 211 out of total 499
+
+i've won 204 out of total 499
+
+i've won 222 out of total 499
+
+i've won 215 out of total 499
+
+i've won 221 out of total 499
+
+i've won 215 out of total 499
+
+i've won 225 out of total 499
+
+i've won 218 out of total 499
+
+i've won 227 out of total 499
+
+i've won 204 out of total 499
+
+i've won 193 out of total 499
+
+i've won 217 out of total 499
+
+i've won 216 out of total 499
+
+i've won 215 out of total 499
+
+i've won 226 out of total 499
+
+i've won 216 out of total 499
+
+i've won 221 out of total 499
+
+i've won 214 out of total 499
+
+i've won 212 out of total 499
+
+i've won 228 out of total 499
+
+i've won 219 out of total 499
+
+i've won 190 out of total 499
+
+i've won 206 out of total 499
+
+Generation: 14
+
+
+fitness after sort 0.456
+
+i've won 172 out of total 499
+
+i've won 211 out of total 499
+
+i've won 199 out of total 499
+
+i've won 211 out of total 499
+
+i've won 181 out of total 499
+
+i've won 181 out of total 499
+
+i've won 202 out of total 499
+
+i've won 193 out of total 499
+
+i've won 180 out of total 499
+
+i've won 190 out of total 499
+
+i've won 185 out of total 499
+
+i've won 184 out of total 499
+
+i've won 207 out of total 499
+
+i've won 191 out of total 499
+
+i've won 195 out of total 499
+
+i've won 204 out of total 499
+
+i've won 197 out of total 499
+
+i've won 201 out of total 499
+
+i've won 173 out of total 499
+
+i've won 199 out of total 499
+
+i've won 191 out of total 499
+
+i've won 199 out of total 499
+
+i've won 171 out of total 499
+
+i've won 187 out of total 499
+
+i've won 174 out of total 499
+
+i've won 185 out of total 499
+
+i've won 169 out of total 499
+
+i've won 206 out of total 499
+
+i've won 191 out of total 499
+
+i've won 207 out of total 499
+
+i've won 181 out of total 499
+
+i've won 195 out of total 499
+
+i've won 181 out of total 499
+
+i've won 182 out of total 499
+
+i've won 191 out of total 499
+
+i've won 166 out of total 499
+
+i've won 204 out of total 499
+
+i've won 187 out of total 499
+
+i've won 204 out of total 499
+
+i've won 216 out of total 499
+
+i've won 178 out of total 499
+
+i've won 198 out of total 499
+
+i've won 196 out of total 499
+
+i've won 200 out of total 499
+
+i've won 197 out of total 499
+
+i've won 209 out of total 499
+
+i've won 203 out of total 499
+
+i've won 188 out of total 499
+
+i've won 198 out of total 499
+
+i've won 185 out of total 499
+
+i've won 185 out of total 499
+
+i've won 183 out of total 499
+
+i've won 186 out of total 499
+
+i've won 176 out of total 499
+
+i've won 203 out of total 499
+
+i've won 189 out of total 499
+
+i've won 197 out of total 499
+
+i've won 199 out of total 499
+
+i've won 201 out of total 499
+
+i've won 186 out of total 499
+
+i've won 208 out of total 499
+
+i've won 197 out of total 499
+
+i've won 188 out of total 499
+
+i've won 192 out of total 499
+
+i've won 193 out of total 499
+
+i've won 203 out of total 499
+
+i've won 214 out of total 499
+
+i've won 184 out of total 499
+
+i've won 198 out of total 499
+
+i've won 199 out of total 499
+
+i've won 216 out of total 499
+
+i've won 221 out of total 499
+
+i've won 228 out of total 499
+
+i've won 223 out of total 499
+
+i've won 202 out of total 499
+
+i've won 211 out of total 499
+
+i've won 223 out of total 499
+
+i've won 201 out of total 499
+
+i've won 214 out of total 499
+
+i've won 204 out of total 499
+
+i've won 223 out of total 499
+
+i've won 212 out of total 499
+
+i've won 200 out of total 499
+
+i've won 220 out of total 499
+
+i've won 233 out of total 499
+
+i've won 199 out of total 499
+
+i've won 216 out of total 499
+
+i've won 216 out of total 499
+
+i've won 220 out of total 499
+
+i've won 223 out of total 499
+
+i've won 235 out of total 499
+
+i've won 213 out of total 499
+
+i've won 219 out of total 499
+
+i've won 232 out of total 499
+
+i've won 219 out of total 499
+
+i've won 191 out of total 499
+
+i've won 215 out of total 499
+
+i've won 215 out of total 499
+
+i've won 223 out of total 499
+
+Generation: 15
+
+
+fitness after sort 0.47
+
+i've won 174 out of total 499
+
+i've won 200 out of total 499
+
+i've won 192 out of total 499
+
+i've won 192 out of total 499
+
+i've won 211 out of total 499
+
+i've won 192 out of total 499
+
+i've won 175 out of total 499
+
+i've won 186 out of total 499
+
+i've won 189 out of total 499
+
+i've won 177 out of total 499
+
+i've won 186 out of total 499
+
+i've won 212 out of total 499
+
+i've won 198 out of total 499
+
+i've won 191 out of total 499
+
+i've won 175 out of total 499
+
+i've won 189 out of total 499
+
+i've won 197 out of total 499
+
+i've won 186 out of total 499
+
+i've won 199 out of total 499
+
+i've won 193 out of total 499
+
+i've won 203 out of total 499
+
+i've won 210 out of total 499
+
+i've won 211 out of total 499
+
+i've won 201 out of total 499
+
+i've won 191 out of total 499
+
+i've won 216 out of total 499
+
+i've won 173 out of total 499
+
+i've won 183 out of total 499
+
+i've won 201 out of total 499
+
+i've won 176 out of total 499
+
+i've won 180 out of total 499
+
+i've won 188 out of total 499
+
+i've won 190 out of total 499
+
+i've won 207 out of total 499
+
+i've won 213 out of total 499
+
+i've won 199 out of total 499
+
+i've won 216 out of total 499
+
+i've won 205 out of total 499
+
+i've won 186 out of total 499
+
+i've won 192 out of total 499
+
+i've won 211 out of total 499
+
+i've won 190 out of total 499
+
+i've won 200 out of total 499
+
+i've won 197 out of total 499
+
+i've won 204 out of total 499
+
+i've won 184 out of total 499
+
+i've won 186 out of total 499
+
+i've won 178 out of total 499
+
+i've won 194 out of total 499
+
+i've won 187 out of total 499
+
+i've won 181 out of total 499
+
+i've won 175 out of total 499
+
+i've won 180 out of total 499
+
+i've won 182 out of total 499
+
+i've won 194 out of total 499
+
+i've won 190 out of total 499
+
+i've won 199 out of total 499
+
+i've won 194 out of total 499
+
+i've won 185 out of total 499
+
+i've won 170 out of total 499
+
+i've won 192 out of total 499
+
+i've won 176 out of total 499
+
+i've won 192 out of total 499
+
+i've won 174 out of total 499
+
+i've won 195 out of total 499
+
+i've won 195 out of total 499
+
+i've won 208 out of total 499
+
+i've won 185 out of total 499
+
+i've won 179 out of total 499
+
+i've won 201 out of total 499
+
+i've won 208 out of total 499
+
+i've won 221 out of total 499
+
+i've won 223 out of total 499
+
+i've won 230 out of total 499
+
+i've won 230 out of total 499
+
+i've won 211 out of total 499
+
+i've won 228 out of total 499
+
+i've won 212 out of total 499
+
+i've won 228 out of total 499
+
+i've won 230 out of total 499
+
+i've won 217 out of total 499
+
+i've won 233 out of total 499
+
+i've won 208 out of total 499
+
+i've won 206 out of total 499
+
+i've won 211 out of total 499
+
+i've won 213 out of total 499
+
+i've won 191 out of total 499
+
+i've won 226 out of total 499
+
+i've won 219 out of total 499
+
+i've won 213 out of total 499
+
+i've won 220 out of total 499
+
+i've won 219 out of total 499
+
+i've won 202 out of total 499
+
+i've won 206 out of total 499
+
+i've won 220 out of total 499
+
+i've won 247 out of total 499
+
+i've won 211 out of total 499
+
+i've won 225 out of total 499
+
+i've won 227 out of total 499
+
+Generation: 16
+
+
+fitness after sort 0.494
+
+i've won 195 out of total 499
+
+i've won 209 out of total 499
+
+i've won 208 out of total 499
+
+i've won 196 out of total 499
+
+i've won 184 out of total 499
+
+i've won 177 out of total 499
+
+i've won 183 out of total 499
+
+i've won 208 out of total 499
+
+i've won 200 out of total 499
+
+i've won 193 out of total 499
+
+i've won 185 out of total 499
+
+i've won 168 out of total 499
+
+i've won 186 out of total 499
+
+i've won 213 out of total 499
+
+i've won 206 out of total 499
+
+i've won 221 out of total 499
+
+i've won 188 out of total 499
+
+i've won 198 out of total 499
+
+i've won 205 out of total 499
+
+i've won 199 out of total 499
+
+i've won 207 out of total 499
+
+i've won 211 out of total 499
+
+i've won 202 out of total 499
+
+i've won 186 out of total 499
+
+i've won 204 out of total 499
+
+i've won 174 out of total 499
+
+i've won 172 out of total 499
+
+i've won 183 out of total 499
+
+i've won 207 out of total 499
+
+i've won 218 out of total 499
+
+i've won 196 out of total 499
+
+i've won 192 out of total 499
+
+i've won 180 out of total 499
+
+i've won 192 out of total 499
+
+i've won 191 out of total 499
+
+i've won 184 out of total 499
+
+i've won 184 out of total 499
+
+i've won 189 out of total 499
+
+i've won 185 out of total 499
+
+i've won 187 out of total 499
+
+i've won 205 out of total 499
+
+i've won 191 out of total 499
+
+i've won 190 out of total 499
+
+i've won 214 out of total 499
+
+i've won 203 out of total 499
+
+i've won 181 out of total 499
+
+i've won 185 out of total 499
+
+i've won 200 out of total 499
+
+i've won 209 out of total 499
+
+i've won 179 out of total 499
+
+i've won 197 out of total 499
+
+i've won 205 out of total 499
+
+i've won 193 out of total 499
+
+i've won 186 out of total 499
+
+i've won 203 out of total 499
+
+i've won 195 out of total 499
+
+i've won 197 out of total 499
+
+i've won 182 out of total 499
+
+i've won 204 out of total 499
+
+i've won 176 out of total 499
+
+i've won 206 out of total 499
+
+i've won 197 out of total 499
+
+i've won 197 out of total 499
+
+i've won 201 out of total 499
+
+i've won 170 out of total 499
+
+i've won 185 out of total 499
+
+i've won 192 out of total 499
+
+i've won 200 out of total 499
+
+i've won 207 out of total 499
+
+i've won 196 out of total 499
+
+i've won 203 out of total 499
+
+i've won 217 out of total 499
+
+i've won 218 out of total 499
+
+i've won 220 out of total 499
+
+i've won 218 out of total 499
+
+i've won 209 out of total 499
+
+i've won 238 out of total 499
+
+i've won 216 out of total 499
+
+i've won 213 out of total 499
+
+i've won 184 out of total 499
+
+i've won 231 out of total 499
+
+i've won 227 out of total 499
+
+i've won 226 out of total 499
+
+i've won 191 out of total 499
+
+i've won 206 out of total 499
+
+i've won 226 out of total 499
+
+i've won 209 out of total 499
+
+i've won 219 out of total 499
+
+i've won 211 out of total 499
+
+i've won 214 out of total 499
+
+i've won 203 out of total 499
+
+i've won 218 out of total 499
+
+i've won 212 out of total 499
+
+i've won 210 out of total 499
+
+i've won 218 out of total 499
+
+i've won 221 out of total 499
+
+i've won 213 out of total 499
+
+i've won 216 out of total 499
+
+i've won 202 out of total 499
+
+Generation: 17
+
+
+fitness after sort 0.476
+
+i've won 217 out of total 499
+
+i've won 183 out of total 499
+
+i've won 190 out of total 499
+
+i've won 197 out of total 499
+
+i've won 213 out of total 499
+
+i've won 193 out of total 499
+
+i've won 197 out of total 499
+
+i've won 198 out of total 499
+
+i've won 216 out of total 499
+
+i've won 203 out of total 499
+
+i've won 170 out of total 499
+
+i've won 173 out of total 499
+
+i've won 173 out of total 499
+
+i've won 186 out of total 499
+
+i've won 204 out of total 499
+
+i've won 177 out of total 499
+
+i've won 192 out of total 499
+
+i've won 188 out of total 499
+
+i've won 173 out of total 499
+
+i've won 187 out of total 499
+
+i've won 183 out of total 499
+
+i've won 201 out of total 499
+
+i've won 184 out of total 499
+
+i've won 172 out of total 499
+
+i've won 186 out of total 499
+
+i've won 200 out of total 499
+
+i've won 196 out of total 499
+
+i've won 179 out of total 499
+
+i've won 210 out of total 499
+
+i've won 199 out of total 499
+
+i've won 199 out of total 499
+
+i've won 193 out of total 499
+
+i've won 199 out of total 499
+
+i've won 196 out of total 499
+
+i've won 193 out of total 499
+
+i've won 191 out of total 499
+
+i've won 202 out of total 499
+
+i've won 190 out of total 499
+
+i've won 191 out of total 499
+
+i've won 192 out of total 499
+
+i've won 193 out of total 499
+
+i've won 179 out of total 499
+
+i've won 205 out of total 499
+
+i've won 181 out of total 499
+
+i've won 185 out of total 499
+
+i've won 195 out of total 499
+
+i've won 197 out of total 499
+
+i've won 196 out of total 499
+
+i've won 201 out of total 499
+
+i've won 206 out of total 499
+
+i've won 183 out of total 499
+
+i've won 176 out of total 499
+
+i've won 197 out of total 499
+
+i've won 198 out of total 499
+
+i've won 202 out of total 499
+
+i've won 181 out of total 499
+
+i've won 204 out of total 499
+
+i've won 184 out of total 499
+
+i've won 195 out of total 499
+
+i've won 209 out of total 499
+
+i've won 208 out of total 499
+
+i've won 179 out of total 499
+
+i've won 205 out of total 499
+
+i've won 191 out of total 499
+
+i've won 186 out of total 499
+
+i've won 195 out of total 499
+
+i've won 177 out of total 499
+
+i've won 205 out of total 499
+
+i've won 189 out of total 499
+
+i've won 208 out of total 499
+
+i've won 222 out of total 499
+
+i've won 217 out of total 499
+
+i've won 207 out of total 499
+
+i've won 210 out of total 499
+
+i've won 214 out of total 499
+
+i've won 223 out of total 499
+
+i've won 216 out of total 499
+
+i've won 223 out of total 499
+
+i've won 218 out of total 499
+
+i've won 222 out of total 499
+
+i've won 215 out of total 499
+
+i've won 232 out of total 499
+
+i've won 207 out of total 499
+
+i've won 219 out of total 499
+
+i've won 212 out of total 499
+
+i've won 209 out of total 499
+
+i've won 207 out of total 499
+
+i've won 223 out of total 499
+
+i've won 215 out of total 499
+
+i've won 218 out of total 499
+
+i've won 187 out of total 499
+
+i've won 228 out of total 499
+
+i've won 220 out of total 499
+
+i've won 227 out of total 499
+
+i've won 212 out of total 499
+
+i've won 227 out of total 499
+
+i've won 198 out of total 499
+
+i've won 197 out of total 499
+
+i've won 216 out of total 499
+
+Generation: 18
+
+fitness after sort 0.464
+
+i've won 198 out of total 499
+
+i've won 203 out of total 499
+
+i've won 198 out of total 499
+
+i've won 198 out of total 499
+
+i've won 175 out of total 499
+
+i've won 204 out of total 499
+
+i've won 179 out of total 499
+
+i've won 202 out of total 499
+
+i've won 192 out of total 499
+
+i've won 210 out of total 499
+
+i've won 201 out of total 499
+
+i've won 210 out of total 499
+
+i've won 193 out of total 499
+
+i've won 202 out of total 499
+
+i've won 213 out of total 499
+
+i've won 184 out of total 499
+
+i've won 194 out of total 499
+
+i've won 188 out of total 499
+
+i've won 199 out of total 499
+
+i've won 193 out of total 499
+
+i've won 181 out of total 499
+
+i've won 198 out of total 499
+
+i've won 192 out of total 499
+
+i've won 187 out of total 499
+
+i've won 187 out of total 499
+
+i've won 194 out of total 499
+
+i've won 217 out of total 499
+
+i've won 206 out of total 499
+
+i've won 212 out of total 499
+
+i've won 194 out of total 499
+
+i've won 198 out of total 499
+
+i've won 189 out of total 499
+
+i've won 189 out of total 499
+
+i've won 182 out of total 499
+
+i've won 199 out of total 499
+
+i've won 190 out of total 499
+
+i've won 188 out of total 499
+
+i've won 193 out of total 499
+
+i've won 181 out of total 499
+
+i've won 202 out of total 499
+
+i've won 193 out of total 499
+
+i've won 202 out of total 499
+
+i've won 198 out of total 499
+
+i've won 200 out of total 499
+
+i've won 190 out of total 499
+
+i've won 202 out of total 499
+
+i've won 187 out of total 499
+
+i've won 194 out of total 499
+
+i've won 193 out of total 499
+
+i've won 189 out of total 499
+
+i've won 196 out of total 499
+
+i've won 197 out of total 499
+
+i've won 197 out of total 499
+
+i've won 191 out of total 499
+
+i've won 184 out of total 499
+
+i've won 189 out of total 499
+
+i've won 206 out of total 499
+
+i've won 192 out of total 499
+
+i've won 180 out of total 499
+
+i've won 184 out of total 499
+
+i've won 181 out of total 499
+
+i've won 213 out of total 499
+
+i've won 198 out of total 499
+
+i've won 187 out of total 499
+
+i've won 202 out of total 499
+
+i've won 203 out of total 499
+
+i've won 187 out of total 499
+
+i've won 203 out of total 499
+
+i've won 187 out of total 499
+
+i've won 167 out of total 499
+
+i've won 201 out of total 499
+
+i've won 211 out of total 499
+
+i've won 212 out of total 499
+
+i've won 190 out of total 499
+
+i've won 212 out of total 499
+
+i've won 207 out of total 499
+
+i've won 203 out of total 499
+
+i've won 216 out of total 499
+
+i've won 214 out of total 499
+
+i've won 219 out of total 499
+
+i've won 201 out of total 499
+
+i've won 207 out of total 499
+
+i've won 229 out of total 499
+
+i've won 219 out of total 499
+
+i've won 195 out of total 499
+
+i've won 221 out of total 499
+
+i've won 221 out of total 499
+
+i've won 209 out of total 499
+
+i've won 238 out of total 499
+
+i've won 215 out of total 499
+
+i've won 227 out of total 499
+
+i've won 216 out of total 499
+
+i've won 212 out of total 499
+
+i've won 211 out of total 499
+
+i've won 200 out of total 499
+
+i've won 206 out of total 499
+
+i've won 216 out of total 499
+
+i've won 196 out of total 499
+
+i've won 211 out of total 499
+
+Generation: 19
+
+
+
+
+biggest win 	0.432
+Generation win	14397
+
+biggest win 	0.46
+Generation win	18011
+
+biggest win 	0.482
+Generation win	19829
+
+biggest win 	0.492
+Generation win	21368
+
+biggest win 	0.478
+Generation win	21319
+ Most wins weigths
+
+biggest win 	0.47
+Generation win	20659
+ Most wins weigths
+
+biggest win 	0.48
+Generation win	20544
+ Most wins weigths
+
+biggest win 	0.468
+Generation win	19826
+
+biggest win 	0.488
+Generation win	19708
+
+biggest win 	0.472
+Generation win	19828
+ Most wins weigths
+
+biggest win 	0.472
+Generation win	19615
+
+biggest win 	0.494
+Generation win	19749
+
+biggest win 	0.492
+Generation win	19800
+
+biggest win 	0.47
+Generation win	19760
+
+biggest win 	0.456
+Generation win	19853
+
+biggest win 	0.47
+Generation win	19743
+
+biggest win 	0.494
+Generation win	19768
+
+biggest win 	0.476
+Generation win	19821
+
+biggest win 	0.464
+Generation win	19737
+
+Player 0 won: 397695 times.
+Player 1 won: 204046 times.
+Player 2 won: 198846 times.
+Player 3 won: 199413 times.

@@ -5,6 +5,7 @@
 #include "ludo_player.h"
 #include "ludo_player_random.h"
 #include "ludo_player_ga.h"         //include my player
+#include "ludo_player_q.h"
 #include "positions_and_dice.h"
 
 Q_DECLARE_METATYPE( positions_and_dice )
@@ -14,9 +15,10 @@ int main(int argc, char *argv[]){
     qRegisterMetaType<positions_and_dice>();
 
     //instanciate the players here
-    ludo_player_ga p1;
+    ludo_player_ga p2;
     //ludo_player p2;
-    ludo_player_random p2, p3, p4;
+    ludo_player_random  p3, p4;
+    ludo_player_q p1;
 
     game g;
     g.setGameDelay(0); //if you want to see the game, set a delay
@@ -40,7 +42,7 @@ int main(int argc, char *argv[]){
     QObject::connect(&g, SIGNAL(player1_end(std::vector<int>)),    &p1,SLOT(post_game_analysis(std::vector<int>)));
     QObject::connect(&p1,SIGNAL(turn_complete(bool)),              &g, SLOT(turnComplete(bool)));
 //insert in order to end game
-    QObject::connect(&g,SIGNAL(declare_winner(int)),                &p1,SLOT(updateFitnessScore(int) ) );
+    QObject::connect(&g,SIGNAL(declare_winner(int)),                &p2,SLOT(updateFitnessScore(int) ) );
 
 
     QObject::connect(&g, SIGNAL(player2_start(positions_and_dice)),&p2,SLOT(start_turn(positions_and_dice)));
@@ -58,7 +60,7 @@ int main(int argc, char *argv[]){
     QObject::connect(&g, SIGNAL(player4_end(std::vector<int>)),    &p4,SLOT(post_game_analysis(std::vector<int>)));
     QObject::connect(&p4,SIGNAL(turn_complete(bool)),              &g, SLOT(turnComplete(bool)));
 
-    for(int i = 0; i < 5000; ++i){
+    for(int i = 0; i < 10000; ++i){
         g.start();
         a.exec();
         g.reset();

@@ -15,7 +15,7 @@
 #define ChromosomePool 100
 #define chromosimeLifeTime 1500
 #define Training false
-#define TOTALGAMES 1000000
+#define TOTALGAMES 1000
 
 using namespace std;
 

@@ -242,7 +242,7 @@ int ludo_player_ga::make_decision(){
     //positions_and_dice piece;
     //piecePos = piece.pos;
     //cout<<"piece 1 " <<endl;
-    if(Training ==true){
+
 
         if(init_flag == true){
         initialize_population();
@@ -258,7 +258,8 @@ int ludo_player_ga::make_decision(){
         init_flag = false;
         }
 
-    myMoves = exploreBoard();
+        if(Training ==false){
+        myMoves = exploreBoard();
 
 
         Perfect_GA_Player myPlayer;

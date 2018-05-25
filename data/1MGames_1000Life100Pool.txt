@@ -1,0 +1,5134 @@
+Chromosome 0
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.8
+Gene 3 has weight of 0.6
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.3
+Gene 8 has weight of 1
+Chromosome 1
+Gene 0 has weight of 0.2
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.8
+Gene 3 has weight of 0.1
+Gene 4 has weight of 1
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.7
+Chromosome 2
+Gene 0 has weight of 0.3
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.9
+Gene 4 has weight of 0.8
+Gene 5 has weight of 1
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.3
+Chromosome 3
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.8
+Gene 2 has weight of 0.6
+Gene 3 has weight of 1
+Gene 4 has weight of 0.3
+Gene 5 has weight of 0.3
+Gene 6 has weight of 0.9
+Gene 7 has weight of 1
+Gene 8 has weight of 0.8
+Chromosome 4
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.3
+Gene 4 has weight of 1
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.2
+Gene 7 has weight of 1
+Gene 8 has weight of 0.5
+Chromosome 5
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.9
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.6
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.1
+Chromosome 6
+Gene 0 has weight of 0.7
+Gene 1 has weight of 0.4
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.1
+Gene 4 has weight of 0.7
+Gene 5 has weight of 0.2
+Gene 6 has weight of 0.6
+Gene 7 has weight of 0.6
+Gene 8 has weight of 0.5
+Chromosome 7
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.6
+Gene 3 has weight of 0.7
+Gene 4 has weight of 1
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.5
+Gene 8 has weight of 0.6
+Chromosome 8
+Gene 0 has weight of 0.3
+Gene 1 has weight of 0.6
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.5
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.4
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.8
+Chromosome 9
+Gene 0 has weight of 0.9
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.9
+Gene 3 has weight of 0.9
+Gene 4 has weight of 0.5
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.5
+Gene 8 has weight of 1
+Chromosome 10
+Gene 0 has weight of 0.3
+Gene 1 has weight of 0.1
+Gene 2 has weight of 0.7
+Gene 3 has weight of 0.9
+Gene 4 has weight of 1
+Gene 5 has weight of 0.3
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.7
+Gene 8 has weight of 0.5
+Chromosome 11
+Gene 0 has weight of 1
+Gene 1 has weight of 0.6
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.9
+Gene 5 has weight of 0.8
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.8
+Gene 8 has weight of 0.3
+Chromosome 12
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.1
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.6
+Chromosome 13
+Gene 0 has weight of 1
+Gene 1 has weight of 0.5
+Gene 2 has weight of 1
+Gene 3 has weight of 0.1
+Gene 4 has weight of 1
+Gene 5 has weight of 0.2
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.8
+Gene 8 has weight of 0.2
+Chromosome 14
+Gene 0 has weight of 0.2
+Gene 1 has weight of 0.6
+Gene 2 has weight of 1
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.8
+Gene 5 has weight of 0.7
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.4
+Gene 8 has weight of 0.7
+Chromosome 15
+Gene 0 has weight of 0.6
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.4
+Gene 3 has weight of 1
+Gene 4 has weight of 0.5
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.3
+Gene 8 has weight of 1
+Chromosome 16
+Gene 0 has weight of 0.4
+Gene 1 has weight of 1
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.9
+Gene 4 has weight of 0.9
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.1
+Gene 7 has weight of 1
+Gene 8 has weight of 0.7
+Chromosome 17
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.9
+Gene 2 has weight of 0.6
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.2
+Gene 6 has weight of 0.6
+Gene 7 has weight of 1
+Gene 8 has weight of 0.9
+Chromosome 18
+Gene 0 has weight of 0.5
+Gene 1 has weight of 0.9
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.1
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.1
+Gene 6 has weight of 0.5
+Gene 7 has weight of 0.5
+Gene 8 has weight of 0.5
+Chromosome 19
+Gene 0 has weight of 0.5
+Gene 1 has weight of 0.8
+Gene 2 has weight of 0.7
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.8
+Gene 6 has weight of 0.6
+Gene 7 has weight of 1
+Gene 8 has weight of 0.7
+Chromosome 20
+Gene 0 has weight of 0.3
+Gene 1 has weight of 0.2
+Gene 2 has weight of 0.8
+Gene 3 has weight of 0.9
+Gene 4 has weight of 0.6
+Gene 5 has weight of 0.8
+Gene 6 has weight of 0.5
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.9
+Chromosome 21
+Gene 0 has weight of 0.6
+Gene 1 has weight of 1
+Gene 2 has weight of 0.8
+Gene 3 has weight of 0.6
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.9
+Gene 7 has weight of 0.4
+Gene 8 has weight of 0.2
+Chromosome 22
+Gene 0 has weight of 0.9
+Gene 1 has weight of 1
+Gene 2 has weight of 0.7
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.4
+Gene 7 has weight of 0.9
+Gene 8 has weight of 0.7
+Chromosome 23
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.5
+Gene 2 has weight of 0.9
+Gene 3 has weight of 0.9
+Gene 4 has weight of 0.9
+Gene 5 has weight of 1
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.8
+Gene 8 has weight of 0.7
+Chromosome 24
+Gene 0 has weight of 0.5
+Gene 1 has weight of 0.4
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.1
+Gene 5 has weight of 1
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.6
+Gene 8 has weight of 0.5
+Chromosome 25
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.6
+Gene 2 has weight of 1
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.7
+Gene 5 has weight of 1
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.3
+Gene 8 has weight of 0.5
+Chromosome 26
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.8
+Gene 2 has weight of 0.6
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.9
+Gene 5 has weight of 0.2
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.9
+Gene 8 has weight of 1
+Chromosome 27
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.9
+Gene 3 has weight of 0.1
+Gene 4 has weight of 0.3
+Gene 5 has weight of 0.2
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.6
+Gene 8 has weight of 0.2
+Chromosome 28
+Gene 0 has weight of 0.2
+Gene 1 has weight of 0.1
+Gene 2 has weight of 0.9
+Gene 3 has weight of 0.6
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.7
+Gene 6 has weight of 0.5
+Gene 7 has weight of 0.7
+Gene 8 has weight of 0.3
+Chromosome 29
+Gene 0 has weight of 0.6
+Gene 1 has weight of 0.9
+Gene 2 has weight of 0.7
+Gene 3 has weight of 0.3
+Gene 4 has weight of 0.9
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.3
+Gene 8 has weight of 0.5
+Chromosome 30
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.3
+Gene 3 has weight of 1
+Gene 4 has weight of 1
+Gene 5 has weight of 0.1
+Gene 6 has weight of 0.9
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.4
+Chromosome 31
+Gene 0 has weight of 0.2
+Gene 1 has weight of 0.2
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.5
+Gene 5 has weight of 0.1
+Gene 6 has weight of 0.4
+Gene 7 has weight of 1
+Gene 8 has weight of 0.2
+Chromosome 32
+Gene 0 has weight of 1
+Gene 1 has weight of 0.7
+Gene 2 has weight of 1
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.6
+Gene 8 has weight of 0.7
+Chromosome 33
+Gene 0 has weight of 0.7
+Gene 1 has weight of 0.5
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.1
+Gene 4 has weight of 0.5
+Gene 5 has weight of 0.7
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.7
+Gene 8 has weight of 0.8
+Chromosome 34
+Gene 0 has weight of 0.6
+Gene 1 has weight of 0.7
+Gene 2 has weight of 1
+Gene 3 has weight of 0.9
+Gene 4 has weight of 0.8
+Gene 5 has weight of 0.3
+Gene 6 has weight of 0.9
+Gene 7 has weight of 0.3
+Gene 8 has weight of 1
+Chromosome 35
+Gene 0 has weight of 1
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.3
+Gene 4 has weight of 0.8
+Gene 5 has weight of 0.7
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.4
+Gene 8 has weight of 0.3
+Chromosome 36
+Gene 0 has weight of 0.2
+Gene 1 has weight of 0.6
+Gene 2 has weight of 1
+Gene 3 has weight of 1
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.5
+Gene 6 has weight of 1
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.1
+Chromosome 37
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.6
+Gene 2 has weight of 0.9
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.9
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.5
+Chromosome 38
+Gene 0 has weight of 0.3
+Gene 1 has weight of 1
+Gene 2 has weight of 0.7
+Gene 3 has weight of 0.2
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.3
+Gene 8 has weight of 0.3
+Chromosome 39
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.6
+Gene 2 has weight of 0.6
+Gene 3 has weight of 0.3
+Gene 4 has weight of 1
+Gene 5 has weight of 0.1
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.9
+Gene 8 has weight of 0.4
+Chromosome 40
+Gene 0 has weight of 0.9
+Gene 1 has weight of 0.1
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.1
+Gene 4 has weight of 1
+Gene 5 has weight of 0.2
+Gene 6 has weight of 1
+Gene 7 has weight of 0.7
+Gene 8 has weight of 0.3
+Chromosome 41
+Gene 0 has weight of 0.6
+Gene 1 has weight of 0.5
+Gene 2 has weight of 0.5
+Gene 3 has weight of 1
+Gene 4 has weight of 1
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.6
+Chromosome 42
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.3
+Gene 2 has weight of 1
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.8
+Gene 8 has weight of 0.5
+Chromosome 43
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.2
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.7
+Gene 4 has weight of 1
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.3
+Gene 8 has weight of 0.7
+Chromosome 44
+Gene 0 has weight of 0.5
+Gene 1 has weight of 0.2
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.9
+Gene 4 has weight of 0.9
+Gene 5 has weight of 1
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.9
+Gene 8 has weight of 0.9
+Chromosome 45
+Gene 0 has weight of 0.9
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.9
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.9
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.4
+Gene 7 has weight of 0.4
+Gene 8 has weight of 0.9
+Chromosome 46
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.5
+Gene 2 has weight of 0.8
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.9
+Gene 5 has weight of 1
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.7
+Gene 8 has weight of 0.9
+Chromosome 47
+Gene 0 has weight of 0.8
+Gene 1 has weight of 1
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.4
+Gene 8 has weight of 0.3
+Chromosome 48
+Gene 0 has weight of 0.7
+Gene 1 has weight of 0.6
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.6
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.8
+Gene 7 has weight of 1
+Gene 8 has weight of 0.7
+Chromosome 49
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.5
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.1
+Gene 4 has weight of 0.5
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.9
+Chromosome 50
+Gene 0 has weight of 0.7
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.8
+Gene 4 has weight of 1
+Gene 5 has weight of 0.4
+Gene 6 has weight of 1
+Gene 7 has weight of 0.3
+Gene 8 has weight of 0.9
+Chromosome 51
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.1
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.9
+Gene 5 has weight of 1
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.6
+Gene 8 has weight of 0.5
+Chromosome 52
+Gene 0 has weight of 1
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.6
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.5
+Gene 5 has weight of 1
+Gene 6 has weight of 1
+Gene 7 has weight of 0.5
+Gene 8 has weight of 0.6
+Chromosome 53
+Gene 0 has weight of 1
+Gene 1 has weight of 0.4
+Gene 2 has weight of 0.6
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.2
+Gene 7 has weight of 1
+Gene 8 has weight of 1
+Chromosome 54
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.9
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.6
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.5
+Gene 6 has weight of 1
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.3
+Chromosome 55
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.2
+Gene 2 has weight of 1
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.3
+Gene 5 has weight of 0.2
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.8
+Chromosome 56
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.2
+Gene 2 has weight of 0.2
+Gene 3 has weight of 1
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.8
+Gene 8 has weight of 0.8
+Chromosome 57
+Gene 0 has weight of 0.5
+Gene 1 has weight of 0.1
+Gene 2 has weight of 0.7
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.8
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.9
+Gene 7 has weight of 0.6
+Gene 8 has weight of 0.9
+Chromosome 58
+Gene 0 has weight of 0.3
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.7
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.3
+Gene 8 has weight of 0.9
+Chromosome 59
+Gene 0 has weight of 1
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.2
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.4
+Chromosome 60
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.8
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.5
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.3
+Chromosome 61
+Gene 0 has weight of 1
+Gene 1 has weight of 0.1
+Gene 2 has weight of 1
+Gene 3 has weight of 1
+Gene 4 has weight of 0.5
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.4
+Chromosome 62
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.9
+Gene 2 has weight of 0.9
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.8
+Gene 8 has weight of 0.7
+Chromosome 63
+Gene 0 has weight of 0.1
+Gene 1 has weight of 1
+Gene 2 has weight of 0.8
+Gene 3 has weight of 0.6
+Gene 4 has weight of 1
+Gene 5 has weight of 0.8
+Gene 6 has weight of 0.9
+Gene 7 has weight of 0.6
+Gene 8 has weight of 0.4
+Chromosome 64
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.9
+Gene 2 has weight of 0.4
+Gene 3 has weight of 0.8
+Gene 4 has weight of 1
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.9
+Gene 8 has weight of 0.8
+Chromosome 65
+Gene 0 has weight of 0.5
+Gene 1 has weight of 0.2
+Gene 2 has weight of 1
+Gene 3 has weight of 0.1
+Gene 4 has weight of 1
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.9
+Gene 7 has weight of 0.6
+Gene 8 has weight of 0.9
+Chromosome 66
+Gene 0 has weight of 0.5
+Gene 1 has weight of 0.4
+Gene 2 has weight of 0.8
+Gene 3 has weight of 0.2
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.1
+Gene 7 has weight of 1
+Gene 8 has weight of 0.8
+Chromosome 67
+Gene 0 has weight of 1
+Gene 1 has weight of 1
+Gene 2 has weight of 0.4
+Gene 3 has weight of 0.3
+Gene 4 has weight of 0.5
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.3
+Chromosome 68
+Gene 0 has weight of 0.3
+Gene 1 has weight of 0.1
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.2
+Gene 4 has weight of 0.8
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.8
+Gene 8 has weight of 0.5
+Chromosome 69
+Gene 0 has weight of 0.2
+Gene 1 has weight of 0.8
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.2
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.8
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.5
+Gene 8 has weight of 0.1
+Chromosome 70
+Gene 0 has weight of 0.9
+Gene 1 has weight of 0.6
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.7
+Gene 5 has weight of 0.3
+Gene 6 has weight of 0.2
+Gene 7 has weight of 1
+Gene 8 has weight of 0.7
+Chromosome 71
+Gene 0 has weight of 0.5
+Gene 1 has weight of 0.9
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.9
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.1
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.3
+Gene 8 has weight of 1
+Chromosome 72
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.6
+Gene 2 has weight of 0.7
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.7
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.8
+Gene 7 has weight of 1
+Gene 8 has weight of 0.8
+Chromosome 73
+Gene 0 has weight of 0.5
+Gene 1 has weight of 1
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.7
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.9
+Gene 8 has weight of 0.6
+Chromosome 74
+Gene 0 has weight of 0.4
+Gene 1 has weight of 1
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.2
+Gene 4 has weight of 0.6
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.6
+Gene 8 has weight of 0.6
+Chromosome 75
+Gene 0 has weight of 0.5
+Gene 1 has weight of 1
+Gene 2 has weight of 0.9
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.9
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.3
+Gene 8 has weight of 0.3
+Chromosome 76
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.1
+Gene 2 has weight of 0.4
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.7
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.4
+Gene 8 has weight of 0.4
+Chromosome 77
+Gene 0 has weight of 0.5
+Gene 1 has weight of 0.5
+Gene 2 has weight of 0.4
+Gene 3 has weight of 1
+Gene 4 has weight of 0.8
+Gene 5 has weight of 0.3
+Gene 6 has weight of 0.6
+Gene 7 has weight of 0.9
+Gene 8 has weight of 1
+Chromosome 78
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.7
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.4
+Chromosome 79
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.4
+Gene 2 has weight of 0.9
+Gene 3 has weight of 0.6
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.1
+Gene 6 has weight of 0.9
+Gene 7 has weight of 0.8
+Gene 8 has weight of 0.7
+Chromosome 80
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.6
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.9
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.2
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.4
+Chromosome 81
+Gene 0 has weight of 0.6
+Gene 1 has weight of 1
+Gene 2 has weight of 0.4
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.9
+Gene 8 has weight of 0.4
+Chromosome 82
+Gene 0 has weight of 0.6
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.6
+Gene 3 has weight of 1
+Gene 4 has weight of 1
+Gene 5 has weight of 0.1
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.7
+Gene 8 has weight of 0.4
+Chromosome 83
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.7
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.6
+Gene 4 has weight of 0.1
+Gene 5 has weight of 0.7
+Gene 6 has weight of 0.6
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.9
+Chromosome 84
+Gene 0 has weight of 0.2
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.7
+Gene 4 has weight of 1
+Gene 5 has weight of 0.2
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.5
+Gene 8 has weight of 0.3
+Chromosome 85
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.5
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.3
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.4
+Gene 8 has weight of 0.8
+Chromosome 86
+Gene 0 has weight of 0.1
+Gene 1 has weight of 0.1
+Gene 2 has weight of 0.4
+Gene 3 has weight of 0.5
+Gene 4 has weight of 1
+Gene 5 has weight of 0.3
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.5
+Gene 8 has weight of 0.3
+Chromosome 87
+Gene 0 has weight of 0.6
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.9
+Chromosome 88
+Gene 0 has weight of 1
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.9
+Gene 6 has weight of 0.4
+Gene 7 has weight of 0.5
+Gene 8 has weight of 0.3
+Chromosome 89
+Gene 0 has weight of 0.3
+Gene 1 has weight of 0.5
+Gene 2 has weight of 0.6
+Gene 3 has weight of 0.2
+Gene 4 has weight of 0.8
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.7
+Chromosome 90
+Gene 0 has weight of 1
+Gene 1 has weight of 0.9
+Gene 2 has weight of 0.2
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.4
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.8
+Gene 7 has weight of 1
+Gene 8 has weight of 0.9
+Chromosome 91
+Gene 0 has weight of 0.7
+Gene 1 has weight of 0.8
+Gene 2 has weight of 0.1
+Gene 3 has weight of 0.5
+Gene 4 has weight of 0.9
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.9
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.7
+Chromosome 92
+Gene 0 has weight of 0.9
+Gene 1 has weight of 0.6
+Gene 2 has weight of 0.3
+Gene 3 has weight of 0.2
+Gene 4 has weight of 1
+Gene 5 has weight of 1
+Gene 6 has weight of 0.7
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.7
+Chromosome 93
+Gene 0 has weight of 0.5
+Gene 1 has weight of 1
+Gene 2 has weight of 1
+Gene 3 has weight of 0.1
+Gene 4 has weight of 0.9
+Gene 5 has weight of 1
+Gene 6 has weight of 0.4
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.5
+Chromosome 94
+Gene 0 has weight of 0.9
+Gene 1 has weight of 1
+Gene 2 has weight of 0.7
+Gene 3 has weight of 0.8
+Gene 4 has weight of 0.8
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.2
+Gene 8 has weight of 0.3
+Chromosome 95
+Gene 0 has weight of 0.3
+Gene 1 has weight of 0.2
+Gene 2 has weight of 0.6
+Gene 3 has weight of 0.1
+Gene 4 has weight of 1
+Gene 5 has weight of 0.1
+Gene 6 has weight of 0.5
+Gene 7 has weight of 0.1
+Gene 8 has weight of 0.2
+Chromosome 96
+Gene 0 has weight of 0.4
+Gene 1 has weight of 0.8
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.2
+Gene 4 has weight of 0.2
+Gene 5 has weight of 0.4
+Gene 6 has weight of 0.1
+Gene 7 has weight of 0.4
+Gene 8 has weight of 0.3
+Chromosome 97
+Gene 0 has weight of 0.2
+Gene 1 has weight of 0.8
+Gene 2 has weight of 0.6
+Gene 3 has weight of 0.7
+Gene 4 has weight of 0.6
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.3
+Gene 7 has weight of 0.3
+Gene 8 has weight of 0.2
+Chromosome 98
+Gene 0 has weight of 0.8
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.5
+Gene 3 has weight of 0.2
+Gene 4 has weight of 0.7
+Gene 5 has weight of 0.6
+Gene 6 has weight of 0.8
+Gene 7 has weight of 0.9
+Gene 8 has weight of 0.6
+Chromosome 99
+Gene 0 has weight of 1
+Gene 1 has weight of 0.3
+Gene 2 has weight of 0.8
+Gene 3 has weight of 0.4
+Gene 4 has weight of 0.7
+Gene 5 has weight of 0.5
+Gene 6 has weight of 0.8
+Gene 7 has weight of 1
+Gene 8 has weight of 0.8
+i've won 321 out of total 999
+
+i've won 296 out of total 999
+
+i've won 293 out of total 999
+
+i've won 278 out of total 999
+
+i've won 257 out of total 999
+
+i've won 300 out of total 999
+
+i've won 329 out of total 999
+
+i've won 318 out of total 999
+
+i've won 330 out of total 999
+
+i've won 376 out of total 999
+
+i've won 245 out of total 999
+
+i've won 411 out of total 999
+
+i've won 284 out of total 999
+
+i've won 318 out of total 999
+
+i've won 240 out of total 999
+
+i've won 429 out of total 999
+
+i've won 225 out of total 999
+
+i've won 257 out of total 999
+
+i've won 325 out of total 999
+
+i've won 299 out of total 999
+
+i've won 287 out of total 999
+
+i've won 356 out of total 999
+
+i've won 323 out of total 999
+
+i've won 252 out of total 999
+
+i've won 342 out of total 999
+
+i've won 232 out of total 999
+
+i've won 240 out of total 999
+
+i've won 325 out of total 999
+
+i've won 299 out of total 999
+
+i've won 320 out of total 999
+
+i've won 212 out of total 999
+
+i've won 213 out of total 999
+
+i've won 365 out of total 999
+
+i've won 316 out of total 999
+
+i've won 284 out of total 999
+
+i've won 430 out of total 999
+
+i've won 192 out of total 999
+
+i've won 290 out of total 999
+
+i've won 350 out of total 999
+
+i've won 239 out of total 999
+
+i've won 309 out of total 999
+
+i've won 303 out of total 999
+
+i've won 212 out of total 999
+
+i've won 298 out of total 999
+
+i've won 224 out of total 999
+
+i've won 300 out of total 999
+
+i've won 213 out of total 999
+
+i've won 337 out of total 999
+
+i've won 325 out of total 999
+
+i've won 238 out of total 999
+
+i've won 305 out of total 999
+
+i've won 228 out of total 999
+
+i've won 336 out of total 999
+
+i've won 320 out of total 999
+
+i've won 359 out of total 999
+
+i've won 217 out of total 999
+
+i've won 242 out of total 999
+
+i've won 247 out of total 999
+
+i've won 223 out of total 999
+
+i've won 334 out of total 999
+
+i've won 390 out of total 999
+
+i've won 391 out of total 999
+
+i've won 258 out of total 999
+
+i've won 224 out of total 999
+
+i've won 193 out of total 999
+
+i've won 239 out of total 999
+
+i've won 334 out of total 999
+
+i've won 365 out of total 999
+
+i've won 213 out of total 999
+
+i've won 263 out of total 999
+
+i've won 284 out of total 999
+
+i've won 318 out of total 999
+
+i've won 292 out of total 999
+
+i've won 320 out of total 999
+
+i've won 234 out of total 999
+
+i've won 297 out of total 999
+
+i've won 346 out of total 999
+
+i've won 239 out of total 999
+
+i've won 211 out of total 999
+
+i've won 255 out of total 999
+
+i've won 324 out of total 999
+
+i've won 362 out of total 999
+
+i've won 213 out of total 999
+
+i've won 371 out of total 999
+
+i've won 220 out of total 999
+
+i've won 349 out of total 999
+
+i've won 217 out of total 999
+
+i've won 376 out of total 999
+
+i've won 335 out of total 999
+
+i've won 325 out of total 999
+
+i've won 270 out of total 999
+
+i've won 333 out of total 999
+
+i've won 316 out of total 999
+
+i've won 290 out of total 999
+
+i've won 380 out of total 999
+
+i've won 280 out of total 999
+
+i've won 339 out of total 999
+
+i've won 246 out of total 999
+
+i've won 306 out of total 999
+
+Generation: 0
+
+fitness after sort 0
+fitness after sort 0.192
+fitness after sort 0.193
+fitness after sort 0.211
+fitness after sort 0.212
+fitness after sort 0.212
+fitness after sort 0.213
+fitness after sort 0.213
+fitness after sort 0.213
+fitness after sort 0.213
+fitness after sort 0.217
+fitness after sort 0.217
+fitness after sort 0.22
+fitness after sort 0.223
+fitness after sort 0.224
+fitness after sort 0.224
+fitness after sort 0.225
+fitness after sort 0.228
+fitness after sort 0.232
+fitness after sort 0.234
+fitness after sort 0.238
+fitness after sort 0.239
+fitness after sort 0.239
+fitness after sort 0.239
+fitness after sort 0.24
+fitness after sort 0.24
+fitness after sort 0.242
+fitness after sort 0.245
+fitness after sort 0.246
+fitness after sort 0.247
+fitness after sort 0.252
+fitness after sort 0.255
+fitness after sort 0.257
+fitness after sort 0.257
+fitness after sort 0.258
+fitness after sort 0.263
+fitness after sort 0.27
+fitness after sort 0.278
+fitness after sort 0.28
+fitness after sort 0.284
+fitness after sort 0.284
+fitness after sort 0.284
+fitness after sort 0.287
+fitness after sort 0.29
+fitness after sort 0.29
+fitness after sort 0.292
+fitness after sort 0.293
+fitness after sort 0.296
+fitness after sort 0.297
+fitness after sort 0.298
+fitness after sort 0.299
+fitness after sort 0.299
+fitness after sort 0.3
+fitness after sort 0.3
+fitness after sort 0.303
+fitness after sort 0.305
+fitness after sort 0.306
+fitness after sort 0.309
+fitness after sort 0.316
+fitness after sort 0.316
+fitness after sort 0.318
+fitness after sort 0.318
+fitness after sort 0.318
+fitness after sort 0.32
+fitness after sort 0.32
+fitness after sort 0.32
+fitness after sort 0.321
+fitness after sort 0.323
+fitness after sort 0.324
+fitness after sort 0.325
+fitness after sort 0.325
+fitness after sort 0.325
+fitness after sort 0.325
+fitness after sort 0.329
+fitness after sort 0.33
+fitness after sort 0.333
+fitness after sort 0.334
+fitness after sort 0.334
+fitness after sort 0.335
+fitness after sort 0.336
+fitness after sort 0.337
+fitness after sort 0.339
+fitness after sort 0.342
+fitness after sort 0.346
+fitness after sort 0.349
+fitness after sort 0.35
+fitness after sort 0.356
+fitness after sort 0.359
+fitness after sort 0.362
+fitness after sort 0.365
+fitness after sort 0.365
+fitness after sort 0.371
+fitness after sort 0.376
+fitness after sort 0.376
+fitness after sort 0.38
+fitness after sort 0.39
+fitness after sort 0.391
+fitness after sort 0.411
+fitness after sort 0.429
+fitness after sort 0.43
+
+i've won 415 out of total 999
+
+i've won 400 out of total 999
+
+i've won 416 out of total 999
+
+i've won 402 out of total 999
+
+i've won 445 out of total 999
+
+i've won 387 out of total 999
+
+i've won 418 out of total 999
+
+i've won 297 out of total 999
+
+i've won 439 out of total 999
+
+i've won 426 out of total 999
+
+i've won 426 out of total 999
+
+i've won 424 out of total 999
+
+i've won 418 out of total 999
+
+i've won 311 out of total 999
+
+i've won 385 out of total 999
+
+i've won 404 out of total 999
+
+i've won 436 out of total 999
+
+i've won 447 out of total 999
+
+i've won 298 out of total 999
+
+i've won 406 out of total 999
+
+i've won 425 out of total 999
+
+i've won 414 out of total 999
+
+i've won 371 out of total 999
+
+i've won 401 out of total 999
+
+i've won 314 out of total 999
+
+i've won 427 out of total 999
+
+i've won 381 out of total 999
+
+i've won 308 out of total 999
+
+i've won 322 out of total 999
+
+i've won 416 out of total 999
+
+i've won 396 out of total 999
+
+i've won 416 out of total 999
+
+i've won 384 out of total 999
+
+i've won 442 out of total 999
+
+i've won 440 out of total 999
+
+i've won 425 out of total 999
+
+i've won 436 out of total 999
+
+i've won 401 out of total 999
+
+i've won 426 out of total 999
+
+i've won 299 out of total 999
+
+i've won 404 out of total 999
+
+i've won 410 out of total 999
+
+i've won 451 out of total 999
+
+i've won 410 out of total 999
+
+i've won 411 out of total 999
+
+i've won 359 out of total 999
+
+i've won 373 out of total 999
+
+i've won 409 out of total 999
+
+i've won 445 out of total 999
+
+i've won 291 out of total 999
+
+i've won 293 out of total 999
+
+i've won 305 out of total 999
+
+i've won 419 out of total 999
+
+i've won 384 out of total 999
+
+i've won 308 out of total 999
+
+i've won 395 out of total 999
+
+i've won 425 out of total 999
+
+i've won 331 out of total 999
+
+i've won 404 out of total 999
+
+i've won 428 out of total 999
+
+i've won 393 out of total 999
+
+i've won 324 out of total 999
+
+i've won 441 out of total 999
+
+i've won 401 out of total 999
+
+i've won 391 out of total 999
+
+i've won 379 out of total 999
+
+i've won 310 out of total 999
+
+i've won 394 out of total 999
+
+i've won 363 out of total 999
+
+i've won 399 out of total 999
+
+i've won 313 out of total 999
+
+i've won 404 out of total 999
+
+i've won 405 out of total 999
+
+i've won 335 out of total 999
+
+i've won 439 out of total 999
+
+i've won 427 out of total 999
+
+i've won 426 out of total 999
+
+i've won 307 out of total 999
+
+i've won 421 out of total 999
+
+i've won 298 out of total 999
+
+i've won 402 out of total 999
+
+i've won 298 out of total 999
+
+i've won 400 out of total 999
+
+i've won 410 out of total 999
+
+i've won 425 out of total 999
+
+i've won 421 out of total 999
+
+i've won 391 out of total 999
+
+i've won 377 out of total 999
+
+i've won 416 out of total 999
+
+i've won 314 out of total 999
+
+i've won 378 out of total 999
+
+i've won 432 out of total 999
+
+i've won 403 out of total 999
+
+i've won 419 out of total 999
+
+i've won 389 out of total 999
+
+i've won 306 out of total 999
+
+i've won 386 out of total 999
+
+i've won 422 out of total 999
+
+i've won 419 out of total 999
+
+Generation: 1
+
+fitness after sort 0
+fitness after sort 0.291
+fitness after sort 0.293
+fitness after sort 0.297
+fitness after sort 0.298
+fitness after sort 0.298
+fitness after sort 0.298
+fitness after sort 0.299
+fitness after sort 0.305
+fitness after sort 0.306
+fitness after sort 0.307
+fitness after sort 0.308
+fitness after sort 0.308
+fitness after sort 0.31
+fitness after sort 0.311
+fitness after sort 0.313
+fitness after sort 0.314
+fitness after sort 0.314
+fitness after sort 0.322
+fitness after sort 0.324
+fitness after sort 0.331
+fitness after sort 0.335
+fitness after sort 0.359
+fitness after sort 0.363
+fitness after sort 0.371
+fitness after sort 0.373
+fitness after sort 0.377
+fitness after sort 0.378
+fitness after sort 0.379
+fitness after sort 0.381
+fitness after sort 0.384
+fitness after sort 0.384
+fitness after sort 0.385
+fitness after sort 0.386
+fitness after sort 0.387
+fitness after sort 0.389
+fitness after sort 0.391
+fitness after sort 0.391
+fitness after sort 0.393
+fitness after sort 0.394
+fitness after sort 0.395
+fitness after sort 0.396
+fitness after sort 0.399
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.401
+fitness after sort 0.401
+fitness after sort 0.401
+fitness after sort 0.402
+fitness after sort 0.402
+fitness after sort 0.403
+fitness after sort 0.404
+fitness after sort 0.404
+fitness after sort 0.404
+fitness after sort 0.404
+fitness after sort 0.405
+fitness after sort 0.406
+fitness after sort 0.409
+fitness after sort 0.41
+fitness after sort 0.41
+fitness after sort 0.41
+fitness after sort 0.411
+fitness after sort 0.414
+fitness after sort 0.415
+fitness after sort 0.416
+fitness after sort 0.416
+fitness after sort 0.416
+fitness after sort 0.416
+fitness after sort 0.418
+fitness after sort 0.418
+fitness after sort 0.419
+fitness after sort 0.419
+fitness after sort 0.419
+fitness after sort 0.421
+fitness after sort 0.421
+fitness after sort 0.422
+fitness after sort 0.424
+fitness after sort 0.425
+fitness after sort 0.425
+fitness after sort 0.425
+fitness after sort 0.425
+fitness after sort 0.426
+fitness after sort 0.426
+fitness after sort 0.426
+fitness after sort 0.426
+fitness after sort 0.427
+fitness after sort 0.427
+fitness after sort 0.428
+fitness after sort 0.432
+fitness after sort 0.436
+fitness after sort 0.436
+fitness after sort 0.439
+fitness after sort 0.439
+fitness after sort 0.44
+fitness after sort 0.441
+fitness after sort 0.442
+fitness after sort 0.445
+fitness after sort 0.445
+fitness after sort 0.447
+fitness after sort 0.451
+
+i've won 422 out of total 999
+
+i've won 403 out of total 999
+
+i've won 411 out of total 999
+
+i've won 426 out of total 999
+
+i've won 456 out of total 999
+
+i've won 418 out of total 999
+
+i've won 417 out of total 999
+
+i've won 382 out of total 999
+
+i've won 437 out of total 999
+
+i've won 430 out of total 999
+
+i've won 385 out of total 999
+
+i've won 408 out of total 999
+
+i've won 427 out of total 999
+
+i've won 440 out of total 999
+
+i've won 395 out of total 999
+
+i've won 421 out of total 999
+
+i've won 404 out of total 999
+
+i've won 409 out of total 999
+
+i've won 412 out of total 999
+
+i've won 444 out of total 999
+
+i've won 432 out of total 999
+
+i've won 434 out of total 999
+
+i've won 446 out of total 999
+
+i've won 398 out of total 999
+
+i've won 439 out of total 999
+
+i've won 411 out of total 999
+
+i've won 452 out of total 999
+
+i've won 440 out of total 999
+
+i've won 437 out of total 999
+
+i've won 445 out of total 999
+
+i've won 425 out of total 999
+
+i've won 408 out of total 999
+
+i've won 432 out of total 999
+
+i've won 417 out of total 999
+
+i've won 425 out of total 999
+
+i've won 420 out of total 999
+
+i've won 424 out of total 999
+
+i've won 404 out of total 999
+
+i've won 422 out of total 999
+
+i've won 407 out of total 999
+
+i've won 387 out of total 999
+
+i've won 413 out of total 999
+
+i've won 398 out of total 999
+
+i've won 425 out of total 999
+
+i've won 438 out of total 999
+
+i've won 436 out of total 999
+
+i've won 426 out of total 999
+
+i've won 433 out of total 999
+
+i've won 420 out of total 999
+
+i've won 399 out of total 999
+
+i've won 400 out of total 999
+
+i've won 454 out of total 999
+
+i've won 424 out of total 999
+
+i've won 400 out of total 999
+
+i've won 446 out of total 999
+
+i've won 414 out of total 999
+
+i've won 425 out of total 999
+
+i've won 399 out of total 999
+
+i've won 399 out of total 999
+
+i've won 438 out of total 999
+
+i've won 427 out of total 999
+
+i've won 414 out of total 999
+
+i've won 437 out of total 999
+
+i've won 406 out of total 999
+
+i've won 462 out of total 999
+
+i've won 451 out of total 999
+
+i've won 449 out of total 999
+
+i've won 417 out of total 999
+
+i've won 426 out of total 999
+
+i've won 402 out of total 999
+
+i've won 437 out of total 999
+
+i've won 443 out of total 999
+
+i've won 424 out of total 999
+
+i've won 404 out of total 999
+
+i've won 424 out of total 999
+
+i've won 456 out of total 999
+
+i've won 426 out of total 999
+
+i've won 406 out of total 999
+
+i've won 446 out of total 999
+
+i've won 445 out of total 999
+
+i've won 425 out of total 999
+
+i've won 395 out of total 999
+
+i've won 440 out of total 999
+
+i've won 436 out of total 999
+
+i've won 405 out of total 999
+
+i've won 456 out of total 999
+
+i've won 450 out of total 999
+
+i've won 414 out of total 999
+
+i've won 424 out of total 999
+
+i've won 417 out of total 999
+
+i've won 408 out of total 999
+
+i've won 453 out of total 999
+
+i've won 395 out of total 999
+
+i've won 469 out of total 999
+
+i've won 405 out of total 999
+
+i've won 443 out of total 999
+
+i've won 405 out of total 999
+
+i've won 393 out of total 999
+
+i've won 458 out of total 999
+
+Generation: 2
+
+fitness after sort 0
+fitness after sort 0.382
+fitness after sort 0.385
+fitness after sort 0.387
+fitness after sort 0.393
+fitness after sort 0.395
+fitness after sort 0.395
+fitness after sort 0.395
+fitness after sort 0.398
+fitness after sort 0.398
+fitness after sort 0.399
+fitness after sort 0.399
+fitness after sort 0.399
+fitness after sort 0.4
+fitness after sort 0.4
+fitness after sort 0.402
+fitness after sort 0.403
+fitness after sort 0.404
+fitness after sort 0.404
+fitness after sort 0.404
+fitness after sort 0.405
+fitness after sort 0.405
+fitness after sort 0.405
+fitness after sort 0.406
+fitness after sort 0.406
+fitness after sort 0.407
+fitness after sort 0.408
+fitness after sort 0.408
+fitness after sort 0.408
+fitness after sort 0.409
+fitness after sort 0.411
+fitness after sort 0.411
+fitness after sort 0.412
+fitness after sort 0.413
+fitness after sort 0.414
+fitness after sort 0.414
+fitness after sort 0.414
+fitness after sort 0.417
+fitness after sort 0.417
+fitness after sort 0.417
+fitness after sort 0.417
+fitness after sort 0.418
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.421
+fitness after sort 0.422
+fitness after sort 0.422
+fitness after sort 0.424
+fitness after sort 0.424
+fitness after sort 0.424
+fitness after sort 0.424
+fitness after sort 0.424
+fitness after sort 0.425
+fitness after sort 0.425
+fitness after sort 0.425
+fitness after sort 0.425
+fitness after sort 0.425
+fitness after sort 0.426
+fitness after sort 0.426
+fitness after sort 0.426
+fitness after sort 0.426
+fitness after sort 0.427
+fitness after sort 0.427
+fitness after sort 0.43
+fitness after sort 0.432
+fitness after sort 0.432
+fitness after sort 0.433
+fitness after sort 0.434
+fitness after sort 0.436
+fitness after sort 0.436
+fitness after sort 0.437
+fitness after sort 0.437
+fitness after sort 0.437
+fitness after sort 0.437
+fitness after sort 0.438
+fitness after sort 0.438
+fitness after sort 0.439
+fitness after sort 0.44
+fitness after sort 0.44
+fitness after sort 0.44
+fitness after sort 0.443
+fitness after sort 0.443
+fitness after sort 0.444
+fitness after sort 0.445
+fitness after sort 0.445
+fitness after sort 0.446
+fitness after sort 0.446
+fitness after sort 0.446
+fitness after sort 0.449
+fitness after sort 0.45
+fitness after sort 0.451
+fitness after sort 0.452
+fitness after sort 0.453
+fitness after sort 0.454
+fitness after sort 0.456
+fitness after sort 0.456
+fitness after sort 0.456
+fitness after sort 0.458
+fitness after sort 0.462
+fitness after sort 0.469
+
+i've won 418 out of total 999
+
+i've won 441 out of total 999
+
+i've won 437 out of total 999
+
+i've won 434 out of total 999
+
+i've won 420 out of total 999
+
+i've won 425 out of total 999
+
+i've won 439 out of total 999
+
+i've won 416 out of total 999
+
+i've won 419 out of total 999
+
+i've won 456 out of total 999
+
+i've won 420 out of total 999
+
+i've won 460 out of total 999
+
+i've won 438 out of total 999
+
+i've won 443 out of total 999
+
+i've won 452 out of total 999
+
+i've won 409 out of total 999
+
+i've won 426 out of total 999
+
+i've won 449 out of total 999
+
+i've won 429 out of total 999
+
+i've won 438 out of total 999
+
+i've won 407 out of total 999
+
+i've won 421 out of total 999
+
+i've won 446 out of total 999
+
+i've won 427 out of total 999
+
+i've won 441 out of total 999
+
+i've won 453 out of total 999
+
+i've won 444 out of total 999
+
+i've won 459 out of total 999
+
+i've won 439 out of total 999
+
+i've won 423 out of total 999
+
+i've won 438 out of total 999
+
+i've won 419 out of total 999
+
+i've won 442 out of total 999
+
+i've won 454 out of total 999
+
+i've won 424 out of total 999
+
+i've won 461 out of total 999
+
+i've won 415 out of total 999
+
+i've won 422 out of total 999
+
+i've won 456 out of total 999
+
+i've won 405 out of total 999
+
+i've won 469 out of total 999
+
+i've won 446 out of total 999
+
+i've won 452 out of total 999
+
+i've won 425 out of total 999
+
+i've won 434 out of total 999
+
+i've won 430 out of total 999
+
+i've won 425 out of total 999
+
+i've won 481 out of total 999
+
+i've won 443 out of total 999
+
+i've won 408 out of total 999
+
+i've won 433 out of total 999
+
+i've won 438 out of total 999
+
+i've won 437 out of total 999
+
+i've won 434 out of total 999
+
+i've won 439 out of total 999
+
+i've won 425 out of total 999
+
+i've won 432 out of total 999
+
+i've won 404 out of total 999
+
+i've won 422 out of total 999
+
+i've won 456 out of total 999
+
+i've won 450 out of total 999
+
+i've won 426 out of total 999
+
+i've won 441 out of total 999
+
+i've won 416 out of total 999
+
+i've won 435 out of total 999
+
+i've won 450 out of total 999
+
+i've won 455 out of total 999
+
+i've won 427 out of total 999
+
+i've won 448 out of total 999
+
+i've won 423 out of total 999
+
+i've won 429 out of total 999
+
+i've won 412 out of total 999
+
+i've won 410 out of total 999
+
+i've won 430 out of total 999
+
+i've won 431 out of total 999
+
+i've won 420 out of total 999
+
+i've won 413 out of total 999
+
+i've won 398 out of total 999
+
+i've won 420 out of total 999
+
+i've won 428 out of total 999
+
+i've won 411 out of total 999
+
+i've won 442 out of total 999
+
+i've won 429 out of total 999
+
+i've won 434 out of total 999
+
+i've won 405 out of total 999
+
+i've won 443 out of total 999
+
+i've won 442 out of total 999
+
+i've won 394 out of total 999
+
+i've won 432 out of total 999
+
+i've won 430 out of total 999
+
+i've won 442 out of total 999
+
+i've won 425 out of total 999
+
+i've won 425 out of total 999
+
+i've won 455 out of total 999
+
+i've won 423 out of total 999
+
+i've won 417 out of total 999
+
+i've won 435 out of total 999
+
+i've won 447 out of total 999
+
+i've won 426 out of total 999
+
+Generation: 3
+
+fitness after sort 0
+fitness after sort 0.394
+fitness after sort 0.398
+fitness after sort 0.404
+fitness after sort 0.405
+fitness after sort 0.405
+fitness after sort 0.407
+fitness after sort 0.408
+fitness after sort 0.409
+fitness after sort 0.41
+fitness after sort 0.411
+fitness after sort 0.412
+fitness after sort 0.413
+fitness after sort 0.415
+fitness after sort 0.416
+fitness after sort 0.416
+fitness after sort 0.417
+fitness after sort 0.418
+fitness after sort 0.419
+fitness after sort 0.419
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.421
+fitness after sort 0.422
+fitness after sort 0.422
+fitness after sort 0.423
+fitness after sort 0.423
+fitness after sort 0.423
+fitness after sort 0.424
+fitness after sort 0.425
+fitness after sort 0.425
+fitness after sort 0.425
+fitness after sort 0.425
+fitness after sort 0.425
+fitness after sort 0.425
+fitness after sort 0.426
+fitness after sort 0.426
+fitness after sort 0.426
+fitness after sort 0.427
+fitness after sort 0.427
+fitness after sort 0.428
+fitness after sort 0.429
+fitness after sort 0.429
+fitness after sort 0.429
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.431
+fitness after sort 0.432
+fitness after sort 0.432
+fitness after sort 0.433
+fitness after sort 0.434
+fitness after sort 0.434
+fitness after sort 0.434
+fitness after sort 0.434
+fitness after sort 0.435
+fitness after sort 0.435
+fitness after sort 0.437
+fitness after sort 0.437
+fitness after sort 0.438
+fitness after sort 0.438
+fitness after sort 0.438
+fitness after sort 0.438
+fitness after sort 0.439
+fitness after sort 0.439
+fitness after sort 0.439
+fitness after sort 0.441
+fitness after sort 0.441
+fitness after sort 0.441
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.443
+fitness after sort 0.443
+fitness after sort 0.443
+fitness after sort 0.444
+fitness after sort 0.446
+fitness after sort 0.446
+fitness after sort 0.447
+fitness after sort 0.448
+fitness after sort 0.449
+fitness after sort 0.45
+fitness after sort 0.45
+fitness after sort 0.452
+fitness after sort 0.452
+fitness after sort 0.453
+fitness after sort 0.454
+fitness after sort 0.455
+fitness after sort 0.455
+fitness after sort 0.456
+fitness after sort 0.456
+fitness after sort 0.456
+fitness after sort 0.459
+fitness after sort 0.46
+fitness after sort 0.461
+fitness after sort 0.469
+fitness after sort 0.481
+
+i've won 414 out of total 999
+
+i've won 424 out of total 999
+
+i've won 438 out of total 999
+
+i've won 421 out of total 999
+
+i've won 461 out of total 999
+
+i've won 421 out of total 999
+
+i've won 424 out of total 999
+
+i've won 439 out of total 999
+
+i've won 432 out of total 999
+
+i've won 470 out of total 999
+
+i've won 444 out of total 999
+
+i've won 455 out of total 999
+
+i've won 445 out of total 999
+
+i've won 438 out of total 999
+
+i've won 426 out of total 999
+
+i've won 429 out of total 999
+
+i've won 467 out of total 999
+
+i've won 421 out of total 999
+
+i've won 442 out of total 999
+
+i've won 423 out of total 999
+
+i've won 427 out of total 999
+
+i've won 474 out of total 999
+
+i've won 450 out of total 999
+
+i've won 447 out of total 999
+
+i've won 444 out of total 999
+
+i've won 427 out of total 999
+
+i've won 438 out of total 999
+
+i've won 448 out of total 999
+
+i've won 409 out of total 999
+
+i've won 487 out of total 999
+
+i've won 449 out of total 999
+
+i've won 437 out of total 999
+
+i've won 467 out of total 999
+
+i've won 442 out of total 999
+
+i've won 451 out of total 999
+
+i've won 447 out of total 999
+
+i've won 423 out of total 999
+
+i've won 432 out of total 999
+
+i've won 453 out of total 999
+
+i've won 474 out of total 999
+
+i've won 467 out of total 999
+
+i've won 432 out of total 999
+
+i've won 435 out of total 999
+
+i've won 459 out of total 999
+
+i've won 443 out of total 999
+
+i've won 413 out of total 999
+
+i've won 458 out of total 999
+
+i've won 432 out of total 999
+
+i've won 460 out of total 999
+
+i've won 460 out of total 999
+
+i've won 426 out of total 999
+
+i've won 430 out of total 999
+
+i've won 412 out of total 999
+
+i've won 427 out of total 999
+
+i've won 434 out of total 999
+
+i've won 425 out of total 999
+
+i've won 439 out of total 999
+
+i've won 458 out of total 999
+
+i've won 445 out of total 999
+
+i've won 443 out of total 999
+
+i've won 428 out of total 999
+
+i've won 446 out of total 999
+
+i've won 443 out of total 999
+
+i've won 467 out of total 999
+
+i've won 419 out of total 999
+
+i've won 444 out of total 999
+
+i've won 454 out of total 999
+
+i've won 445 out of total 999
+
+i've won 439 out of total 999
+
+i've won 445 out of total 999
+
+i've won 423 out of total 999
+
+i've won 436 out of total 999
+
+i've won 461 out of total 999
+
+i've won 432 out of total 999
+
+i've won 434 out of total 999
+
+i've won 419 out of total 999
+
+i've won 430 out of total 999
+
+i've won 432 out of total 999
+
+i've won 440 out of total 999
+
+i've won 442 out of total 999
+
+i've won 455 out of total 999
+
+i've won 470 out of total 999
+
+i've won 427 out of total 999
+
+i've won 442 out of total 999
+
+i've won 440 out of total 999
+
+i've won 448 out of total 999
+
+i've won 434 out of total 999
+
+i've won 470 out of total 999
+
+i've won 445 out of total 999
+
+i've won 412 out of total 999
+
+i've won 446 out of total 999
+
+i've won 418 out of total 999
+
+i've won 421 out of total 999
+
+i've won 431 out of total 999
+
+i've won 453 out of total 999
+
+i've won 426 out of total 999
+
+i've won 425 out of total 999
+
+i've won 428 out of total 999
+
+i've won 430 out of total 999
+
+Generation: 4
+
+fitness after sort 0
+fitness after sort 0.409
+fitness after sort 0.412
+fitness after sort 0.412
+fitness after sort 0.413
+fitness after sort 0.414
+fitness after sort 0.418
+fitness after sort 0.419
+fitness after sort 0.419
+fitness after sort 0.421
+fitness after sort 0.421
+fitness after sort 0.421
+fitness after sort 0.421
+fitness after sort 0.423
+fitness after sort 0.423
+fitness after sort 0.423
+fitness after sort 0.424
+fitness after sort 0.424
+fitness after sort 0.425
+fitness after sort 0.425
+fitness after sort 0.426
+fitness after sort 0.426
+fitness after sort 0.426
+fitness after sort 0.427
+fitness after sort 0.427
+fitness after sort 0.427
+fitness after sort 0.427
+fitness after sort 0.428
+fitness after sort 0.428
+fitness after sort 0.429
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.431
+fitness after sort 0.432
+fitness after sort 0.432
+fitness after sort 0.432
+fitness after sort 0.432
+fitness after sort 0.432
+fitness after sort 0.432
+fitness after sort 0.434
+fitness after sort 0.434
+fitness after sort 0.434
+fitness after sort 0.435
+fitness after sort 0.436
+fitness after sort 0.437
+fitness after sort 0.438
+fitness after sort 0.438
+fitness after sort 0.438
+fitness after sort 0.439
+fitness after sort 0.439
+fitness after sort 0.439
+fitness after sort 0.44
+fitness after sort 0.44
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.443
+fitness after sort 0.443
+fitness after sort 0.443
+fitness after sort 0.444
+fitness after sort 0.444
+fitness after sort 0.444
+fitness after sort 0.445
+fitness after sort 0.445
+fitness after sort 0.445
+fitness after sort 0.445
+fitness after sort 0.445
+fitness after sort 0.446
+fitness after sort 0.446
+fitness after sort 0.447
+fitness after sort 0.447
+fitness after sort 0.448
+fitness after sort 0.448
+fitness after sort 0.449
+fitness after sort 0.45
+fitness after sort 0.451
+fitness after sort 0.453
+fitness after sort 0.453
+fitness after sort 0.454
+fitness after sort 0.455
+fitness after sort 0.455
+fitness after sort 0.458
+fitness after sort 0.458
+fitness after sort 0.459
+fitness after sort 0.46
+fitness after sort 0.46
+fitness after sort 0.461
+fitness after sort 0.461
+fitness after sort 0.467
+fitness after sort 0.467
+fitness after sort 0.467
+fitness after sort 0.467
+fitness after sort 0.47
+fitness after sort 0.47
+fitness after sort 0.47
+fitness after sort 0.474
+fitness after sort 0.474
+fitness after sort 0.487
+
+i've won 474 out of total 999
+
+i've won 425 out of total 999
+
+i've won 427 out of total 999
+
+i've won 473 out of total 999
+
+i've won 439 out of total 999
+
+i've won 450 out of total 999
+
+i've won 436 out of total 999
+
+i've won 442 out of total 999
+
+i've won 445 out of total 999
+
+i've won 428 out of total 999
+
+i've won 459 out of total 999
+
+i've won 442 out of total 999
+
+i've won 444 out of total 999
+
+i've won 410 out of total 999
+
+i've won 463 out of total 999
+
+i've won 428 out of total 999
+
+i've won 422 out of total 999
+
+i've won 455 out of total 999
+
+i've won 422 out of total 999
+
+i've won 409 out of total 999
+
+i've won 444 out of total 999
+
+i've won 441 out of total 999
+
+i've won 460 out of total 999
+
+i've won 442 out of total 999
+
+i've won 459 out of total 999
+
+i've won 423 out of total 999
+
+i've won 433 out of total 999
+
+i've won 433 out of total 999
+
+i've won 439 out of total 999
+
+i've won 457 out of total 999
+
+i've won 451 out of total 999
+
+i've won 457 out of total 999
+
+i've won 425 out of total 999
+
+i've won 446 out of total 999
+
+i've won 424 out of total 999
+
+i've won 417 out of total 999
+
+i've won 433 out of total 999
+
+i've won 434 out of total 999
+
+i've won 446 out of total 999
+
+i've won 450 out of total 999
+
+i've won 434 out of total 999
+
+i've won 429 out of total 999
+
+i've won 457 out of total 999
+
+i've won 448 out of total 999
+
+i've won 451 out of total 999
+
+i've won 467 out of total 999
+
+i've won 420 out of total 999
+
+i've won 448 out of total 999
+
+i've won 442 out of total 999
+
+i've won 417 out of total 999
+
+i've won 471 out of total 999
+
+i've won 473 out of total 999
+
+i've won 431 out of total 999
+
+i've won 450 out of total 999
+
+i've won 454 out of total 999
+
+i've won 428 out of total 999
+
+i've won 454 out of total 999
+
+i've won 442 out of total 999
+
+i've won 421 out of total 999
+
+i've won 420 out of total 999
+
+i've won 449 out of total 999
+
+i've won 453 out of total 999
+
+i've won 419 out of total 999
+
+i've won 442 out of total 999
+
+i've won 426 out of total 999
+
+i've won 436 out of total 999
+
+i've won 439 out of total 999
+
+i've won 450 out of total 999
+
+i've won 450 out of total 999
+
+i've won 423 out of total 999
+
+i've won 434 out of total 999
+
+i've won 453 out of total 999
+
+i've won 438 out of total 999
+
+i've won 408 out of total 999
+
+i've won 461 out of total 999
+
+i've won 432 out of total 999
+
+i've won 445 out of total 999
+
+i've won 435 out of total 999
+
+i've won 423 out of total 999
+
+i've won 443 out of total 999
+
+i've won 463 out of total 999
+
+i've won 476 out of total 999
+
+i've won 448 out of total 999
+
+i've won 452 out of total 999
+
+i've won 461 out of total 999
+
+i've won 456 out of total 999
+
+i've won 454 out of total 999
+
+i've won 462 out of total 999
+
+i've won 433 out of total 999
+
+i've won 443 out of total 999
+
+i've won 467 out of total 999
+
+i've won 440 out of total 999
+
+i've won 413 out of total 999
+
+i've won 448 out of total 999
+
+i've won 404 out of total 999
+
+i've won 425 out of total 999
+
+i've won 432 out of total 999
+
+i've won 450 out of total 999
+
+i've won 445 out of total 999
+
+Generation: 5
+
+fitness after sort 0
+fitness after sort 0.404
+fitness after sort 0.408
+fitness after sort 0.409
+fitness after sort 0.41
+fitness after sort 0.413
+fitness after sort 0.417
+fitness after sort 0.417
+fitness after sort 0.419
+fitness after sort 0.42
+fitness after sort 0.42
+fitness after sort 0.421
+fitness after sort 0.422
+fitness after sort 0.422
+fitness after sort 0.423
+fitness after sort 0.423
+fitness after sort 0.423
+fitness after sort 0.424
+fitness after sort 0.425
+fitness after sort 0.425
+fitness after sort 0.425
+fitness after sort 0.426
+fitness after sort 0.427
+fitness after sort 0.428
+fitness after sort 0.428
+fitness after sort 0.428
+fitness after sort 0.429
+fitness after sort 0.431
+fitness after sort 0.432
+fitness after sort 0.432
+fitness after sort 0.433
+fitness after sort 0.433
+fitness after sort 0.433
+fitness after sort 0.433
+fitness after sort 0.434
+fitness after sort 0.434
+fitness after sort 0.434
+fitness after sort 0.435
+fitness after sort 0.436
+fitness after sort 0.436
+fitness after sort 0.438
+fitness after sort 0.439
+fitness after sort 0.439
+fitness after sort 0.439
+fitness after sort 0.44
+fitness after sort 0.441
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.443
+fitness after sort 0.443
+fitness after sort 0.444
+fitness after sort 0.444
+fitness after sort 0.445
+fitness after sort 0.445
+fitness after sort 0.445
+fitness after sort 0.446
+fitness after sort 0.446
+fitness after sort 0.448
+fitness after sort 0.448
+fitness after sort 0.448
+fitness after sort 0.448
+fitness after sort 0.449
+fitness after sort 0.45
+fitness after sort 0.45
+fitness after sort 0.45
+fitness after sort 0.45
+fitness after sort 0.45
+fitness after sort 0.45
+fitness after sort 0.451
+fitness after sort 0.451
+fitness after sort 0.452
+fitness after sort 0.453
+fitness after sort 0.453
+fitness after sort 0.454
+fitness after sort 0.454
+fitness after sort 0.454
+fitness after sort 0.455
+fitness after sort 0.456
+fitness after sort 0.457
+fitness after sort 0.457
+fitness after sort 0.457
+fitness after sort 0.459
+fitness after sort 0.459
+fitness after sort 0.46
+fitness after sort 0.461
+fitness after sort 0.461
+fitness after sort 0.462
+fitness after sort 0.463
+fitness after sort 0.463
+fitness after sort 0.467
+fitness after sort 0.467
+fitness after sort 0.471
+fitness after sort 0.473
+fitness after sort 0.473
+fitness after sort 0.474
+fitness after sort 0.476
+
+i've won 450 out of total 999
+
+i've won 466 out of total 999
+
+i've won 467 out of total 999
+
+i've won 454 out of total 999
+
+i've won 437 out of total 999
+
+i've won 418 out of total 999
+
+i've won 449 out of total 999
+
+i've won 444 out of total 999
+
+i've won 435 out of total 999
+
+i've won 444 out of total 999
+
+i've won 452 out of total 999
+
+i've won 426 out of total 999
+
+i've won 460 out of total 999
+
+i've won 441 out of total 999
+
+i've won 438 out of total 999
+
+i've won 448 out of total 999
+
+i've won 435 out of total 999
+
+i've won 451 out of total 999
+
+i've won 447 out of total 999
+
+i've won 458 out of total 999
+
+i've won 417 out of total 999
+
+i've won 427 out of total 999
+
+i've won 436 out of total 999
+
+i've won 419 out of total 999
+
+i've won 454 out of total 999
+
+i've won 437 out of total 999
+
+i've won 428 out of total 999
+
+i've won 412 out of total 999
+
+i've won 437 out of total 999
+
+i've won 436 out of total 999
+
+i've won 448 out of total 999
+
+i've won 434 out of total 999
+
+i've won 444 out of total 999
+
+i've won 446 out of total 999
+
+i've won 442 out of total 999
+
+i've won 460 out of total 999
+
+i've won 428 out of total 999
+
+i've won 446 out of total 999
+
+i've won 450 out of total 999
+
+i've won 442 out of total 999
+
+i've won 423 out of total 999
+
+i've won 445 out of total 999
+
+i've won 457 out of total 999
+
+i've won 414 out of total 999
+
+i've won 449 out of total 999
+
+i've won 440 out of total 999
+
+i've won 431 out of total 999
+
+i've won 447 out of total 999
+
+i've won 432 out of total 999
+
+i've won 428 out of total 999
+
+i've won 442 out of total 999
+
+i've won 434 out of total 999
+
+i've won 453 out of total 999
+
+i've won 422 out of total 999
+
+i've won 436 out of total 999
+
+i've won 416 out of total 999
+
+i've won 421 out of total 999
+
+i've won 445 out of total 999
+
+i've won 436 out of total 999
+
+i've won 470 out of total 999
+
+i've won 453 out of total 999
+
+i've won 450 out of total 999
+
+i've won 459 out of total 999
+
+i've won 409 out of total 999
+
+i've won 469 out of total 999
+
+i've won 457 out of total 999
+
+i've won 421 out of total 999
+
+i've won 449 out of total 999
+
+i've won 466 out of total 999
+
+i've won 445 out of total 999
+
+i've won 458 out of total 999
+
+i've won 454 out of total 999
+
+i've won 411 out of total 999
+
+i've won 462 out of total 999
+
+i've won 463 out of total 999
+
+i've won 425 out of total 999
+
+i've won 428 out of total 999
+
+i've won 437 out of total 999
+
+i've won 407 out of total 999
+
+i've won 426 out of total 999
+
+i've won 450 out of total 999
+
+i've won 405 out of total 999
+
+i've won 450 out of total 999
+
+i've won 428 out of total 999
+
+i've won 413 out of total 999
+
+i've won 436 out of total 999
+
+i've won 440 out of total 999
+
+i've won 449 out of total 999
+
+i've won 444 out of total 999
+
+i've won 446 out of total 999
+
+i've won 431 out of total 999
+
+i've won 442 out of total 999
+
+i've won 401 out of total 999
+
+i've won 437 out of total 999
+
+i've won 435 out of total 999
+
+i've won 420 out of total 999
+
+i've won 424 out of total 999
+
+i've won 443 out of total 999
+
+i've won 437 out of total 999
+
+Generation: 6
+
+fitness after sort 0
+fitness after sort 0.401
+fitness after sort 0.405
+fitness after sort 0.407
+fitness after sort 0.409
+fitness after sort 0.411
+fitness after sort 0.412
+fitness after sort 0.413
+fitness after sort 0.414
+fitness after sort 0.416
+fitness after sort 0.417
+fitness after sort 0.418
+fitness after sort 0.419
+fitness after sort 0.42
+fitness after sort 0.421
+fitness after sort 0.421
+fitness after sort 0.422
+fitness after sort 0.423
+fitness after sort 0.424
+fitness after sort 0.425
+fitness after sort 0.426
+fitness after sort 0.426
+fitness after sort 0.427
+fitness after sort 0.428
+fitness after sort 0.428
+fitness after sort 0.428
+fitness after sort 0.428
+fitness after sort 0.428
+fitness after sort 0.431
+fitness after sort 0.431
+fitness after sort 0.432
+fitness after sort 0.434
+fitness after sort 0.434
+fitness after sort 0.435
+fitness after sort 0.435
+fitness after sort 0.435
+fitness after sort 0.436
+fitness after sort 0.436
+fitness after sort 0.436
+fitness after sort 0.436
+fitness after sort 0.436
+fitness after sort 0.437
+fitness after sort 0.437
+fitness after sort 0.437
+fitness after sort 0.437
+fitness after sort 0.437
+fitness after sort 0.437
+fitness after sort 0.438
+fitness after sort 0.44
+fitness after sort 0.44
+fitness after sort 0.441
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.443
+fitness after sort 0.444
+fitness after sort 0.444
+fitness after sort 0.444
+fitness after sort 0.444
+fitness after sort 0.445
+fitness after sort 0.445
+fitness after sort 0.445
+fitness after sort 0.446
+fitness after sort 0.446
+fitness after sort 0.446
+fitness after sort 0.447
+fitness after sort 0.447
+fitness after sort 0.448
+fitness after sort 0.448
+fitness after sort 0.449
+fitness after sort 0.449
+fitness after sort 0.449
+fitness after sort 0.449
+fitness after sort 0.45
+fitness after sort 0.45
+fitness after sort 0.45
+fitness after sort 0.45
+fitness after sort 0.45
+fitness after sort 0.451
+fitness after sort 0.452
+fitness after sort 0.453
+fitness after sort 0.453
+fitness after sort 0.454
+fitness after sort 0.454
+fitness after sort 0.454
+fitness after sort 0.457
+fitness after sort 0.457
+fitness after sort 0.458
+fitness after sort 0.458
+fitness after sort 0.459
+fitness after sort 0.46
+fitness after sort 0.46
+fitness after sort 0.462
+fitness after sort 0.463
+fitness after sort 0.466
+fitness after sort 0.466
+fitness after sort 0.467
+fitness after sort 0.469
+fitness after sort 0.47
+
+i've won 458 out of total 999
+
+i've won 454 out of total 999
+
+i've won 441 out of total 999
+
+i've won 451 out of total 999
+
+i've won 442 out of total 999
+
+i've won 458 out of total 999
+
+i've won 457 out of total 999
+
+i've won 424 out of total 999
+
+i've won 451 out of total 999
+
+i've won 465 out of total 999
+
+i've won 442 out of total 999
+
+i've won 458 out of total 999
+
+i've won 452 out of total 999
+
+i've won 439 out of total 999
+
+i've won 463 out of total 999
+
+i've won 446 out of total 999
+
+i've won 414 out of total 999
+
+i've won 419 out of total 999
+
+i've won 422 out of total 999
+
+i've won 430 out of total 999
+
+i've won 444 out of total 999
+
+i've won 441 out of total 999
+
+i've won 457 out of total 999
+
+i've won 441 out of total 999
+
+i've won 438 out of total 999
+
+i've won 428 out of total 999
+
+i've won 490 out of total 999
+
+i've won 469 out of total 999
+
+i've won 431 out of total 999
+
+i've won 423 out of total 999
+
+i've won 441 out of total 999
+
+i've won 423 out of total 999
+
+i've won 431 out of total 999
+
+i've won 442 out of total 999
+
+i've won 467 out of total 999
+
+i've won 437 out of total 999
+
+i've won 438 out of total 999
+
+i've won 408 out of total 999
+
+i've won 418 out of total 999
+
+i've won 423 out of total 999
+
+i've won 433 out of total 999
+
+i've won 432 out of total 999
+
+i've won 436 out of total 999
+
+i've won 462 out of total 999
+
+i've won 454 out of total 999
+
+i've won 431 out of total 999
+
+i've won 423 out of total 999
+
+i've won 438 out of total 999
+
+i've won 442 out of total 999
+
+i've won 423 out of total 999
+
+i've won 440 out of total 999
+
+i've won 446 out of total 999
+
+i've won 452 out of total 999
+
+i've won 408 out of total 999
+
+i've won 450 out of total 999
+
+i've won 437 out of total 999
+
+i've won 443 out of total 999
+
+i've won 450 out of total 999
+
+i've won 417 out of total 999
+
+i've won 450 out of total 999
+
+i've won 458 out of total 999
+
+i've won 452 out of total 999
+
+i've won 439 out of total 999
+
+i've won 446 out of total 999
+
+i've won 414 out of total 999
+
+i've won 442 out of total 999
+
+i've won 431 out of total 999
+
+i've won 408 out of total 999
+
+i've won 446 out of total 999
+
+i've won 435 out of total 999
+
+i've won 435 out of total 999
+
+i've won 438 out of total 999
+
+i've won 412 out of total 999
+
+i've won 415 out of total 999
+
+i've won 457 out of total 999
+
+i've won 430 out of total 999
+
+i've won 443 out of total 999
+
+i've won 441 out of total 999
+
+i've won 444 out of total 999
+
+i've won 465 out of total 999
+
+i've won 447 out of total 999
+
+i've won 418 out of total 999
+
+i've won 427 out of total 999
+
+i've won 428 out of total 999
+
+i've won 430 out of total 999
+
+i've won 432 out of total 999
+
+i've won 457 out of total 999
+
+i've won 428 out of total 999
+
+i've won 460 out of total 999
+
+i've won 444 out of total 999
+
+i've won 443 out of total 999
+
+i've won 434 out of total 999
+
+i've won 443 out of total 999
+
+i've won 459 out of total 999
+
+i've won 456 out of total 999
+
+i've won 437 out of total 999
+
+i've won 433 out of total 999
+
+i've won 439 out of total 999
+
+i've won 441 out of total 999
+
+Generation: 7
+
+fitness after sort 0
+fitness after sort 0.408
+fitness after sort 0.408
+fitness after sort 0.408
+fitness after sort 0.412
+fitness after sort 0.414
+fitness after sort 0.414
+fitness after sort 0.415
+fitness after sort 0.417
+fitness after sort 0.418
+fitness after sort 0.418
+fitness after sort 0.419
+fitness after sort 0.422
+fitness after sort 0.423
+fitness after sort 0.423
+fitness after sort 0.423
+fitness after sort 0.423
+fitness after sort 0.423
+fitness after sort 0.424
+fitness after sort 0.427
+fitness after sort 0.428
+fitness after sort 0.428
+fitness after sort 0.428
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.431
+fitness after sort 0.431
+fitness after sort 0.431
+fitness after sort 0.431
+fitness after sort 0.432
+fitness after sort 0.432
+fitness after sort 0.433
+fitness after sort 0.433
+fitness after sort 0.434
+fitness after sort 0.435
+fitness after sort 0.435
+fitness after sort 0.436
+fitness after sort 0.437
+fitness after sort 0.437
+fitness after sort 0.437
+fitness after sort 0.438
+fitness after sort 0.438
+fitness after sort 0.438
+fitness after sort 0.438
+fitness after sort 0.439
+fitness after sort 0.439
+fitness after sort 0.439
+fitness after sort 0.44
+fitness after sort 0.441
+fitness after sort 0.441
+fitness after sort 0.441
+fitness after sort 0.441
+fitness after sort 0.441
+fitness after sort 0.441
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.443
+fitness after sort 0.443
+fitness after sort 0.443
+fitness after sort 0.443
+fitness after sort 0.444
+fitness after sort 0.444
+fitness after sort 0.444
+fitness after sort 0.446
+fitness after sort 0.446
+fitness after sort 0.446
+fitness after sort 0.446
+fitness after sort 0.447
+fitness after sort 0.45
+fitness after sort 0.45
+fitness after sort 0.45
+fitness after sort 0.451
+fitness after sort 0.451
+fitness after sort 0.452
+fitness after sort 0.452
+fitness after sort 0.452
+fitness after sort 0.454
+fitness after sort 0.454
+fitness after sort 0.456
+fitness after sort 0.457
+fitness after sort 0.457
+fitness after sort 0.457
+fitness after sort 0.457
+fitness after sort 0.458
+fitness after sort 0.458
+fitness after sort 0.458
+fitness after sort 0.458
+fitness after sort 0.459
+fitness after sort 0.46
+fitness after sort 0.462
+fitness after sort 0.463
+fitness after sort 0.465
+fitness after sort 0.465
+fitness after sort 0.467
+fitness after sort 0.469
+fitness after sort 0.49
+
+i've won 469 out of total 999
+
+i've won 415 out of total 999
+
+i've won 471 out of total 999
+
+i've won 421 out of total 999
+
+i've won 427 out of total 999
+
+i've won 441 out of total 999
+
+i've won 441 out of total 999
+
+i've won 427 out of total 999
+
+i've won 430 out of total 999
+
+i've won 413 out of total 999
+
+i've won 447 out of total 999
+
+i've won 431 out of total 999
+
+i've won 418 out of total 999
+
+i've won 438 out of total 999
+
+i've won 439 out of total 999
+
+i've won 455 out of total 999
+
+i've won 425 out of total 999
+
+i've won 419 out of total 999
+
+i've won 447 out of total 999
+
+i've won 426 out of total 999
+
+i've won 422 out of total 999
+
+i've won 425 out of total 999
+
+i've won 438 out of total 999
+
+i've won 442 out of total 999
+
+i've won 474 out of total 999
+
+i've won 447 out of total 999
+
+i've won 402 out of total 999
+
+i've won 430 out of total 999
+
+i've won 447 out of total 999
+
+i've won 452 out of total 999
+
+i've won 467 out of total 999
+
+i've won 442 out of total 999
+
+i've won 442 out of total 999
+
+i've won 449 out of total 999
+
+i've won 426 out of total 999
+
+i've won 437 out of total 999
+
+i've won 435 out of total 999
+
+i've won 447 out of total 999
+
+i've won 481 out of total 999
+
+i've won 433 out of total 999
+
+i've won 440 out of total 999
+
+i've won 438 out of total 999
+
+i've won 442 out of total 999
+
+i've won 461 out of total 999
+
+i've won 436 out of total 999
+
+i've won 434 out of total 999
+
+i've won 442 out of total 999
+
+i've won 433 out of total 999
+
+i've won 435 out of total 999
+
+i've won 420 out of total 999
+
+i've won 433 out of total 999
+
+i've won 405 out of total 999
+
+i've won 445 out of total 999
+
+i've won 415 out of total 999
+
+i've won 460 out of total 999
+
+i've won 446 out of total 999
+
+i've won 440 out of total 999
+
+i've won 449 out of total 999
+
+i've won 444 out of total 999
+
+i've won 450 out of total 999
+
+i've won 431 out of total 999
+
+i've won 467 out of total 999
+
+i've won 437 out of total 999
+
+i've won 438 out of total 999
+
+i've won 467 out of total 999
+
+i've won 461 out of total 999
+
+i've won 428 out of total 999
+
+i've won 468 out of total 999
+
+i've won 439 out of total 999
+
+i've won 438 out of total 999
+
+i've won 457 out of total 999
+
+i've won 422 out of total 999
+
+i've won 418 out of total 999
+
+i've won 441 out of total 999
+
+i've won 447 out of total 999
+
+i've won 476 out of total 999
+
+i've won 442 out of total 999
+
+i've won 451 out of total 999
+
+i've won 451 out of total 999
+
+i've won 402 out of total 999
+
+i've won 453 out of total 999
+
+i've won 414 out of total 999
+
+i've won 432 out of total 999
+
+i've won 421 out of total 999
+
+i've won 446 out of total 999
+
+i've won 455 out of total 999
+
+i've won 448 out of total 999
+
+i've won 415 out of total 999
+
+i've won 424 out of total 999
+
+i've won 457 out of total 999
+
+i've won 450 out of total 999
+
+i've won 448 out of total 999
+
+i've won 460 out of total 999
+
+i've won 451 out of total 999
+
+i've won 445 out of total 999
+
+i've won 431 out of total 999
+
+i've won 448 out of total 999
+
+i've won 445 out of total 999
+
+i've won 433 out of total 999
+
+Generation: 8
+
+fitness after sort 0
+fitness after sort 0.402
+fitness after sort 0.402
+fitness after sort 0.405
+fitness after sort 0.413
+fitness after sort 0.414
+fitness after sort 0.415
+fitness after sort 0.415
+fitness after sort 0.415
+fitness after sort 0.418
+fitness after sort 0.418
+fitness after sort 0.419
+fitness after sort 0.42
+fitness after sort 0.421
+fitness after sort 0.421
+fitness after sort 0.422
+fitness after sort 0.422
+fitness after sort 0.424
+fitness after sort 0.425
+fitness after sort 0.425
+fitness after sort 0.426
+fitness after sort 0.426
+fitness after sort 0.427
+fitness after sort 0.427
+fitness after sort 0.428
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.431
+fitness after sort 0.431
+fitness after sort 0.431
+fitness after sort 0.432
+fitness after sort 0.433
+fitness after sort 0.433
+fitness after sort 0.433
+fitness after sort 0.433
+fitness after sort 0.434
+fitness after sort 0.435
+fitness after sort 0.435
+fitness after sort 0.436
+fitness after sort 0.437
+fitness after sort 0.437
+fitness after sort 0.438
+fitness after sort 0.438
+fitness after sort 0.438
+fitness after sort 0.438
+fitness after sort 0.438
+fitness after sort 0.439
+fitness after sort 0.439
+fitness after sort 0.44
+fitness after sort 0.44
+fitness after sort 0.441
+fitness after sort 0.441
+fitness after sort 0.441
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.444
+fitness after sort 0.445
+fitness after sort 0.445
+fitness after sort 0.445
+fitness after sort 0.446
+fitness after sort 0.446
+fitness after sort 0.447
+fitness after sort 0.447
+fitness after sort 0.447
+fitness after sort 0.447
+fitness after sort 0.447
+fitness after sort 0.447
+fitness after sort 0.448
+fitness after sort 0.448
+fitness after sort 0.448
+fitness after sort 0.449
+fitness after sort 0.449
+fitness after sort 0.45
+fitness after sort 0.45
+fitness after sort 0.451
+fitness after sort 0.451
+fitness after sort 0.451
+fitness after sort 0.452
+fitness after sort 0.453
+fitness after sort 0.455
+fitness after sort 0.455
+fitness after sort 0.457
+fitness after sort 0.457
+fitness after sort 0.46
+fitness after sort 0.46
+fitness after sort 0.461
+fitness after sort 0.461
+fitness after sort 0.467
+fitness after sort 0.467
+fitness after sort 0.467
+fitness after sort 0.468
+fitness after sort 0.469
+fitness after sort 0.471
+fitness after sort 0.474
+fitness after sort 0.476
+fitness after sort 0.481
+
+i've won 458 out of total 999
+
+i've won 414 out of total 999
+
+i've won 441 out of total 999
+
+i've won 435 out of total 999
+
+i've won 449 out of total 999
+
+i've won 463 out of total 999
+
+i've won 436 out of total 999
+
+i've won 421 out of total 999
+
+i've won 439 out of total 999
+
+i've won 450 out of total 999
+
+i've won 427 out of total 999
+
+i've won 406 out of total 999
+
+i've won 440 out of total 999
+
+i've won 456 out of total 999
+
+i've won 428 out of total 999
+
+i've won 429 out of total 999
+
+i've won 434 out of total 999
+
+i've won 431 out of total 999
+
+i've won 454 out of total 999
+
+i've won 473 out of total 999
+
+i've won 446 out of total 999
+
+i've won 455 out of total 999
+
+i've won 438 out of total 999
+
+i've won 448 out of total 999
+
+i've won 422 out of total 999
+
+i've won 431 out of total 999
+
+i've won 428 out of total 999
+
+i've won 455 out of total 999
+
+i've won 426 out of total 999
+
+i've won 421 out of total 999
+
+i've won 453 out of total 999
+
+i've won 425 out of total 999
+
+i've won 429 out of total 999
+
+i've won 445 out of total 999
+
+i've won 467 out of total 999
+
+i've won 434 out of total 999
+
+i've won 451 out of total 999
+
+i've won 459 out of total 999
+
+i've won 464 out of total 999
+
+i've won 451 out of total 999
+
+i've won 449 out of total 999
+
+i've won 443 out of total 999
+
+i've won 439 out of total 999
+
+i've won 443 out of total 999
+
+i've won 439 out of total 999
+
+i've won 453 out of total 999
+
+i've won 450 out of total 999
+
+i've won 446 out of total 999
+
+i've won 430 out of total 999
+
+i've won 442 out of total 999
+
+i've won 435 out of total 999
+
+i've won 435 out of total 999
+
+i've won 425 out of total 999
+
+i've won 434 out of total 999
+
+i've won 442 out of total 999
+
+i've won 442 out of total 999
+
+i've won 441 out of total 999
+
+i've won 434 out of total 999
+
+i've won 460 out of total 999
+
+i've won 424 out of total 999
+
+i've won 437 out of total 999
+
+i've won 430 out of total 999
+
+i've won 438 out of total 999
+
+i've won 444 out of total 999
+
+i've won 446 out of total 999
+
+i've won 464 out of total 999
+
+i've won 439 out of total 999
+
+i've won 423 out of total 999
+
+i've won 439 out of total 999
+
+i've won 485 out of total 999
+
+i've won 415 out of total 999
+
+i've won 449 out of total 999
+
+i've won 429 out of total 999
+
+i've won 430 out of total 999
+
+i've won 428 out of total 999
+
+i've won 426 out of total 999
+
+i've won 446 out of total 999
+
+i've won 443 out of total 999
+
+i've won 451 out of total 999
+
+i've won 436 out of total 999
+
+i've won 414 out of total 999
+
+i've won 421 out of total 999
+
+i've won 449 out of total 999
+
+i've won 435 out of total 999
+
+i've won 471 out of total 999
+
+i've won 412 out of total 999
+
+i've won 462 out of total 999
+
+i've won 436 out of total 999
+
+i've won 441 out of total 999
+
+i've won 453 out of total 999
+
+i've won 457 out of total 999
+
+i've won 460 out of total 999
+
+i've won 450 out of total 999
+
+i've won 448 out of total 999
+
+i've won 441 out of total 999
+
+i've won 444 out of total 999
+
+i've won 466 out of total 999
+
+i've won 428 out of total 999
+
+i've won 413 out of total 999
+
+Generation: 9
+
+fitness after sort 0
+fitness after sort 0.406
+fitness after sort 0.412
+fitness after sort 0.413
+fitness after sort 0.414
+fitness after sort 0.414
+fitness after sort 0.415
+fitness after sort 0.421
+fitness after sort 0.421
+fitness after sort 0.421
+fitness after sort 0.422
+fitness after sort 0.423
+fitness after sort 0.424
+fitness after sort 0.425
+fitness after sort 0.425
+fitness after sort 0.426
+fitness after sort 0.426
+fitness after sort 0.427
+fitness after sort 0.428
+fitness after sort 0.428
+fitness after sort 0.428
+fitness after sort 0.428
+fitness after sort 0.429
+fitness after sort 0.429
+fitness after sort 0.429
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.43
+fitness after sort 0.431
+fitness after sort 0.431
+fitness after sort 0.434
+fitness after sort 0.434
+fitness after sort 0.434
+fitness after sort 0.434
+fitness after sort 0.435
+fitness after sort 0.435
+fitness after sort 0.435
+fitness after sort 0.435
+fitness after sort 0.436
+fitness after sort 0.436
+fitness after sort 0.436
+fitness after sort 0.437
+fitness after sort 0.438
+fitness after sort 0.438
+fitness after sort 0.439
+fitness after sort 0.439
+fitness after sort 0.439
+fitness after sort 0.439
+fitness after sort 0.439
+fitness after sort 0.44
+fitness after sort 0.441
+fitness after sort 0.441
+fitness after sort 0.441
+fitness after sort 0.441
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.442
+fitness after sort 0.443
+fitness after sort 0.443
+fitness after sort 0.443
+fitness after sort 0.444
+fitness after sort 0.444
+fitness after sort 0.445
+fitness after sort 0.446
+fitness after sort 0.446
+fitness after sort 0.446
+fitness after sort 0.446
+fitness after sort 0.448
+fitness after sort 0.448
+fitness after sort 0.449
+fitness after sort 0.449
+fitness after sort 0.449
+fitness after sort 0.449
+fitness after sort 0.45
+fitness after sort 0.45
+fitness after sort 0.45
+fitness after sort 0.451
+fitness after sort 0.451
+fitness after sort 0.451
+fitness after sort 0.453
+fitness after sort 0.453
+fitness after sort 0.453
+fitness after sort 0.454
+fitness after sort 0.455
+fitness after sort 0.455
+fitness after sort 0.456
+fitness after sort 0.457
+fitness after sort 0.458
+fitness after sort 0.459
+fitness after sort 0.46
+fitness after sort 0.46
+fitness after sort 0.462
+fitness after sort 0.463
+fitness after sort 0.464
+fitness after sort 0.464
+fitness after sort 0.466
+fitness after sort 0.467
+fitness after sort 0.471
+fitness after sort 0.473
+fitness after sort 0.485
+
+i've won 449 out of total 999
+
+i've won 431 out of total 999
+
+i've won 476 out of total 999
+
+i've won 440 out of total 999
+
+i've won 425 out of total 999
+
+i've won 427 out of total 999
+
+i've won 444 out of total 999
+
+i've won 449 out of total 999
+
+i've won 462 out of total 999
+
+i've won 445 out of total 999
+
+Chromosone: 0
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 1
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 2
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 3
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 4
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 5
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 6
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 7
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 8
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 9
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 10
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 11
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 12
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 13
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 14
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 15
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 16
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 17
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 18
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 19
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 20
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 21
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 22
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 23
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 24
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 25
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 26
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 27
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 28
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 29
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 30
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 31
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 32
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 33
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 34
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 35
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 36
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 37
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 38
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 39
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 40
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 41
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 42
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 43
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 44
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 45
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 46
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 47
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 48
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 49
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 50
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 51
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 52
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 53
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 54
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 55
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 56
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 57
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 58
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 59
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 60
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 61
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 62
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 63
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 64
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 65
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 66
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 67
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.529248
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.780462
+
+Chromosone: 68
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 69
+	has gene weights :0.804855
+	has gene weights :0.480462
+	has gene weights :0.204855
+	has gene weights :0.129248
+	has gene weights :0.280461
+	has gene weights :0.504855
+	has gene weights :-0.0439316
+	has gene weights :0.180462
+	has gene weights :0.756069
+
+Chromosone: 70
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.529248
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.804855
+
+Chromosone: 71
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.529248
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.780462
+
+Chromosone: 72
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.553641
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.780462
+
+Chromosone: 73
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.529248
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.804855
+
+Chromosone: 74
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.529248
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.804855
+
+Chromosone: 75
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.529248
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.804855
+
+Chromosone: 76
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.553641
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.780462
+
+Chromosone: 77
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.529248
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.804855
+
+Chromosone: 78
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.553641
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.804855
+
+Chromosone: 79
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.529248
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.804855
+
+Chromosone: 80
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.529248
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.780462
+
+Chromosone: 81
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.553641
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.804855
+
+Chromosone: 82
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.529248
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.780462
+
+Chromosone: 83
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.529248
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.780462
+
+Chromosone: 84
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.529248
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.780462
+
+Chromosone: 85
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.529248
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.780462
+
+Chromosone: 86
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.529248
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.780462
+
+Chromosone: 87
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.553641
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.780462
+
+Chromosone: 88
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.553641
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.804855
+
+Chromosone: 89
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.553641
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.780462
+
+Chromosone: 90
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.529248
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.804855
+
+Chromosone: 91
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.553641
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.804855
+
+Chromosone: 92
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.529248
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.804855
+
+Chromosone: 93
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.529248
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.804855
+
+Chromosone: 94
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.529248
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.780462
+
+Chromosone: 95
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.553641
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.804855
+
+Chromosone: 96
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.553641
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.804855
+
+Chromosone: 97
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.553641
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.804855
+
+Chromosone: 98
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.553641
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.804855
+
+Chromosone: 99
+	has gene weights :0.829248
+	has gene weights :0.504855
+	has gene weights :0.229248
+	has gene weights :0.153641
+	has gene weights :0.304855
+	has gene weights :0.529248
+	has gene weights :-0.0195384
+	has gene weights :0.204855
+	has gene weights :0.804855
+
+
+Player 1 won: 199375 times.
+Player 2 won: 189931 times.
+Player 3 won: 191991 times.
